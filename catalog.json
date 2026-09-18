@@ -1,7 +1,13 @@
 {
   "title": "백발백중 X-10 연습",
-  "subtitle": "중2능률·동아 L05–L06 우선 · 짧은 답 · 점수+한국어",
+  "subtitle": "중2능률·동아 L05–L06 우선 · 짧은 답 · 점수+해설",
   "tests": [
+    {
+      "id": "j2-neung-l05-vocab",
+      "title": "중2능률 L05 X-10 어휘 확인",
+      "questionCount": 97,
+      "data": "data/j2-neung-l05-vocab.json"
+    },
     {
       "id": "j2-neung-l05-dialog-blank",
       "title": "중2능률 L05 X-10 대화 빈칸 완성",
@@ -55,6 +61,42 @@
       "title": "중2능률 L05 X-10 최종점검 모의고사 3회",
       "questionCount": 28,
       "data": "data/j2-neung-l05-mock-3.json"
+    },
+    {
+      "id": "j2-neung-l06-vocab",
+      "title": "중2능률 L06 X-10 어휘 확인",
+      "questionCount": 87,
+      "data": "data/j2-neung-l06-vocab.json"
+    },
+    {
+      "id": "j2-neung-l06-dialog-blank",
+      "title": "중2능률 L06 X-10 대화 빈칸 완성",
+      "questionCount": 5,
+      "data": "data/j2-neung-l06-dialog-blank.json"
+    },
+    {
+      "id": "j2-neung-l06-dialog-write",
+      "title": "중2능률 L06 X-10 대화 영작",
+      "questionCount": 5,
+      "data": "data/j2-neung-l06-dialog-write.json"
+    },
+    {
+      "id": "j2-neung-l06-reading-sent",
+      "title": "중2능률 L06 X-10 Reading 문장 완성",
+      "questionCount": 30,
+      "data": "data/j2-neung-l06-reading-sent.json"
+    },
+    {
+      "id": "j2-neung-l06-reading-blank",
+      "title": "중2능률 L06 X-10 Reading 빈칸 완성",
+      "questionCount": 30,
+      "data": "data/j2-neung-l06-reading-blank.json"
+    },
+    {
+      "id": "j2-neung-l06-review",
+      "title": "중2능률 L06 X-10 핵심 문장 Review",
+      "questionCount": 24,
+      "data": "data/j2-neung-l06-review.json"
     },
     {
       "id": "j2-neung-l06-mock-1",
@@ -135,24 +177,6 @@
       "data": "data/j2-donga-l05-mock-3.json"
     },
     {
-      "id": "j1-neung-l01-h1",
-      "title": "중1능률 X-10 모의고사 Lesson 01 ㅎ1",
-      "questionCount": 26,
-      "data": "data/j1-neung-l01-h1.json"
-    },
-    {
-      "id": "j1-neung-l02-h1",
-      "title": "중1능률 X-10 모의고사 Lesson 02 ㅎ1",
-      "questionCount": 25,
-      "data": "data/j1-neung-l02-h1.json"
-    },
-    {
-      "id": "j1-neung-l03-h1",
-      "title": "중1능률 X-10 모의고사 Lesson 03 ㅎ1",
-      "questionCount": 21,
-      "data": "data/j1-neung-l03-h1.json"
-    },
-    {
       "id": "j2-neung-l03-h1",
       "title": "중2능률 X-10 모의고사 Lesson 03 ㅎ1",
       "questionCount": 25,
@@ -175,6 +199,24 @@
       "title": "중2동아 X-10 모의고사 Lesson 04 ㅎ1",
       "questionCount": 23,
       "data": "data/j2-donga-l04-h1.json"
+    },
+    {
+      "id": "j1-neung-l01-h1",
+      "title": "중1능률 X-10 모의고사 Lesson 01 ㅎ1",
+      "questionCount": 26,
+      "data": "data/j1-neung-l01-h1.json"
+    },
+    {
+      "id": "j1-neung-l02-h1",
+      "title": "중1능률 X-10 모의고사 Lesson 02 ㅎ1",
+      "questionCount": 25,
+      "data": "data/j1-neung-l02-h1.json"
+    },
+    {
+      "id": "j1-neung-l03-h1",
+      "title": "중1능률 X-10 모의고사 Lesson 03 ㅎ1",
+      "questionCount": 21,
+      "data": "data/j1-neung-l03-h1.json"
     }
   ]
 }
