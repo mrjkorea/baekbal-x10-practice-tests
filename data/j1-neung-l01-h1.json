@@ -1,0 +1,362 @@
+{
+  "id": "j1-neung-l01-h1",
+  "title": "중1능률 X-10 모의고사 Lesson 01 ㅎ1",
+  "sourceFile": "중1능률_X-10_모의고사_Lesson_01ㅎ1.xlsx",
+  "questionCount": 26,
+  "questions": [
+    {
+      "id": 1,
+      "group": "중1능률-L01-최종1-01",
+      "type": "TMC",
+      "question": "01. 다음 짝지어진 두 단어의 관계가 나머지와 다른 것은?",
+      "answers": [
+        "lucky : unlucky",
+        "train : practice",
+        "different : same",
+        "fun : boring",
+        "hot : cold"
+      ],
+      "corAns": "2",
+      "explainKo": "정답은 2번입니다. (train : practice)"
+    },
+    {
+      "id": 2,
+      "group": "중1능률-L01-최종1-02",
+      "type": "TMC",
+      "question": "02. 다음 중 단어의 영영풀이가 잘못된 것을 고르시오.",
+      "answers": [
+        "subject: a department of knowledge or learning that is studied in school",
+        "sweet: very pretty or cute, or having the taste or flavor of sugar, honey, etc.",
+        "voice: the sounds made through your mouth and throat",
+        "fan: a person who dislikes a famous person",
+        "meat: the flesh of animals used as food"
+      ],
+      "corAns": "4",
+      "explainKo": "정답은 4번입니다. (fan: a person who dislikes a famous person)"
+    },
+    {
+      "id": 3,
+      "group": "중1능률-L01-최종1-03",
+      "type": "TMC",
+      "question": "03. 다음 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것은?\n• Are you ________ this class?\n• Let's go ________ the cafeteria together.\n• Where are you ________, Tom?",
+      "answers": [
+        "in – in – with",
+        "in – to – from",
+        "with – to – for",
+        "in – in – from",
+        "from – to – for"
+      ],
+      "corAns": "2",
+      "explainKo": "정답은 2번입니다. (in – to – from)"
+    },
+    {
+      "id": 4,
+      "group": "중1능률-L01-최종1-04",
+      "type": "TMC",
+      "question": "04. 다음 중 짝지어진 대화가 어색한 것은?",
+      "answers": [
+        "A: Are you in this class? / B: Yes, I'm in class 3.",
+        "A: Hi, I'm Jun. Nice to meet you. / B: Hi, Jun. I'm Hana. How are you?",
+        "A: I like cats. What about you? / B: I like dogs.",
+        "A: Where are you from, Tony? / B: I'm from Canada.",
+        "A: I love rabbits. How about you? / B: Dogs are my favorite animal."
+      ],
+      "corAns": "2",
+      "explainKo": "정답은 2번입니다. (A: Hi, I'm Jun. Nice to meet you. / B: Hi, Jun. I'm Hana. How are you?)"
+    },
+    {
+      "id": 5,
+      "group": "중1능률-L01-최종1-05",
+      "type": "TMC",
+      "question": "[05-06] 다음 대화를 읽고, 물음에 답하시오.\nB: Hi, I'm Jun. Nice to meet you. We're in the same class!\nG: Hi, Jun. I'm Hana. Nice to meet you too!\nB: Hana, what is your favorite animal?\nG: I love rabbits. How about you?\nB: Dogs are my favorite animal. I have two dogs at home.\nG: Really? That's nice.\n05. 위 대화의 밑줄 친 ⓐ(How about you?)와 바꿔 쓸 수 있는 것은?",
+      "answers": [
+        "How are you?",
+        "What do you do?",
+        "How do you do?",
+        "What about you?",
+        "What are you doing?"
+      ],
+      "corAns": "4",
+      "explainKo": "정답은 4번입니다. (What about you?)"
+    },
+    {
+      "id": 6,
+      "group": "중1능률-L01-최종1-06",
+      "type": "TMC",
+      "question": "[05-06] 다음 대화를 읽고, 물음에 답하시오.\nB: Hi, I'm Jun. Nice to meet you. We're in the same class!\nG: Hi, Jun. I'm Hana. Nice to meet you too!\nB: Hana, what is your favorite animal?\nG: I love rabbits. How about you?\nB: Dogs are my favorite animal. I have two dogs at home.\nG: Really? That's nice.\n06. 위 대화의 내용과 일치하는 것은?",
+      "answers": [
+        "하나는 강아지를 좋아한다.",
+        "하나는 집에 토끼 2마리가 있다.",
+        "준은 개를 좋아하지 않는다.",
+        "준은 집에 개가 한 마리 있다.",
+        "하나와 준은 오늘 처음 만났다."
+      ],
+      "corAns": "5",
+      "explainKo": "정답은 5번입니다. (하나와 준은 오늘 처음 만났다.)"
+    },
+    {
+      "id": 7,
+      "group": "중1능률-L01-최종1-07",
+      "type": "TMC",
+      "question": "[07-08] 다음 대화를 읽고, 물음에 답하시오.\nB: Hello, I'm Jiho. Nice to meet you.\nG: Hi, Jiho. I'm Angela. Nice to meet you too.\nB: It's lunchtime! Let's go to the cafeteria together.\nG: Okay. ⓐ What is for lunch today?\nB: Bibimbap! Do you like bibimbap?\nG: Yes. I like Korean food. Bibimbap is my favorite food. What about you?\nB: My ⓑ ________ food is pizza.\n07. 위 대화의 밑줄 친 ⓐ와 바꿔 쓸 수 있는 것은?",
+      "answers": [
+        "Let's go to have lunch.",
+        "When do you have lunch?",
+        "What do we have for lunch?",
+        "Where do you usually eat lunch?",
+        "Which food do you like, pizza or bibimbap?"
+      ],
+      "corAns": "3",
+      "explainKo": "정답은 3번입니다. (What do we have for lunch?)"
+    },
+    {
+      "id": 8,
+      "group": "중1능률-L01-최종1-08",
+      "type": "TST",
+      "question": "[07-08] 다음 대화를 읽고, 물음에 답하시오.\nB: Hello, I'm Jiho. Nice to meet you.\nG: Hi, Jiho. I'm Angela. Nice to meet you too.\nB: It's lunchtime! Let's go to the cafeteria together.\nG: Okay. ⓐ What is for lunch today?\nB: Bibimbap! Do you like bibimbap?\nG: Yes. I like Korean food. Bibimbap is my favorite food. What about you?\nB: My ⓑ ________ food is pizza.\n08. 위 대화의 빈칸 ⓑ에 들어갈 말로 알맞은 말을 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nB: My ⓑ ________ food is pizza.",
+      "answers": [
+        "favorite"
+      ],
+      "explainKo": "정답: favorite"
+    },
+    {
+      "id": 9,
+      "group": "중1능률-L01-최종1-09",
+      "type": "TMC",
+      "question": "09. 다음 빈칸에 들어갈 적절한 것은?\nJina ________ history.",
+      "answers": [
+        "like",
+        "likes",
+        "like is",
+        "is like",
+        "are liking"
+      ],
+      "corAns": "2",
+      "explainKo": "정답은 2번입니다. (likes)"
+    },
+    {
+      "id": 10,
+      "group": "중1능률-L01-최종1-10",
+      "type": "TMC",
+      "question": "10. 다음 중 어법상 틀린 것은?",
+      "answers": [
+        "Peter is in class 3.",
+        "Cathy likes mathematics.",
+        "Teddy know a nice restaurant.",
+        "Bella is Diego's cat.",
+        "Sam is from Canada."
+      ],
+      "corAns": "3",
+      "explainKo": "정답은 3번입니다. (Teddy know a nice restaurant.)"
+    },
+    {
+      "id": 11,
+      "group": "중1능률-L01-최종1-11",
+      "type": "TMC",
+      "question": "11. 다음 중 어법상 올바른 문장끼리 바르게 짝지어진 것은?\nⓐ He doesn't drink juice at night.\nⓑ The New Year began on January 1st every year.\nⓒ They catches the ball quickly.\nⓓ Bill doesn't have much money in his pocket.",
+      "answers": [
+        "ⓐ, ⓒ",
+        "ⓐ, ⓓ",
+        "ⓑ, ⓓ",
+        "ⓐ, ⓑ, ⓓ",
+        "ⓒ, ⓓ"
+      ],
+      "corAns": "2",
+      "explainKo": "정답은 2번입니다. (ⓐ, ⓓ)"
+    },
+    {
+      "id": 12,
+      "group": "중1능률-L01-최종1-12",
+      "type": "TST",
+      "question": "12. 우리말에 맞도록 괄호 안의 단어를 이용하여 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nJenny는 수학을 좋아하지 않는다.\n→ Jenny ________ math. (not, like)",
+      "answers": [
+        "does not like",
+        "doesn't like"
+      ],
+      "explainKo": "정답: does not like"
+    },
+    {
+      "id": 13,
+      "group": "중1능률-L01-최종1-13-1",
+      "type": "TST",
+      "question": "13. 다음 밑줄 친 단어의 알맞은 형태를 순서대로 쓰시오. (필요시 축약형을 쓸 것) 첫 번째 빈칸만 쓰시오.\nRobert (1) be from Australia, and he (2) not like Ladybug's music.",
+      "answers": [
+        "is"
+      ],
+      "explainKo": "정답: is"
+    },
+    {
+      "id": 14,
+      "group": "중1능률-L01-최종1-13-2",
+      "type": "TST",
+      "question": "13. 두 번째 빈칸만 쓰시오.\nRobert is from Australia, and he (2) not like Ladybug's music.",
+      "answers": [
+        "doesn't like",
+        "does not like"
+      ],
+      "explainKo": "정답: doesn't like"
+    },
+    {
+      "id": 15,
+      "group": "중1능률-L01-최종1-14",
+      "type": "TMC",
+      "question": "[14-16] 다음을 읽고 물음에 답하시오.\nHello! My name is Jaeho. (A) I'm from Korea. I'm in the first grade of middle school. Look at my smile! I always smile, so many people like me. ⓐ________ my free time, I play soccer with my friends. I love soccer. I'm ⓑ________ the school soccer club. I also love music. I'm in the singing club too. Both clubs are fun!\n14. 밑줄 친 (A)와 바꿔 쓸 수 있는 말은?\n(A) I'm from Korea.",
+      "answers": [
+        "I'm in Korea.",
+        "I go to Korea.",
+        "I'm not in Korea.",
+        "I come from Korea.",
+        "I want to go Korea."
+      ],
+      "corAns": "4",
+      "explainKo": "정답은 4번입니다. (I come from Korea.)"
+    },
+    {
+      "id": 16,
+      "group": "중1능률-L01-최종1-15",
+      "type": "TST",
+      "question": "[14-16] 다음을 읽고 물음에 답하시오.\nHello! My name is Jaeho. (A) I'm from Korea. I'm in the first grade of middle school. Look at my smile! I always smile, so many people like me. ⓐ________ my free time, I play soccer with my friends. I love soccer. I'm ⓑ________ the school soccer club. I also love music. I'm in the singing club too. Both clubs are fun!\n15. 이 글의 빈칸 ⓐ와 ⓑ에 공통으로 들어갈 알맞은 말을 쓰시오. (대소문자 구분 없이) 빈칸에 들어갈 말만 쓰시오.",
+      "answers": [
+        "in"
+      ],
+      "explainKo": "정답: in"
+    },
+    {
+      "id": 17,
+      "group": "중1능률-L01-최종1-16",
+      "type": "TMC",
+      "question": "[14-16] 다음을 읽고 물음에 답하시오.\nHello! My name is Jaeho. (A) I'm from Korea. I'm in the first grade of middle school. Look at my smile! I always smile, so many people like me. ⓐ________ my free time, I play soccer with my friends. I love soccer. I'm ⓑ________ the school soccer club. I also love music. I'm in the singing club too. Both clubs are fun!\n16. 윗글의 내용과 일치하지 않는 것은?",
+      "answers": [
+        "재호는 중학교 1학년이다.",
+        "많은 사람들이 재호를 좋아한다.",
+        "재호는 시간이 날 때 친구들과 축구를 한다.",
+        "재호는 축구 동아리에 있다.",
+        "재호는 노래 동아리에는 있지 않다."
+      ],
+      "corAns": "5",
+      "explainKo": "정답은 5번입니다. (재호는 노래 동아리에는 있지 않다.)"
+    },
+    {
+      "id": 18,
+      "group": "중1능률-L01-최종1-17",
+      "type": "TMC",
+      "question": "[17-19] 다음을 읽고 물음에 답하시오.\nI'm Amara. I ⓐ live in Thailand. I have a ① warm heart. I often ⓑ help other people and feel ② unhappy. I ⓒ like dancing and exercise. I ⓓ practice dance moves ③ every day. I also ⓔ goes to the ④ gym for exercise. I feel so ⑤ healthy!\n17. 윗글의 밑줄 친 ⓐ~ⓔ 중 어법상 틀린 것은?",
+      "answers": [
+        "ⓐ",
+        "ⓑ",
+        "ⓒ",
+        "ⓓ",
+        "ⓔ"
+      ],
+      "corAns": "5",
+      "explainKo": "정답은 5번입니다. (ⓔ)"
+    },
+    {
+      "id": 19,
+      "group": "중1능률-L01-최종1-18",
+      "type": "TMC",
+      "question": "[17-19] 다음을 읽고 물음에 답하시오.\nI'm Amara. I ⓐ live in Thailand. I have a ① warm heart. I often ⓑ help other people and feel ② unhappy. I ⓒ like dancing and exercise. I ⓓ practice dance moves ③ every day. I also ⓔ goes to the ④ gym for exercise. I feel so ⑤ healthy!\n18. 윗글의 밑줄 친 ①~⑤ 중 글의 흐름상 적절하지 않은 것은?",
+      "answers": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "corAns": "2",
+      "explainKo": "정답은 2번입니다. (②)"
+    },
+    {
+      "id": 20,
+      "group": "중1능률-L01-최종1-19",
+      "type": "TMC",
+      "question": "[17-19] 다음을 읽고 물음에 답하시오.\nI'm Amara. I ⓐ live in Thailand. I have a ① warm heart. I often ⓑ help other people and feel ② unhappy. I ⓒ like dancing and exercise. I ⓓ practice dance moves ③ every day. I also ⓔ goes to the ④ gym for exercise. I feel so ⑤ healthy!\n19. According to the passage, which one is NOT true?",
+      "answers": [
+        "Amara feels healthy.",
+        "Amara has a warm heart.",
+        "Amara likes to dance.",
+        "Amara sometimes practices dance moves.",
+        "Amara goes to the gym for exercise."
+      ],
+      "corAns": "4",
+      "explainKo": "정답은 4번입니다. (Amara sometimes practices dance moves.)"
+    },
+    {
+      "id": 21,
+      "group": "중1능률-L01-최종1-20",
+      "type": "TMC",
+      "question": "[20-22] 다음을 읽고 물음에 답하시오.\nHi! I'm Sophie. Can you guess my country? ① You can see the baguette. ② I live with my family: my mom, dad, and Enzo. ③ Enzo is my twin brother. ④ We are best friends! ⑤ My family loves camping. ⓐ 우리는 매우 자주 캠핑을 갑니다.\n20. 윗글의 ①~⑤ 중 다음 문장이 들어가기에 가장 적절한 곳은?\nYes, I'm from France!",
+      "answers": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "corAns": "2",
+      "explainKo": "정답은 2번입니다. (②)"
+    },
+    {
+      "id": 22,
+      "group": "중1능률-L01-최종1-21",
+      "type": "TST",
+      "question": "[20-22] 다음을 읽고 물음에 답하시오.\nHi! I'm Sophie. Can you guess my country? ① You can see the baguette. ② I live with my family: my mom, dad, and Enzo. ③ Enzo is my twin brother. ④ We are best friends! ⑤ My family loves camping. ⓐ 우리는 매우 자주 캠핑을 갑니다.\n21. 윗글의 밑줄 친 ⓐ의 우리말에 맞도록 주어진 단어들을 순서대로 바르게 배열하시오. 문장 전체를 쓰시오.\nⓐ 우리는 매우 자주 캠핑을 갑니다.\n(camping / often / We / go / very / .)",
+      "answers": [
+        "We go camping very often."
+      ],
+      "explainKo": "정답: We go camping very often."
+    },
+    {
+      "id": 23,
+      "group": "중1능률-L01-최종1-22",
+      "type": "TMC",
+      "question": "[20-22] 다음을 읽고 물음에 답하시오.\nHi! I'm Sophie. Can you guess my country? ① You can see the baguette. ② I live with my family: my mom, dad, and Enzo. ③ Enzo is my twin brother. ④ We are best friends! ⑤ My family loves camping. ⓐ 우리는 매우 자주 캠핑을 갑니다.\n22. 윗글을 읽고 대답할 수 없는 질문은?",
+      "answers": [
+        "Enzo는 누구인가?",
+        "Sophie는 몇 살인가?",
+        "Sophie는 어디 출신인가?",
+        "Sophie의 가족은 무엇을 좋아하는가?",
+        "Sophie의 가족은 몇 명인가?"
+      ],
+      "corAns": "2",
+      "explainKo": "정답은 2번입니다. (Sophie는 몇 살인가?)"
+    },
+    {
+      "id": 24,
+      "group": "중1능률-L01-최종1-23",
+      "type": "TMC",
+      "question": "[23-25] 다음을 읽고 물음에 답하시오.\nI'm Diego. I'm from Mexico. I have ① a cat. ② Her name is Bella. (Meow!) ③ She is so ________! I often take pictures of ④ Bella and post them online. Also, I like ⑤ tacos. ⓑ 나는 때때로 엄마와 함께 그것들을 만든다.\n23. 윗글의 ①~⑤ 중 가리키는 것이 다른 하나는?",
+      "answers": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "corAns": "5",
+      "explainKo": "정답은 5번입니다. (⑤)"
+    },
+    {
+      "id": 25,
+      "group": "중1능률-L01-최종1-24",
+      "type": "TST",
+      "question": "[23-25] 다음을 읽고 물음에 답하시오.\nI'm Diego. I'm from Mexico. I have ① a cat. ② Her name is Bella. (Meow!) ③ She is so ________! I often take pictures of ④ Bella and post them online. Also, I like ⑤ tacos. ⓑ 나는 때때로 엄마와 함께 그것들을 만든다.\n24. 윗글의 빈칸에 들어갈 적절한 말을 주어진 영영풀이를 참고하여 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nvery pretty or cute, or having the taste or flavor of sugar, honey, etc.",
+      "answers": [
+        "sweet"
+      ],
+      "explainKo": "정답: sweet"
+    },
+    {
+      "id": 26,
+      "group": "중1능률-L01-최종1-25",
+      "type": "TST",
+      "question": "[23-25] 다음을 읽고 물음에 답하시오.\nI'm Diego. I'm from Mexico. I have ① a cat. ② Her name is Bella. (Meow!) ③ She is so ________! I often take pictures of ④ Bella and post them online. Also, I like ⑤ tacos. ⓑ 나는 때때로 엄마와 함께 그것들을 만든다.\n25. 윗글의 밑줄 친 ⓑ의 우리말을 조건에 맞게 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nⓑ 나는 때때로 엄마와 함께 그것들을 만든다.",
+      "answers": [
+        "sometimes make them with my mom",
+        "I sometimes make them with my mom.",
+        "sometimes make them with my mom."
+      ],
+      "explainKo": "정답: sometimes make them with my mom"
+    }
+  ]
+}

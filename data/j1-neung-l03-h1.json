@@ -1,0 +1,284 @@
+{
+  "id": "j1-neung-l03-h1",
+  "title": "중1능률 X-10 모의고사 Lesson 03 ㅎ1",
+  "sourceFile": "중1능률_X-10_모의고사_Lesson_03ㅎ1.xlsx",
+  "questionCount": 21,
+  "questions": [
+    {
+      "id": 1,
+      "group": "중1능률-L03-최종1-01",
+      "type": "TMC",
+      "question": "01. 다음 짝지어진 두 단어의 관계가 나머지와 다른 것은?",
+      "answers": [
+        "dangerous : safe",
+        "correct : incorrect",
+        "possible : impossible",
+        "actor : director",
+        "loud : quiet"
+      ],
+      "corAns": "4",
+      "explainKo": "정답은 4번입니다. (actor : director)"
+    },
+    {
+      "id": 2,
+      "group": "중1능률-L03-최종1-02",
+      "type": "TMC",
+      "question": "02. 다음 빈칸에 들어갈 말로 가장 적절한 것은?\n• Is this answer ________?\n• Write the ________ number in your notebook.",
+      "answers": [
+        "small",
+        "cool",
+        "loud",
+        "correct",
+        "sleepy"
+      ],
+      "corAns": "4",
+      "explainKo": "정답은 4번입니다. (correct)"
+    },
+    {
+      "id": 3,
+      "group": "중1능률-L03-최종1-03",
+      "type": "TST",
+      "question": "03. 다음 우리말에 맞도록 빈칸에 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n그 다리는 위험하다.\n→ The bridge is ________.",
+      "answers": [
+        "dangerous"
+      ],
+      "explainKo": "정답: dangerous"
+    },
+    {
+      "id": 4,
+      "group": "중1능률-L03-최종1-04",
+      "type": "TMC",
+      "question": "04. 다음 중 짝지어진 대화가 어색한 것은?\n(답지: 사진 찍는 것에 관심이 있다고 해 놓고 연기자가 되고 싶다고 하는 ⑤)",
+      "answers": [
+        "I'm interested in basketball. So I want to be a basketball player.",
+        "I'm interested in cooking. So I want to be a cook.",
+        "I'm interested in singing. So I want to be a singer.",
+        "I'm interested in science. So I want to be a scientist.",
+        "I'm interested in taking pictures. So I want to be an actor."
+      ],
+      "corAns": "5",
+      "explainKo": "정답은 5번입니다. (I'm interested in taking pictures. So I want to be an actor.)"
+    },
+    {
+      "id": 5,
+      "group": "중1능률-L03-최종1-05",
+      "type": "TMC",
+      "question": "05. According to the dialog about Ben and Taeyeon, which one is NOT true?",
+      "answers": [
+        "Ben은 배우가 되고 싶다.",
+        "Ben은 드라마 동아리에 가입하지 않을 것이다.",
+        "Ben은 학교 동아리 포스터들을 보고 있다.",
+        "태연은 사진 찍는 것에 관심이 있다.",
+        "태연은 사진 동아리에 가입할 수 있다."
+      ],
+      "corAns": "2",
+      "explainKo": "정답은 2번입니다. (Ben은 드라마 동아리에 가입하지 않을 것이다.)"
+    },
+    {
+      "id": 6,
+      "group": "중1능률-L03-최종1-07",
+      "type": "TST",
+      "question": "07. 다음 조건에 맞게 우리말을 영작하시오. 문장 전체를 쓰시오.\n너는 미래에 무엇이 되고 싶니?\n<조건> What + do + 주어 + 동사원형 / want to + 동사원형 / in the future",
+      "answers": [
+        "What do you want to be in the future?"
+      ],
+      "explainKo": "정답: What do you want to be in the future?"
+    },
+    {
+      "id": 7,
+      "group": "중1능률-L03-최종1-08",
+      "type": "TMC",
+      "question": "08. 다음 대화의 빈칸에 들어갈 말로 가장 적절한 것은?\nA: I want to be a doctor in the future.\nB: ________ You can do it!",
+      "answers": [
+        "Not really.",
+        "I'm sorry.",
+        "That's great!",
+        "I don't agree with you.",
+        "You're welcome."
+      ],
+      "corAns": "3",
+      "explainKo": "정답은 3번입니다. (That's great!)"
+    },
+    {
+      "id": 8,
+      "group": "중1능률-L03-최종1-09",
+      "type": "TMC",
+      "question": "09. 다음 중 어법상 틀린 것은?\n(답지: when절 과거 시제 are→were)",
+      "answers": [
+        "I liked English when I was a student.",
+        "When she was young, she lived in Busan.",
+        "They were happy when they met again.",
+        "When we are in middle school, we were in the same class.",
+        "He had three dogs when he was a child."
+      ],
+      "corAns": "4",
+      "explainKo": "정답은 4번입니다. (When we are in middle school, we were in the same class.)"
+    },
+    {
+      "id": 9,
+      "group": "중1능률-L03-최종1-10",
+      "type": "TST",
+      "question": "10. 다음 문장을 과거시제로 바르게 고쳐 빈칸에 알맞은 말을 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nJimin has three dogs.\n→ Jimin ________ three dogs.",
+      "answers": [
+        "had"
+      ],
+      "explainKo": "정답: had"
+    },
+    {
+      "id": 10,
+      "group": "중1능률-L03-최종1-14",
+      "type": "TST",
+      "question": "[14-18] 다음 글을 읽고 물음에 답하시오.\nEunji was in the photography club when we were in middle school. She loved drawing. Now she is a drone photographer.\n14. 글의 전반적인 내용으로 보아 drawing을 바르게 고치면? 고친 말만 쓰시오.",
+      "answers": [
+        "taking",
+        "taking pictures"
+      ],
+      "explainKo": "정답: taking"
+    },
+    {
+      "id": 11,
+      "group": "중1능률-L03-최종1-15",
+      "type": "TST",
+      "question": "[14-18] Now everybody ________ amazing jobs.\n15. 빈칸에 들어갈 알맞은 말을 쓰시오. (everybody + 현재)",
+      "answers": [
+        "has"
+      ],
+      "explainKo": "정답: has"
+    },
+    {
+      "id": 12,
+      "group": "중1능률-L03-최종1-16",
+      "type": "TMC",
+      "question": "[14-18] Now she is a drone photographer.\n16. 은지의 직업으로 알맞은 것은?",
+      "answers": [
+        "teacher",
+        "tour guide",
+        "drone photographer",
+        "dog trainer",
+        "actress"
+      ],
+      "corAns": "3",
+      "explainKo": "정답은 3번입니다. (drone photographer)"
+    },
+    {
+      "id": 13,
+      "group": "중1능률-L03-최종1-17",
+      "type": "TMC",
+      "question": "[14-18] 글쓴이의 심경으로 가장 적절한 것은? (답지: 기대감)",
+      "answers": [
+        "bored",
+        "angry",
+        "excited",
+        "scared",
+        "lonely"
+      ],
+      "corAns": "3",
+      "explainKo": "정답은 3번입니다. (excited)"
+    },
+    {
+      "id": 14,
+      "group": "중1능률-L03-최종1-18",
+      "type": "TMC",
+      "question": "[14-18] 빈칸 (A) '~로서' / (B) '~할 때'에 알맞은 짝은?",
+      "answers": [
+        "as / When",
+        "like / While",
+        "for / When",
+        "as / While",
+        "like / When"
+      ],
+      "corAns": "1",
+      "explainKo": "정답은 1번입니다. (as / When)"
+    },
+    {
+      "id": 15,
+      "group": "중1능률-L03-최종1-19",
+      "type": "TMC",
+      "question": "[19-21] 다음 글을 읽고 물음에 답하시오.\nSohee works as a tour guide. She travels all around the world. But she doesn't leave Korea. How is that possible? She guides tourists in a VR world! When Sohee was in middle school, she liked telling us about interesting places. Now she does the same thing with her tourists. She also takes them to faraway and dangerous places. She even travels to Mars. That sounds ⑤excitingly!\n19. 윗글의 ①~⑤ 중 다음 문장이 들어가기에 가장 적절한 곳은?\nHow is that possible?",
+      "answers": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "corAns": "2",
+      "explainKo": "정답은 2번입니다. (②)"
+    },
+    {
+      "id": 16,
+      "group": "중1능률-L03-최종1-20",
+      "type": "TMC",
+      "question": "[19-21] 다음 글을 읽고 물음에 답하시오.\nSohee works as a tour guide. She travels all around the world. But she doesn't leave Korea. How is that possible? She guides tourists in a VR world! When Sohee was in middle school, she liked telling us about interesting places. Now she does the same thing with her tourists. She also takes them to faraway and dangerous places. She even travels to Mars. That sounds ⑤excitingly!\n20. 윗글의 밑줄 친 ⑤excitingly를 어법상 바르게 고치면?",
+      "answers": [
+        "excited",
+        "exciting",
+        "excitement",
+        "excite",
+        "excites"
+      ],
+      "corAns": "2",
+      "explainKo": "정답은 2번입니다. (exciting)"
+    },
+    {
+      "id": 17,
+      "group": "중1능률-L03-최종1-21",
+      "type": "TMC",
+      "question": "[19-21] 다음 글을 읽고 물음에 답하시오.\nSohee works as a tour guide. She travels all around the world. But she doesn't leave Korea. How is that possible? She guides tourists in a VR world! When Sohee was in middle school, she liked telling us about interesting places. Now she does the same thing with her tourists. She also takes them to faraway and dangerous places. She even travels to Mars. That sounds ⑤excitingly!\n21. 윗글의 내용과 일치하지 않는 것은?",
+      "answers": [
+        "Sohee works as a tour guide.",
+        "She travels all around the world.",
+        "She also leaves Korea.",
+        "She guides tourists in a VR world.",
+        "She even travels to Mars."
+      ],
+      "corAns": "3",
+      "explainKo": "정답은 3번입니다. (She also leaves Korea.)"
+    },
+    {
+      "id": 18,
+      "group": "중1능률-L03-최종1-22",
+      "type": "TST",
+      "question": "[22-25] 다음 글을 읽고 물음에 답하시오.\nHow about Jimin? He was a dog lover and had three dogs. He is a teacher now. But he teaches dogs! He takes care of them and teaches manners to them. ⓐ 그가 개들과 대화를 할 때 그는 특별한 애플리케이션을 이용한다. It translates dog sounds into human language. He feels happy when he understands the dogs.\n22. 다음 영영풀이에 해당하는 단어를 지문에서 찾아 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nthe way of behaving that is considered correct and polite",
+      "answers": [
+        "manners"
+      ],
+      "explainKo": "정답: manners"
+    },
+    {
+      "id": 19,
+      "group": "중1능률-L03-최종1-23",
+      "type": "TMC",
+      "question": "[22-25] 다음 글을 읽고 물음에 답하시오.\nHow about Jimin? He was a dog lover and had three dogs. He is a teacher now. But he teaches dogs! He takes care of them and teaches manners to them. ⓐ 그가 개들과 대화를 할 때 그는 특별한 애플리케이션을 이용한다. It translates dog sounds into human language. He feels happy when he understands the dogs.\n23. 윗글을 읽고 알 수 없는 것은? (답지: 현재 개를 몇 마리 키우는지)",
+      "answers": [
+        "Jimin은 과거에 개 애호가였다.",
+        "Jimin은 과거에 개가 3마리 있었다.",
+        "Jimin은 지금 선생님이다.",
+        "Jimin은 개들에게 매너를 가르친다.",
+        "Jimin은 현재 개를 3마리 키운다."
+      ],
+      "corAns": "5",
+      "explainKo": "정답은 5번입니다. (Jimin은 현재 개를 3마리 키운다.)"
+    },
+    {
+      "id": 20,
+      "group": "중1능률-L03-최종1-24",
+      "type": "TST",
+      "question": "[22-25] 다음 글을 읽고 물음에 답하시오.\nHow about Jimin? He was a dog lover and had three dogs. He is a teacher now. But he teaches dogs! He takes care of them and teaches manners to them. ⓐ 그가 개들과 대화를 할 때 그는 특별한 애플리케이션을 이용한다. It translates dog sounds into human language. He feels happy when he understands the dogs.\n24. 시간의 부사절을 이끄는 접속사로 빈칸에 알맞은 말을 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nHe feels happy ________ he understands the dogs.",
+      "answers": [
+        "when"
+      ],
+      "explainKo": "정답: when"
+    },
+    {
+      "id": 21,
+      "group": "중1능률-L03-최종1-25",
+      "type": "TST",
+      "question": "[22-25] 다음 글을 읽고 물음에 답하시오.\nHow about Jimin? He was a dog lover and had three dogs. He is a teacher now. But he teaches dogs! He takes care of them and teaches manners to them. ⓐ 그가 개들과 대화를 할 때 그는 특별한 애플리케이션을 이용한다. It translates dog sounds into human language. He feels happy when he understands the dogs.\n25. 윗글의 밑줄 친 ⓐ의 우리말 중 'It translates...'에 해당하는 영어 문장을 본문에서 찾아 쓰시오. 문장 전체를 쓰시오.",
+      "answers": [
+        "It translates dog sounds into human language."
+      ],
+      "explainKo": "정답: It translates dog sounds into human language."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>X-10 Quiz</title>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="app">
+    <div class="wrap">
+      <p style="margin:0 0 6px"><a href="index.html" style="color:#9ecbff">← 목록</a></p>
+      <h1 id="title">불러오는 중…</h1>
+      <p id="sub" class="meta" style="color:#cde">제출 후 점수·오답·한국어 해설이 표시됩니다.</p>
+    </div>
+  </header>
+  <main class="wrap">
+    <form id="quiz"></form>
+    <div class="actions" id="actions">
+      <button type="button" class="primary" id="submit">제출하고 채점</button>
+      <button type="button" class="ghost" id="reset">다시 풀기</button>
+    </div>
+    <section id="results" class="hidden"></section>
+    <footer class="site">짧은 정답만 채점합니다. 문장 전체를 길게 쓸 필요 없습니다.</footer>
+  </main>
+  <script src="js/scoring.js"></script>
+  <script src="js/quiz.js"></script>
+</body>
+</html>

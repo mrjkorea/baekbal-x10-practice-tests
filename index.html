@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>백발백중 X-10 모의고사</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="app">
+    <div class="wrap">
+      <h1>백발백중 X-10 모의고사</h1>
+      <p>점수 · 오답 · 한국어 해설 · 짧은 정답만 채점</p>
+    </div>
+  </header>
+  <main class="wrap">
+    <div class="card">
+      <h2>연습 테스트 목록</h2>
+      <p class="meta">LearnWorlds와 같은 문항입니다. 서술형 정답은 짧은 표현만 인정합니다 (대소문자·마침표·공백은 무시).</p>
+    </div>
+    <ul class="test-list" id="list"></ul>
+    <footer class="site">Practice quizzes for Mr. Jay’s students — not an official school site.<br/>
+      Index: <a href="https://mrjkorea.github.io/practice-tests/">practice-tests</a>
+    </footer>
+  </main>
+  <script>
+    fetch('catalog.json').then(r => r.json()).then(cat => {
+      const ul = document.getElementById('list');
+      cat.tests.forEach(t => {
+        const li = document.createElement('li');
+        li.innerHTML = `<div><strong>${t.title}</strong><div class="meta">${t.questionCount}문항</div></div>`;
+        const a = document.createElement('a');
+        a.className = 'go';
+        a.href = `quiz.html?id=${encodeURIComponent(t.id)}`;
+        a.textContent = '시작';
+        li.appendChild(a);
+        ul.appendChild(li);
+      });
+    });
+  </script>
+</body>
+</html>
