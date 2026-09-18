@@ -1,0 +1,903 @@
+{
+  "id": "j2-donga-l05-vocab",
+  "title": "중2동아 L05 X-10 어휘 확인",
+  "sourceFile": "중2동아_L05_X-10_어휘_확인_문제.xlsx",
+  "questionCount": 87,
+  "questions": [
+    {
+      "id": 1,
+      "group": "중2동아-L05-X10어휘-A01-01",
+      "type": "TST",
+      "question": "A01. 다음 영어를 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nexplain",
+      "answers": [
+        "설명하다"
+      ],
+      "explainKo": "정답: 설명하다"
+    },
+    {
+      "id": 2,
+      "group": "중2동아-L05-X10어휘-A02-02",
+      "type": "TST",
+      "question": "A02. 다음 영어를 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nplace",
+      "answers": [
+        "장소; 두다, 놓다",
+        "장소",
+        "두다, 놓다"
+      ],
+      "explainKo": "정답: 장소; 두다, 놓다"
+    },
+    {
+      "id": 3,
+      "group": "중2동아-L05-X10어휘-A03-03",
+      "type": "TST",
+      "question": "A03. 다음 영어를 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nabout",
+      "answers": [
+        "약, 대략; -에 대한[대하여]",
+        "약, 대략",
+        "-에 대한"
+      ],
+      "explainKo": "정답: 약, 대략; -에 대한[대하여]"
+    },
+    {
+      "id": 4,
+      "group": "중2동아-L05-X10어휘-A04-04",
+      "type": "TST",
+      "question": "A04. 다음 영어를 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nartwork",
+      "answers": [
+        "미술품"
+      ],
+      "explainKo": "정답: 미술품"
+    },
+    {
+      "id": 5,
+      "group": "중2동아-L05-X10어휘-A05-05",
+      "type": "TST",
+      "question": "A05. 다음 영어를 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nfew",
+      "answers": [
+        "적은, 약간의",
+        "적은",
+        "약간의"
+      ],
+      "explainKo": "정답: 적은, 약간의"
+    },
+    {
+      "id": 6,
+      "group": "중2동아-L05-X10어휘-A06-06",
+      "type": "TST",
+      "question": "A06. 다음 영어를 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nfast",
+      "answers": [
+        "빠른; 빨리",
+        "빠른",
+        "빨리"
+      ],
+      "explainKo": "정답: 빠른; 빨리"
+    },
+    {
+      "id": 7,
+      "group": "중2동아-L05-X10어휘-A07-07",
+      "type": "TST",
+      "question": "A07. 다음 영어를 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\ncolorful",
+      "answers": [
+        "다채로운"
+      ],
+      "explainKo": "정답: 다채로운"
+    },
+    {
+      "id": 8,
+      "group": "중2동아-L05-X10어휘-A08-08",
+      "type": "TST",
+      "question": "A08. 다음 영어를 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nform",
+      "answers": [
+        "형태, 방식; 구성하다",
+        "형태, 방식",
+        "구성하다"
+      ],
+      "explainKo": "정답: 형태, 방식; 구성하다"
+    },
+    {
+      "id": 9,
+      "group": "중2동아-L05-X10어휘-A09-09",
+      "type": "TST",
+      "question": "A09. 다음 영어를 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\npride",
+      "answers": [
+        "자랑스러움, 자부심",
+        "자랑스러움",
+        "자부심"
+      ],
+      "explainKo": "정답: 자랑스러움, 자부심"
+    },
+    {
+      "id": 10,
+      "group": "중2동아-L05-X10어휘-A10-10",
+      "type": "TST",
+      "question": "A10. 다음 영어를 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nclosely",
+      "answers": [
+        "자세히"
+      ],
+      "explainKo": "정답: 자세히"
+    },
+    {
+      "id": 11,
+      "group": "중2동아-L05-X10어휘-A11-11",
+      "type": "TST",
+      "question": "A11. 다음 영어를 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nsubway",
+      "answers": [
+        "지하철"
+      ],
+      "explainKo": "정답: 지하철"
+    },
+    {
+      "id": 12,
+      "group": "중2동아-L05-X10어휘-A12-12",
+      "type": "TST",
+      "question": "A12. 다음 영어를 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nanyway",
+      "answers": [
+        "그런데, 그건 그렇고"
+      ],
+      "explainKo": "정답: 그런데, 그건 그렇고"
+    },
+    {
+      "id": 13,
+      "group": "중2동아-L05-X10어휘-A13-13",
+      "type": "TST",
+      "question": "A13. 다음 영어를 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\ncinema",
+      "answers": [
+        "영화관"
+      ],
+      "explainKo": "정답: 영화관"
+    },
+    {
+      "id": 14,
+      "group": "중2동아-L05-X10어휘-A14-14",
+      "type": "TST",
+      "question": "A14. 다음 영어를 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\ninternationally",
+      "answers": [
+        "국제적으로"
+      ],
+      "explainKo": "정답: 국제적으로"
+    },
+    {
+      "id": 15,
+      "group": "중2동아-L05-X10어휘-A15-15",
+      "type": "TST",
+      "question": "A15. 다음 영어를 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nfigure",
+      "answers": [
+        "인물 (모습); 수치; 계산",
+        "인물",
+        "수치"
+      ],
+      "explainKo": "정답: 인물 (모습); 수치; 계산"
+    },
+    {
+      "id": 16,
+      "group": "중2동아-L05-X10어휘-A16-16",
+      "type": "TST",
+      "question": "A16. 다음 영어를 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\npleasure",
+      "answers": [
+        "기쁨, 즐거움",
+        "기쁨",
+        "즐거움"
+      ],
+      "explainKo": "정답: 기쁨, 즐거움"
+    },
+    {
+      "id": 17,
+      "group": "중2동아-L05-X10어휘-A17-17",
+      "type": "TST",
+      "question": "A17. 다음 영어를 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\ntiny",
+      "answers": [
+        "아주 작은"
+      ],
+      "explainKo": "정답: 아주 작은"
+    },
+    {
+      "id": 18,
+      "group": "중2동아-L05-X10어휘-A18-18",
+      "type": "TST",
+      "question": "A18. 다음 영어를 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nspray",
+      "answers": [
+        "뿌리다"
+      ],
+      "explainKo": "정답: 뿌리다"
+    },
+    {
+      "id": 19,
+      "group": "중2동아-L05-X10어휘-A19-19",
+      "type": "TST",
+      "question": "A19. 다음 영어를 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nrepresent",
+      "answers": [
+        "나타내다"
+      ],
+      "explainKo": "정답: 나타내다"
+    },
+    {
+      "id": 20,
+      "group": "중2동아-L05-X10어휘-A20-20",
+      "type": "TST",
+      "question": "A20. 다음 영어를 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nchew",
+      "answers": [
+        "(음식을) 씹다",
+        "씹다"
+      ],
+      "explainKo": "정답: (음식을) 씹다"
+    },
+    {
+      "id": 21,
+      "group": "중2동아-L05-X10어휘-B01-21",
+      "type": "TST",
+      "question": "B01. 다음 우리말을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n개인적인, 사적인",
+      "answers": [
+        "personal"
+      ],
+      "explainKo": "정답: personal"
+    },
+    {
+      "id": 22,
+      "group": "중2동아-L05-X10어휘-B02-22",
+      "type": "TST",
+      "question": "B02. 다음 우리말을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n역, 정거장",
+      "answers": [
+        "station"
+      ],
+      "explainKo": "정답: station"
+    },
+    {
+      "id": 23,
+      "group": "중2동아-L05-X10어휘-B03-23",
+      "type": "TST",
+      "question": "B03. 다음 우리말을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n의견",
+      "answers": [
+        "opinion"
+      ],
+      "explainKo": "정답: opinion"
+    },
+    {
+      "id": 24,
+      "group": "중2동아-L05-X10어휘-B04-24",
+      "type": "TST",
+      "question": "B04. 다음 우리말을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n더러운",
+      "answers": [
+        "dirty"
+      ],
+      "explainKo": "정답: dirty"
+    },
+    {
+      "id": 25,
+      "group": "중2동아-L05-X10어휘-B05-25",
+      "type": "TST",
+      "question": "B05. 다음 우리말을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n마지막의",
+      "answers": [
+        "final"
+      ],
+      "explainKo": "정답: final"
+    },
+    {
+      "id": 26,
+      "group": "중2동아-L05-X10어휘-B06-26",
+      "type": "TST",
+      "question": "B06. 다음 우리말을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n점",
+      "answers": [
+        "dot"
+      ],
+      "explainKo": "정답: dot"
+    },
+    {
+      "id": 27,
+      "group": "중2동아-L05-X10어휘-B07-27",
+      "type": "TST",
+      "question": "B07. 다음 우리말을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n잡고 있다; 쥐기, 잡기",
+      "answers": [
+        "hold"
+      ],
+      "explainKo": "정답: hold"
+    },
+    {
+      "id": 28,
+      "group": "중2동아-L05-X10어휘-B08-28",
+      "type": "TST",
+      "question": "B08. 다음 우리말을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n~를 통해",
+      "answers": [
+        "through"
+      ],
+      "explainKo": "정답: through"
+    },
+    {
+      "id": 29,
+      "group": "중2동아-L05-X10어휘-B09-29",
+      "type": "TST",
+      "question": "B09. 다음 우리말을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n단서, 힌트",
+      "answers": [
+        "clue"
+      ],
+      "explainKo": "정답: clue"
+    },
+    {
+      "id": 30,
+      "group": "중2동아-L05-X10어휘-B10-30",
+      "type": "TST",
+      "question": "B10. 다음 우리말을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n완벽한",
+      "answers": [
+        "perfect"
+      ],
+      "explainKo": "정답: perfect"
+    },
+    {
+      "id": 31,
+      "group": "중2동아-L05-X10어휘-B11-31",
+      "type": "TST",
+      "question": "B11. 다음 우리말을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n먼; 멀리(에)",
+      "answers": [
+        "far"
+      ],
+      "explainKo": "정답: far"
+    },
+    {
+      "id": 32,
+      "group": "중2동아-L05-X10어휘-B12-32",
+      "type": "TST",
+      "question": "B12. 다음 우리말을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n잎이 없는",
+      "answers": [
+        "leafless"
+      ],
+      "explainKo": "정답: leafless"
+    },
+    {
+      "id": 33,
+      "group": "중2동아-L05-X10어휘-B13-33",
+      "type": "TST",
+      "question": "B13. 다음 우리말을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n지역",
+      "answers": [
+        "area"
+      ],
+      "explainKo": "정답: area"
+    },
+    {
+      "id": 34,
+      "group": "중2동아-L05-X10어휘-B14-34",
+      "type": "TST",
+      "question": "B14. 다음 우리말을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n활기 넘치는",
+      "answers": [
+        "lively"
+      ],
+      "explainKo": "정답: lively"
+    },
+    {
+      "id": 35,
+      "group": "중2동아-L05-X10어휘-B15-35",
+      "type": "TST",
+      "question": "B15. 다음 우리말을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n현대의",
+      "answers": [
+        "modern"
+      ],
+      "explainKo": "정답: modern"
+    },
+    {
+      "id": 36,
+      "group": "중2동아-L05-X10어휘-B16-36",
+      "type": "TST",
+      "question": "B16. 다음 우리말을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n시골, 전원; 나라",
+      "answers": [
+        "country"
+      ],
+      "explainKo": "정답: country"
+    },
+    {
+      "id": 37,
+      "group": "중2동아-L05-X10어휘-B17-37",
+      "type": "TST",
+      "question": "B17. 다음 우리말을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n~할 수 있는",
+      "answers": [
+        "able"
+      ],
+      "explainKo": "정답: able"
+    },
+    {
+      "id": 38,
+      "group": "중2동아-L05-X10어휘-B18-38",
+      "type": "TST",
+      "question": "B18. 다음 우리말을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n경기장",
+      "answers": [
+        "stadium"
+      ],
+      "explainKo": "정답: stadium"
+    },
+    {
+      "id": 39,
+      "group": "중2동아-L05-X10어휘-B19-39",
+      "type": "TST",
+      "question": "B19. 다음 우리말을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n떨어뜨리다[떨어지다]; 방울; 소량",
+      "answers": [
+        "drop"
+      ],
+      "explainKo": "정답: drop"
+    },
+    {
+      "id": 40,
+      "group": "중2동아-L05-X10어휘-B20-40",
+      "type": "TST",
+      "question": "B20. 다음 우리말을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n세련된, 최신 유행에 밝은",
+      "answers": [
+        "hip"
+      ],
+      "explainKo": "정답: hip"
+    },
+    {
+      "id": 41,
+      "group": "중2동아-L05-X10어휘-C01-41",
+      "type": "TST",
+      "question": "C01. 다음 영어 표현을 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nhave a hard time",
+      "answers": [
+        "어려움을 겪다"
+      ],
+      "explainKo": "정답: 어려움을 겪다"
+    },
+    {
+      "id": 42,
+      "group": "중2동아-L05-X10어휘-C02-42",
+      "type": "TST",
+      "question": "C02. 다음 영어 표현을 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nover here",
+      "answers": [
+        "이쪽으로, 이곳에서는",
+        "이쪽으로"
+      ],
+      "explainKo": "정답: 이쪽으로, 이곳에서는"
+    },
+    {
+      "id": 43,
+      "group": "중2동아-L05-X10어휘-C03-43",
+      "type": "TST",
+      "question": "C03. 다음 영어 표현을 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nlook down",
+      "answers": [
+        "내려다보다"
+      ],
+      "explainKo": "정답: 내려다보다"
+    },
+    {
+      "id": 44,
+      "group": "중2동아-L05-X10어휘-C04-44",
+      "type": "TST",
+      "question": "C04. 다음 영어 표현을 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\non one's right",
+      "answers": [
+        "~의 오른편에",
+        "의 오른편에"
+      ],
+      "explainKo": "정답: ~의 오른편에"
+    },
+    {
+      "id": 45,
+      "group": "중2동아-L05-X10어휘-C05-45",
+      "type": "TST",
+      "question": "C05. 다음 영어 표현을 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nset the table",
+      "answers": [
+        "밥상을 차리다",
+        "상을 차리다"
+      ],
+      "explainKo": "정답: 밥상을 차리다"
+    },
+    {
+      "id": 46,
+      "group": "중2동아-L05-X10어휘-C06-46",
+      "type": "TST",
+      "question": "C06. 다음 영어 표현을 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nbe known for",
+      "answers": [
+        "~로 알려져 있다",
+        "로 알려져 있다"
+      ],
+      "explainKo": "정답: ~로 알려져 있다"
+    },
+    {
+      "id": 47,
+      "group": "중2동아-L05-X10어휘-C07-47",
+      "type": "TST",
+      "question": "C07. 다음 영어 표현을 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nthe best way",
+      "answers": [
+        "최고의 방법"
+      ],
+      "explainKo": "정답: 최고의 방법"
+    },
+    {
+      "id": 48,
+      "group": "중2동아-L05-X10어휘-C08-48",
+      "type": "TST",
+      "question": "C08. 다음 영어 표현을 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\naccording to",
+      "answers": [
+        "~에 따르면",
+        "에 따르면"
+      ],
+      "explainKo": "정답: ~에 따르면"
+    },
+    {
+      "id": 49,
+      "group": "중2동아-L05-X10어휘-C09-49",
+      "type": "TST",
+      "question": "C09. 다음 영어 표현을 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nless than",
+      "answers": [
+        "~보다 적은",
+        "보다 적은"
+      ],
+      "explainKo": "정답: ~보다 적은"
+    },
+    {
+      "id": 50,
+      "group": "중2동아-L05-X10어휘-C10-50",
+      "type": "TST",
+      "question": "C10. 다음 영어 표현을 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nWhy don't you + 동사원형~?",
+      "answers": [
+        "~하는 게 어때?",
+        "하는 게 어때?"
+      ],
+      "explainKo": "정답: ~하는 게 어때?"
+    },
+    {
+      "id": 51,
+      "group": "중2동아-L05-X10어휘-D01-51",
+      "type": "TST",
+      "question": "D01. 다음 우리말 표현을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n~와 동행하다",
+      "answers": [
+        "come with"
+      ],
+      "explainKo": "정답: come with"
+    },
+    {
+      "id": 52,
+      "group": "중2동아-L05-X10어휘-D02-52",
+      "type": "TST",
+      "question": "D02. 다음 우리말 표현을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n미술 박람회",
+      "answers": [
+        "art fair"
+      ],
+      "explainKo": "정답: art fair"
+    },
+    {
+      "id": 53,
+      "group": "중2동아-L05-X10어휘-D03-53",
+      "type": "TST",
+      "question": "D03. 다음 우리말 표현을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n과거에, 이전에",
+      "answers": [
+        "in the past"
+      ],
+      "explainKo": "정답: in the past"
+    },
+    {
+      "id": 54,
+      "group": "중2동아-L05-X10어휘-D04-54",
+      "type": "TST",
+      "question": "D04. 다음 우리말 표현을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n~에 살다",
+      "answers": [
+        "live in"
+      ],
+      "explainKo": "정답: live in"
+    },
+    {
+      "id": 55,
+      "group": "중2동아-L05-X10어휘-D05-55",
+      "type": "TST",
+      "question": "D05. 다음 우리말 표현을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n~로 유명하다",
+      "answers": [
+        "be famous for"
+      ],
+      "explainKo": "정답: be famous for"
+    },
+    {
+      "id": 56,
+      "group": "중2동아-L05-X10어휘-D06-56",
+      "type": "TST",
+      "question": "D06. 다음 우리말 표현을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n(버스, 기차, 비행기 등에서) 내리다",
+      "answers": [
+        "get off"
+      ],
+      "explainKo": "정답: get off"
+    },
+    {
+      "id": 57,
+      "group": "중2동아-L05-X10어휘-D07-57",
+      "type": "TST",
+      "question": "D07. 다음 우리말 표현을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n~에 도착하다",
+      "answers": [
+        "get to"
+      ],
+      "explainKo": "정답: get to"
+    },
+    {
+      "id": 58,
+      "group": "중2동아-L05-X10어휘-D08-58",
+      "type": "TST",
+      "question": "D08. 다음 우리말 표현을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n~옆에",
+      "answers": [
+        "next to"
+      ],
+      "explainKo": "정답: next to"
+    },
+    {
+      "id": 59,
+      "group": "중2동아-L05-X10어휘-D09-59",
+      "type": "TST",
+      "question": "D09. 다음 우리말 표현을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n~를 보살피다",
+      "answers": [
+        "take care of"
+      ],
+      "explainKo": "정답: take care of"
+    },
+    {
+      "id": 60,
+      "group": "중2동아-L05-X10어휘-D10-60",
+      "type": "TST",
+      "question": "D10. 다음 우리말 표현을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n보다시피",
+      "answers": [
+        "as you can see"
+      ],
+      "explainKo": "정답: as you can see"
+    },
+    {
+      "id": 61,
+      "group": "중2동아-L05-X10어휘-E01-61",
+      "type": "TST",
+      "question": "E01. 보기에서 골라 빈칸에 들어갈 적절한 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n보기: lively, artwork, drop, figure, opinion, chew, final, tiny, closely, represent\nThe ______ score made our team champions.",
+      "answers": [
+        "final"
+      ],
+      "explainKo": "정답: final"
+    },
+    {
+      "id": 62,
+      "group": "중2동아-L05-X10어휘-E02-62",
+      "type": "TST",
+      "question": "E02. 보기에서 골라 빈칸에 들어갈 적절한 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n보기: lively, artwork, drop, figure, opinion, chew, final, tiny, closely, represent\nThere are ______ pieces of glass on the ground.",
+      "answers": [
+        "tiny"
+      ],
+      "explainKo": "정답: tiny"
+    },
+    {
+      "id": 63,
+      "group": "중2동아-L05-X10어휘-E03-63",
+      "type": "TST",
+      "question": "E03. 보기에서 골라 빈칸에 들어갈 적절한 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n보기: lively, artwork, drop, figure, opinion, chew, final, tiny, closely, represent\nThe ______ in the picture looks sad.",
+      "answers": [
+        "figure"
+      ],
+      "explainKo": "정답: figure"
+    },
+    {
+      "id": 64,
+      "group": "중2동아-L05-X10어휘-E04-64",
+      "type": "TST",
+      "question": "E04. 보기에서 골라 빈칸에 들어갈 적절한 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n보기: lively, artwork, drop, figure, opinion, chew, final, tiny, closely, represent\nWhat's your ______ on the new school rule?",
+      "answers": [
+        "opinion"
+      ],
+      "explainKo": "정답: opinion"
+    },
+    {
+      "id": 65,
+      "group": "중2동아-L05-X10어휘-E05-65",
+      "type": "TST",
+      "question": "E05. 보기에서 골라 빈칸에 들어갈 적절한 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n보기: lively, artwork, drop, figure, opinion, chew, final, tiny, closely, represent\nPlease ______ your food slowly.",
+      "answers": [
+        "chew"
+      ],
+      "explainKo": "정답: chew"
+    },
+    {
+      "id": 66,
+      "group": "중2동아-L05-X10어휘-E06-66",
+      "type": "TST",
+      "question": "E06. 보기에서 골라 빈칸에 들어갈 적절한 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n보기: lively, artwork, drop, figure, opinion, chew, final, tiny, closely, represent\nThese colors ______ different teams in the game.",
+      "answers": [
+        "represent"
+      ],
+      "explainKo": "정답: represent"
+    },
+    {
+      "id": 67,
+      "group": "중2동아-L05-X10어휘-E07-67",
+      "type": "TST",
+      "question": "E07. 보기에서 골라 빈칸에 들어갈 적절한 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n보기: lively, artwork, drop, figure, opinion, chew, final, tiny, closely, represent\nThe beach was ______ during summer vacation.",
+      "answers": [
+        "lively"
+      ],
+      "explainKo": "정답: lively"
+    },
+    {
+      "id": 68,
+      "group": "중2동아-L05-X10어휘-F01-68",
+      "type": "TST",
+      "question": "F01. 다음 영영풀이에 해당하는 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\na painting, drawing, or other piece of creative, visual art",
+      "answers": [
+        "artwork"
+      ],
+      "explainKo": "정답: artwork"
+    },
+    {
+      "id": 69,
+      "group": "중2동아-L05-X10어휘-F02-69",
+      "type": "TST",
+      "question": "F02. 다음 영영풀이에 해당하는 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\na way of thinking about something",
+      "answers": [
+        "opinion"
+      ],
+      "explainKo": "정답: opinion"
+    },
+    {
+      "id": 70,
+      "group": "중2동아-L05-X10어휘-F03-70",
+      "type": "TST",
+      "question": "F03. 다음 영영풀이에 해당하는 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nrelated to the present times",
+      "answers": [
+        "modern"
+      ],
+      "explainKo": "정답: modern"
+    },
+    {
+      "id": 71,
+      "group": "중2동아-L05-X10어휘-F04-71",
+      "type": "TST",
+      "question": "F04. 다음 영영풀이에 해당하는 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nhappening or coming at the end",
+      "answers": [
+        "final"
+      ],
+      "explainKo": "정답: final"
+    },
+    {
+      "id": 72,
+      "group": "중2동아-L05-X10어휘-F05-72",
+      "type": "TST",
+      "question": "F05. 다음 영영풀이에 해당하는 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nvery popular and fashionable",
+      "answers": [
+        "hip"
+      ],
+      "explainKo": "정답: hip"
+    },
+    {
+      "id": 73,
+      "group": "중2동아-L05-X10어휘-F06-73",
+      "type": "TST",
+      "question": "F06. 다음 영영풀이에 해당하는 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nto make something easy to understand",
+      "answers": [
+        "explain"
+      ],
+      "explainKo": "정답: explain"
+    },
+    {
+      "id": 74,
+      "group": "중2동아-L05-X10어휘-F07-74",
+      "type": "TST",
+      "question": "F07. 다음 영영풀이에 해당하는 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\na feeling of happiness, delight, or joy",
+      "answers": [
+        "pleasure"
+      ],
+      "explainKo": "정답: pleasure"
+    },
+    {
+      "id": 75,
+      "group": "중2동아-L05-X10어휘-F08-75",
+      "type": "TST",
+      "question": "F08. 다음 영영풀이에 해당하는 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\na small round mark",
+      "answers": [
+        "dot"
+      ],
+      "explainKo": "정답: dot"
+    },
+    {
+      "id": 76,
+      "group": "중2동아-L05-X10어휘-F09-76",
+      "type": "TST",
+      "question": "F09. 다음 영영풀이에 해당하는 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nan earlier time; the time before the present",
+      "answers": [
+        "past"
+      ],
+      "explainKo": "정답: past"
+    },
+    {
+      "id": 77,
+      "group": "중2동아-L05-X10어휘-F10-77",
+      "type": "TST",
+      "question": "F10. 다음 영영풀이에 해당하는 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\na piece of information that helps solve a puzzle, problem, or mystery",
+      "answers": [
+        "clue"
+      ],
+      "explainKo": "정답: clue"
+    },
+    {
+      "id": 78,
+      "group": "중2동아-L05-X10어휘-PlusA01-78",
+      "type": "TST",
+      "question": "Plus A01. 두 단어의 관계가 같도록 빈칸에 적절한 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nclose : ______ = warm : cool",
+      "answers": [
+        "far"
+      ],
+      "explainKo": "정답: far"
+    },
+    {
+      "id": 79,
+      "group": "중2동아-L05-X10어휘-PlusA02-79",
+      "type": "TST",
+      "question": "Plus A02. 두 단어의 관계가 같도록 빈칸에 적절한 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n______ : color = proud : pride",
+      "answers": [
+        "colorful"
+      ],
+      "explainKo": "정답: colorful"
+    },
+    {
+      "id": 80,
+      "group": "중2동아-L05-X10어휘-PlusA03-80",
+      "type": "TST",
+      "question": "Plus A03. 두 단어의 관계가 같도록 빈칸에 적절한 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\ncinema : movie theater = ______ : place",
+      "answers": [
+        "area"
+      ],
+      "explainKo": "정답: area"
+    },
+    {
+      "id": 81,
+      "group": "중2동아-L05-X10어휘-PlusA04-81",
+      "type": "TST",
+      "question": "Plus A04. 두 단어의 관계가 같도록 빈칸에 적절한 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\ndirty : clean = ______ : more than",
+      "answers": [
+        "less than"
+      ],
+      "explainKo": "정답: less than"
+    },
+    {
+      "id": 82,
+      "group": "중2동아-L05-X10어휘-PlusA05-82",
+      "type": "TST",
+      "question": "Plus A05. 두 단어의 관계가 같도록 빈칸에 적절한 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nfree : busy = careful : ______",
+      "answers": [
+        "careless"
+      ],
+      "explainKo": "정답: careless"
+    },
+    {
+      "id": 83,
+      "group": "중2동아-L05-X10어휘-PlusB01-83",
+      "type": "TST",
+      "question": "Plus B01. 주어진 조건에 맞게 빈칸에 적절한 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nlively (유의어)",
+      "answers": [
+        "energetic"
+      ],
+      "explainKo": "정답: energetic"
+    },
+    {
+      "id": 84,
+      "group": "중2동아-L05-X10어휘-PlusB02-84",
+      "type": "TST",
+      "question": "Plus B02. 주어진 조건에 맞게 빈칸에 적절한 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nleafy (반의어)",
+      "answers": [
+        "leafless"
+      ],
+      "explainKo": "정답: leafless"
+    },
+    {
+      "id": 85,
+      "group": "중2동아-L05-X10어휘-PlusB03-85",
+      "type": "TST",
+      "question": "Plus B03. 주어진 조건에 맞게 빈칸에 적절한 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nwell-known (유의어)",
+      "answers": [
+        "famous"
+      ],
+      "explainKo": "정답: famous"
+    },
+    {
+      "id": 86,
+      "group": "중2동아-L05-X10어휘-PlusB04-86",
+      "type": "TST",
+      "question": "Plus B04. 주어진 조건에 맞게 빈칸에 적절한 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nhuge (반의어)",
+      "answers": [
+        "tiny"
+      ],
+      "explainKo": "정답: tiny"
+    },
+    {
+      "id": 87,
+      "group": "중2동아-L05-X10어휘-PlusB05-87",
+      "type": "TST",
+      "question": "Plus B05. 주어진 조건에 맞게 빈칸에 적절한 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\ntake care of (유의어)",
+      "answers": [
+        "look after, care for",
+        "look after"
+      ],
+      "explainKo": "정답: look after, care for"
+    }
+  ]
+}

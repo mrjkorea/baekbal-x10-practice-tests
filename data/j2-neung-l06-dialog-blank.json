@@ -1,0 +1,58 @@
+{
+  "id": "j2-neung-l06-dialog-blank",
+  "title": "중2능률 L06 X-10 대화 빈칸",
+  "sourceFile": "중2능률_L06_X-10_대화_빈칸_완성하기.xlsx",
+  "questionCount": 5,
+  "questions": [
+    {
+      "id": 1,
+      "group": "중2능률-L06-X10대화빈칸-01-01",
+      "type": "TST",
+      "question": "다음 대화의 빈칸에 들어갈 적절한 말을 써서 대화 전체를 완성하시오. 문장 전체를 쓰시오.\n(교과서 Listen and Talk / Real-Life Communication)",
+      "answers": [
+        "G: Look, here are pictures of two interesting places in the US.\nB: They look nice. If you go to the US, which of these places would you like to visit?\nG: I'd like to visit this place to see the famous statue and take pictures of the city.\nB: That sounds fun!\nG: I agree! I hope I can go there one day."
+      ],
+      "explainKo": "정답: G: Look, here are pictures of two interesting places in…"
+    },
+    {
+      "id": 2,
+      "group": "중2능률-L06-X10대화빈칸-02-02",
+      "type": "TST",
+      "question": "다음 대화의 빈칸에 들어갈 적절한 말을 써서 대화 전체를 완성하시오. 문장 전체를 쓰시오.\n(교과서 Listen and Talk / Real-Life Communication)",
+      "answers": [
+        "G: What are you looking at?\nB: I'm looking at pictures of Japan. I'm going to go there with my family.\nG: That's great. What do you want to see there?\nB: We want to see traditional places like the one in this picture. We're planning to stay in a traditional house, too.\nG: That sounds amazing! I hope I can go there someday."
+      ],
+      "explainKo": "정답: G: What are you looking at?"
+    },
+    {
+      "id": 3,
+      "group": "중2능률-L06-X10대화빈칸-03-03",
+      "type": "TST",
+      "question": "다음 대화의 빈칸에 들어갈 적절한 말을 써서 대화 전체를 완성하시오. 문장 전체를 쓰시오.\n(교과서 Listen and Talk / Real-Life Communication)",
+      "answers": [
+        "B: What are you doing?\nG: I'm planning my trip to France.\nB: That sounds exciting! What would you like to do there?\nG: I'd like to stay at a place by the ocean and spend some time at the beach.\nB: Wow, the water looks bright blue in this picture.\nG: Yes. It looks really beautiful.\nB: I hope you have a nice trip!"
+      ],
+      "explainKo": "정답: B: What are you doing?"
+    },
+    {
+      "id": 4,
+      "group": "중2능률-L06-X10대화빈칸-04-04",
+      "type": "TST",
+      "question": "다음 대화의 빈칸에 들어갈 적절한 말을 써서 대화 전체를 완성하시오. 문장 전체를 쓰시오.\n(교과서 Listen and Talk / Real-Life Communication)",
+      "answers": [
+        "G: Dad, let's plan our trip to Australia!\nM: Okay, Yumi. Where would you like to go?\nG: I'd like to visit the Sydney Opera House.\nM: Then how about taking a tour of the Sydney Opera House on the first day? We can learn about the history of the building.\nG: That sounds perfect! I'd like to watch a live performance, too.\nM: Of course! We can buy tickets to an opera or a classical music concert.\nG: I want to see an opera.\nM: Okay. I'll look for tickets to an opera.\nG: Thank you, Dad. I hope we have a great time."
+      ],
+      "explainKo": "정답: G: Dad, let's plan our trip to Australia!"
+    },
+    {
+      "id": 5,
+      "group": "중2능률-L06-X10대화빈칸-05-05",
+      "type": "TST",
+      "question": "다음 대화의 빈칸에 들어갈 적절한 말을 써서 대화 전체를 완성하시오. 문장 전체를 쓰시오.\n(교과서 Listen and Talk / Real-Life Communication)",
+      "answers": [
+        "W: We're finally here, the lantern festival in Thailand!\nB: There are already a lot of people here.\nW: Yes. I'm excited to see the bright lanterns in the sky.\nB: Me too! But why do people fly lanterns?\nW: People send away bad luck with the lanterns and make wishes.\nB: That's interesting!\nW: Yes. I bought a lantern for us, too. Let's make a wish!\nB: Okay. I'd like to wish for our family's happiness.\nW: That's a wonderful wish. Are you ready to fly our lantern? 3, 2, 1, go!\nB: Wow, it's beautiful. I really hope our wish comes true."
+      ],
+      "explainKo": "정답: W: We're finally here, the lantern festival in Thailand!"
+    }
+  ]
+}

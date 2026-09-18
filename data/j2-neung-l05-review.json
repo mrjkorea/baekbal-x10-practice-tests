@@ -1,0 +1,321 @@
+{
+  "id": "j2-neung-l05-review",
+  "title": "중2능률 L05 X-10 핵심 문장 Review",
+  "sourceFile": "중2능률_L05_X-10_핵심_문장_Review.xlsx",
+  "questionCount": 28,
+  "questions": [
+    {
+      "id": 1,
+      "group": "중2능률-L05-X10Review-A01-01",
+      "type": "TMC",
+      "question": "A01. 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\nIn art class, Vashti drew a polar bear.",
+      "answers": [
+        "T",
+        "F"
+      ],
+      "explainKo": "정답은 2번입니다.",
+      "corAns": "2"
+    },
+    {
+      "id": 2,
+      "group": "중2능률-L05-X10Review-A02-02",
+      "type": "TMC",
+      "question": "A02. 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\nVashti's teacher told her to draw a dot on the paper and sign it.",
+      "answers": [
+        "T",
+        "F"
+      ],
+      "explainKo": "정답은 1번입니다.",
+      "corAns": "1"
+    },
+    {
+      "id": 3,
+      "group": "중2능률-L05-X10Review-A03-03",
+      "type": "TMC",
+      "question": "A03. 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\nVashti looked at her dot paintings in the frame and started drawing more carefully.",
+      "answers": [
+        "T",
+        "F"
+      ],
+      "explainKo": "정답은 1번입니다.",
+      "corAns": "1"
+    },
+    {
+      "id": 4,
+      "group": "중2능률-L05-X10Review-A04-04",
+      "type": "TMC",
+      "question": "A04. 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\nVashti painted a lot of dots in various colors.",
+      "answers": [
+        "T",
+        "F"
+      ],
+      "explainKo": "정답은 1번입니다.",
+      "corAns": "1"
+    },
+    {
+      "id": 5,
+      "group": "중2능률-L05-X10Review-A05-05",
+      "type": "TMC",
+      "question": "A05. 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\nVashti's paintings were not popular at the school art show.",
+      "answers": [
+        "T",
+        "F"
+      ],
+      "explainKo": "정답은 2번입니다.",
+      "corAns": "2"
+    },
+    {
+      "id": 6,
+      "group": "중2능률-L05-X10Review-A06-06",
+      "type": "TMC",
+      "question": "A06. 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\nThe little boy who likes Vashti's paintings is very good at drawing.",
+      "answers": [
+        "T",
+        "F"
+      ],
+      "explainKo": "정답은 2번입니다.",
+      "corAns": "2"
+    },
+    {
+      "id": 7,
+      "group": "중2능률-L05-X10Review-A07-07",
+      "type": "TMC",
+      "question": "A07. 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\nVashti asked the little boy to draw a line on the paper and sign it.",
+      "answers": [
+        "T",
+        "F"
+      ],
+      "explainKo": "정답은 1번입니다.",
+      "corAns": "1"
+    },
+    {
+      "id": 8,
+      "group": "중2능률-L05-X10Review-B01-08",
+      "type": "TMC",
+      "question": "B01. 다음 밑줄 친 부분이 어법상 올바르면 O, 틀리면 X를 고르시오.\nHer teacher picked up the paper and looked at it careful.",
+      "answers": [
+        "O",
+        "X"
+      ],
+      "explainKo": "정답은 2번입니다.",
+      "corAns": "2"
+    },
+    {
+      "id": 9,
+      "group": "중2능률-L05-X10Review-B01fix-09",
+      "type": "TST",
+      "question": "B01. 틀린 부분을 바르게 고쳐 문장을 다시 쓰시오. 문장 전체를 쓰시오.\nHer teacher picked up the paper and looked at it careful.",
+      "answers": [
+        "Her teacher picked up the paper and looked at it carefully.",
+        "carefully"
+      ],
+      "explainKo": "정답: Her teacher picked up the paper and looked at it carefully."
+    },
+    {
+      "id": 10,
+      "group": "중2능률-L05-X10Review-B02-10",
+      "type": "TMC",
+      "question": "B02. 다음 밑줄 친 부분이 어법상 올바르면 O, 틀리면 X를 고르시오.\n\"I can make a better dot as that!\" Vashti said.",
+      "answers": [
+        "O",
+        "X"
+      ],
+      "explainKo": "정답은 2번입니다.",
+      "corAns": "2"
+    },
+    {
+      "id": 11,
+      "group": "중2능률-L05-X10Review-B02fix-11",
+      "type": "TST",
+      "question": "B02. 틀린 부분을 바르게 고쳐 문장을 다시 쓰시오. 문장 전체를 쓰시오.\n\"I can make a better dot as that!\" Vashti said.",
+      "answers": [
+        "\"I can make a better dot than that!\" Vashti said.",
+        "than"
+      ],
+      "explainKo": "정답: \"I can make a better dot than that!\" Vashti said."
+    },
+    {
+      "id": 12,
+      "group": "중2능률-L05-X10Review-B03-12",
+      "type": "TMC",
+      "question": "B03. 다음 밑줄 친 부분이 어법상 올바르면 O, 틀리면 X를 고르시오.\nShe discovered which she could make a green dot.",
+      "answers": [
+        "O",
+        "X"
+      ],
+      "explainKo": "정답은 2번입니다.",
+      "corAns": "2"
+    },
+    {
+      "id": 13,
+      "group": "중2능률-L05-X10Review-B03fix-13",
+      "type": "TST",
+      "question": "B03. 틀린 부분을 바르게 고쳐 문장을 다시 쓰시오. 문장 전체를 쓰시오.\nShe discovered which she could make a green dot.",
+      "answers": [
+        "She discovered that she could make a green dot.",
+        "that"
+      ],
+      "explainKo": "정답: She discovered that she could make a green dot."
+    },
+    {
+      "id": 14,
+      "group": "중2능률-L05-X10Review-B04-14",
+      "type": "TMC",
+      "question": "B04. 다음 밑줄 친 부분이 어법상 올바르면 O, 틀리면 X를 고르시오.\nIf I can make little dots, I can make big dots, too.",
+      "answers": [
+        "O",
+        "X"
+      ],
+      "explainKo": "정답은 1번입니다.",
+      "corAns": "1"
+    },
+    {
+      "id": 15,
+      "group": "중2능률-L05-X10Review-B05-15",
+      "type": "TMC",
+      "question": "B05. 다음 밑줄 친 부분이 어법상 올바르면 O, 틀리면 X를 고르시오.\nI want to paint like you.",
+      "answers": [
+        "O",
+        "X"
+      ],
+      "explainKo": "정답은 1번입니다.",
+      "corAns": "1"
+    },
+    {
+      "id": 16,
+      "group": "중2능률-L05-X10Review-B06-16",
+      "type": "TMC",
+      "question": "B06. 다음 밑줄 친 부분이 어법상 올바르면 O, 틀리면 X를 고르시오.\nShe handed the boy a blank sheet of paper and told him draw a line.",
+      "answers": [
+        "O",
+        "X"
+      ],
+      "explainKo": "정답은 2번입니다.",
+      "corAns": "2"
+    },
+    {
+      "id": 17,
+      "group": "중2능률-L05-X10Review-B06fix-17",
+      "type": "TST",
+      "question": "B06. 틀린 부분을 바르게 고쳐 문장을 다시 쓰시오. 문장 전체를 쓰시오.\nShe handed the boy a blank sheet of paper and told him draw a line.",
+      "answers": [
+        "She handed the boy a blank sheet of paper and told him to draw a line.",
+        "to draw"
+      ],
+      "explainKo": "정답: She handed the boy a blank sheet of paper and told him to…"
+    },
+    {
+      "id": 18,
+      "group": "중2능률-L05-X10Review-B07-18",
+      "type": "TMC",
+      "question": "B07. 다음 밑줄 친 부분이 어법상 올바르면 O, 틀리면 X를 고르시오.\nThe pencil which the boy held shook as he drew.",
+      "answers": [
+        "O",
+        "X"
+      ],
+      "explainKo": "정답은 1번입니다.",
+      "corAns": "1"
+    },
+    {
+      "id": 19,
+      "group": "중2능률-L05-X10Review-C01-19",
+      "type": "TST",
+      "question": "C01. 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오. 문장 전체를 쓰시오.\nVashti picked up a marker and (draw) a small dot on the paper.",
+      "answers": [
+        "Vashti picked up a marker and drew a small dot on the paper."
+      ],
+      "explainKo": "정답: Vashti picked up a marker and drew a small dot on the paper."
+    },
+    {
+      "id": 20,
+      "group": "중2능률-L05-X10Review-C02-20",
+      "type": "TST",
+      "question": "C02. 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오. 문장 전체를 쓰시오.\nShe pushed the paper toward Vashti and asked her (sign) it.",
+      "answers": [
+        "She pushed the paper toward Vashti and asked her to sign it."
+      ],
+      "explainKo": "정답: She pushed the paper toward Vashti and asked her to sign it."
+    },
+    {
+      "id": 21,
+      "group": "중2능률-L05-X10Review-C03-21",
+      "type": "TST",
+      "question": "C03. 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오. 문장 전체를 쓰시오.\nThe next day, Vashti was (surprise) to see something in a frame on the wall of the art classroom.",
+      "answers": [
+        "The next day, Vashti was surprised to see something in a frame on the wall of the art classroom."
+      ],
+      "explainKo": "정답: The next day, Vashti was surprised to see something in a…"
+    },
+    {
+      "id": 22,
+      "group": "중2능률-L05-X10Review-C04-22",
+      "type": "TST",
+      "question": "C04. 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오. 문장 전체를 쓰시오.\nShe got a brush and started (paint).",
+      "answers": [
+        "She got a brush and started painting.",
+        "She got a brush and started to paint."
+      ],
+      "explainKo": "정답: She got a brush and started painting."
+    },
+    {
+      "id": 23,
+      "group": "중2능률-L05-X10Review-C05-23",
+      "type": "TST",
+      "question": "C05. 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오. 문장 전체를 쓰시오.\nAll of the dots that she painted looked (beauty) together on the paper.",
+      "answers": [
+        "All of the dots that she painted looked beautiful together on the paper."
+      ],
+      "explainKo": "정답: All of the dots that she painted looked beautiful together…"
+    },
+    {
+      "id": 24,
+      "group": "중2능률-L05-X10Review-D01-24",
+      "type": "TST",
+      "question": "D01. 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오. 문장 전체를 쓰시오.\nHer paper was blank. Her teacher leaned over and looked at them.",
+      "answers": [
+        "Her paper was blank. Her teacher leaned over and looked at it."
+      ],
+      "explainKo": "정답: Her paper was blank."
+    },
+    {
+      "id": 25,
+      "group": "중2능률-L05-X10Review-D02-25",
+      "type": "TST",
+      "question": "D02. 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오. 문장 전체를 쓰시오.\nHer teacher smiled. \"Just making a mark.\"",
+      "answers": [
+        "Her teacher smiled. \"Just make a mark.\""
+      ],
+      "explainKo": "정답: Her teacher smiled."
+    },
+    {
+      "id": 26,
+      "group": "중2능률-L05-X10Review-D03-26",
+      "type": "TST",
+      "question": "D03. 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오. 문장 전체를 쓰시오.\nVashti thought for the moment.",
+      "answers": [
+        "Vashti thought for a moment."
+      ],
+      "explainKo": "정답: Vashti thought for a moment."
+    },
+    {
+      "id": 27,
+      "group": "중2능률-L05-X10Review-D04-27",
+      "type": "TST",
+      "question": "D04. 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오. 문장 전체를 쓰시오.\nVashti kept experiment.",
+      "answers": [
+        "Vashti kept experimenting."
+      ],
+      "explainKo": "정답: Vashti kept experimenting."
+    },
+    {
+      "id": 28,
+      "group": "중2능률-L05-X10Review-D05-28",
+      "type": "TST",
+      "question": "D05. 다음 문장에서 어법상 틀린 한 곳을 찾아 바르게 고쳐 문장을 다시 쓰시오. 문장 전체를 쓰시오.\nAt the school art show a few week later, everyone loved Vashti's paintings.",
+      "answers": [
+        "At the school art show a few weeks later, everyone loved Vashti's paintings."
+      ],
+      "explainKo": "정답: At the school art show a few weeks later, everyone loved…"
+    }
+  ]
+}

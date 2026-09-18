@@ -1,0 +1,330 @@
+{
+  "id": "j2-donga-l05-grammar",
+  "title": "중2동아 L05 X-10 핵심 Grammar 확인",
+  "sourceFile": "중2동아_L05_X-10_핵심_Grammar_확인_문제.xlsx",
+  "questionCount": 29,
+  "questions": [
+    {
+      "id": 1,
+      "group": "중2동아-L05-X10Grammar-P1-01-01",
+      "type": "TMCMA",
+      "question": "Point1-01. 빈칸에 들어갈 적절한 말을 보기에서 골라 모두 쓰시오.\n보기: who, whom, which, that\nThe movie ______ Ted watched yesterday was fun.",
+      "answers": [
+        "who",
+        "whom",
+        "which",
+        "that"
+      ],
+      "explainKo": "정답 번호는 3,4입니다.",
+      "corAns": "3,4"
+    },
+    {
+      "id": 2,
+      "group": "중2동아-L05-X10Grammar-P1-02-02",
+      "type": "TMCMA",
+      "question": "Point1-02. 빈칸에 들어갈 적절한 말을 보기에서 골라 모두 쓰시오.\n보기: who, whom, which, that\nHenri Matisse is the painter ______ I like the most.",
+      "answers": [
+        "who",
+        "whom",
+        "which",
+        "that"
+      ],
+      "explainKo": "정답 번호는 1,2,4입니다.",
+      "corAns": "1,2,4"
+    },
+    {
+      "id": 3,
+      "group": "중2동아-L05-X10Grammar-P1-03-03",
+      "type": "TMCMA",
+      "question": "Point1-03. 빈칸에 들어갈 적절한 말을 보기에서 골라 모두 쓰시오.\n보기: who, whom, which, that\nThe place ______ we are going to visit is Shoreditch.",
+      "answers": [
+        "who",
+        "whom",
+        "which",
+        "that"
+      ],
+      "explainKo": "정답 번호는 3,4입니다.",
+      "corAns": "3,4"
+    },
+    {
+      "id": 4,
+      "group": "중2동아-L05-X10Grammar-P1-04-04",
+      "type": "TMCMA",
+      "question": "Point1-04. 빈칸에 들어갈 적절한 말을 보기에서 골라 모두 쓰시오.\n보기: who, whom, which, that\nHis gum paintings often carry personal messages from people ______ he meets on the street.",
+      "answers": [
+        "who",
+        "whom",
+        "which",
+        "that"
+      ],
+      "explainKo": "정답 번호는 1,2,4입니다.",
+      "corAns": "1,2,4"
+    },
+    {
+      "id": 5,
+      "group": "중2동아-L05-X10Grammar-P1-M01-05",
+      "type": "TST",
+      "question": "Point1 More 01. 다음 두 문장을 관계대명사를 이용하여 한 문장으로 바꿔 쓰시오. (that은 쓰지 말 것) 문장 전체를 쓰시오.\nShe returned the bag. She bought the bag yesterday.",
+      "answers": [
+        "She returned the bag which she bought yesterday."
+      ],
+      "explainKo": "정답: She returned the bag which she bought yesterday."
+    },
+    {
+      "id": 6,
+      "group": "중2동아-L05-X10Grammar-P1-M02-06",
+      "type": "TST",
+      "question": "Point1 More 02. 다음 두 문장을 관계대명사를 이용하여 한 문장으로 바꿔 쓰시오. (that은 쓰지 말 것) 문장 전체를 쓰시오.\nMike met Jessica. I introduced her to him.",
+      "answers": [
+        "Mike met Jessica whom I introduced to him.",
+        "Mike met Jessica who I introduced to him.",
+        "Mike met Jessica who(m) I introduced to him."
+      ],
+      "explainKo": "정답: Mike met Jessica whom I introduced to him."
+    },
+    {
+      "id": 7,
+      "group": "중2동아-L05-X10Grammar-P1-M03-07",
+      "type": "TST",
+      "question": "Point1 More 03. 다음 두 문장을 관계대명사를 이용하여 한 문장으로 바꿔 쓰시오. (that은 쓰지 말 것) 문장 전체를 쓰시오.\nHe bought a new computer. He needed the new computer for work.",
+      "answers": [
+        "He bought a new computer which he needed for work."
+      ],
+      "explainKo": "정답: He bought a new computer which he needed for work."
+    },
+    {
+      "id": 8,
+      "group": "중2동아-L05-X10Grammar-P1-M04-08",
+      "type": "TST",
+      "question": "Point1 More 04. 다음 두 문장을 관계대명사를 이용하여 한 문장으로 바꿔 쓰시오. (that은 쓰지 말 것) 문장 전체를 쓰시오.\nI met the person. You talked about the person.",
+      "answers": [
+        "I met the person whom you talked about.",
+        "I met the person who you talked about.",
+        "I met the person who(m) you talked about."
+      ],
+      "explainKo": "정답: I met the person whom you talked about."
+    },
+    {
+      "id": 9,
+      "group": "중2동아-L05-X10Grammar-P1-M05-09",
+      "type": "TST",
+      "question": "Point1 More 05. 다음 두 문장을 관계대명사를 이용하여 한 문장으로 바꿔 쓰시오. (that은 쓰지 말 것) 문장 전체를 쓰시오.\nI found a wallet. Someone left the wallet on the bench.",
+      "answers": [
+        "I found a wallet which someone left on the bench."
+      ],
+      "explainKo": "정답: I found a wallet which someone left on the bench."
+    },
+    {
+      "id": 10,
+      "group": "중2동아-L05-X10Grammar-P1-M06-10",
+      "type": "TST",
+      "question": "Point1 More 06. 다음 두 문장을 관계대명사를 이용하여 한 문장으로 바꿔 쓰시오. (that은 쓰지 말 것) 문장 전체를 쓰시오.\nI saw the boy. The woman was looking for the boy.",
+      "answers": [
+        "I saw the boy whom the woman was looking for.",
+        "I saw the boy who the woman was looking for.",
+        "I saw the boy who(m) the woman was looking for."
+      ],
+      "explainKo": "정답: I saw the boy whom the woman was looking for."
+    },
+    {
+      "id": 11,
+      "group": "중2동아-L05-X10Grammar-P1-M07-11",
+      "type": "TST",
+      "question": "Point1 More 07. 다음 두 문장을 관계대명사를 이용하여 한 문장으로 바꿔 쓰시오. (that은 쓰지 말 것) 문장 전체를 쓰시오.\nShe wore a dress. Everyone admired the dress at the party.",
+      "answers": [
+        "She wore a dress which everyone admired at the party."
+      ],
+      "explainKo": "정답: She wore a dress which everyone admired at the party."
+    },
+    {
+      "id": 12,
+      "group": "중2동아-L05-X10Grammar-P1-M08-12",
+      "type": "TST",
+      "question": "Point1 More 08. 다음 두 문장을 관계대명사를 이용하여 한 문장으로 바꿔 쓰시오. (that은 쓰지 말 것) 문장 전체를 쓰시오.\nThe pizza was very good. He made the pizza for us.",
+      "answers": [
+        "The pizza he made for us was very good."
+      ],
+      "explainKo": "정답: The pizza he made for us was very good."
+    },
+    {
+      "id": 13,
+      "group": "중2동아-L05-X10Grammar-P1-M09-13",
+      "type": "TST",
+      "question": "Point1 More 09. 다음 두 문장을 관계대명사를 이용하여 한 문장으로 바꿔 쓰시오. (that은 쓰지 말 것) 문장 전체를 쓰시오.\nDid you visit the place? I recommended the place.",
+      "answers": [
+        "Did you visit the place which I recommended?"
+      ],
+      "explainKo": "정답: Did you visit the place which I recommended?"
+    },
+    {
+      "id": 14,
+      "group": "중2동아-L05-X10Grammar-P1-M10-14",
+      "type": "TST",
+      "question": "Point1 More 10. 다음 두 문장을 관계대명사를 이용하여 한 문장으로 바꿔 쓰시오. (that은 쓰지 말 것) 문장 전체를 쓰시오.\nThey finally found a house. They wanted to live in the house.",
+      "answers": [
+        "They finally found a house which they wanted to live in."
+      ],
+      "explainKo": "정답: They finally found a house which they wanted to live in."
+    },
+    {
+      "id": 15,
+      "group": "중2동아-L05-X10Grammar-P2-01-15",
+      "type": "TMC",
+      "question": "Point2-01. 괄호 안에서 적절한 것을 고르시오.\nThey [didn't / used to] play tennis a lot, but now they don't.",
+      "answers": [
+        "didn't",
+        "used to"
+      ],
+      "explainKo": "정답은 2번입니다.",
+      "corAns": "2"
+    },
+    {
+      "id": 16,
+      "group": "중2동아-L05-X10Grammar-P2-02-16",
+      "type": "TMC",
+      "question": "Point2-02. 괄호 안에서 적절한 것을 고르시오.\nThere [used to / would] be many apple trees in the garden.",
+      "answers": [
+        "used to",
+        "would"
+      ],
+      "explainKo": "정답은 1번입니다.",
+      "corAns": "1"
+    },
+    {
+      "id": 17,
+      "group": "중2동아-L05-X10Grammar-P2-03-17",
+      "type": "TMC",
+      "question": "Point2-03. 괄호 안에서 적절한 것을 고르시오.\nMy mother [uses / used] to work as a chef when she was young.",
+      "answers": [
+        "uses",
+        "used"
+      ],
+      "explainKo": "정답은 2번입니다.",
+      "corAns": "2"
+    },
+    {
+      "id": 18,
+      "group": "중2동아-L05-X10Grammar-P2-04-18",
+      "type": "TMC",
+      "question": "Point2-04. 괄호 안에서 적절한 것을 고르시오.\nThe girl used to [have / having] long hair, but she has short hair now.",
+      "answers": [
+        "have",
+        "having"
+      ],
+      "explainKo": "정답은 1번입니다.",
+      "corAns": "1"
+    },
+    {
+      "id": 19,
+      "group": "중2동아-L05-X10Grammar-P2-05-19",
+      "type": "TMC",
+      "question": "Point2-05. 괄호 안에서 적절한 것을 고르시오.\nPoor workers used to live in this area, [so / but] now it is one of the hippest areas in London.",
+      "answers": [
+        "so",
+        "but"
+      ],
+      "explainKo": "정답은 2번입니다.",
+      "corAns": "2"
+    },
+    {
+      "id": 20,
+      "group": "중2동아-L05-X10Grammar-P2-M01-20",
+      "type": "TST",
+      "question": "Point2 More 01. 다음 우리말에 맞도록 주어진 단어와 used to를 이용하여 문장을 완성하시오. 빈칸에 들어갈 말만 쓰시오.\n그녀는 서울에 살았었지만, 작년에 부산으로 이사했다. (live)\n→ She ______ but she moved to Busan last year.",
+      "answers": [
+        "used to live in Seoul"
+      ],
+      "explainKo": "정답: used to live in Seoul"
+    },
+    {
+      "id": 21,
+      "group": "중2동아-L05-X10Grammar-P2-M02-21",
+      "type": "TST",
+      "question": "Point2 More 02. 다음 우리말에 맞도록 주어진 단어와 used to를 이용하여 문장을 완성하시오. 빈칸에 들어갈 말만 쓰시오.\n그들은 예전에 친한 친구였는데, 지금은 더 이상 그렇지 않다. (be, close)\n→ They ______ but they aren't anymore.",
+      "answers": [
+        "used to be close friends"
+      ],
+      "explainKo": "정답: used to be close friends"
+    },
+    {
+      "id": 22,
+      "group": "중2동아-L05-X10Grammar-P2-M03-22",
+      "type": "TST",
+      "question": "Point2 More 03. 다음 우리말에 맞도록 주어진 단어와 used to를 이용하여 문장을 완성하시오. 빈칸에 들어갈 말만 쓰시오.\n나는 채소를 싫어했었는데, 지금은 매일 먹는다. (hate)\n→ I ______ but now I eat them every day.",
+      "answers": [
+        "used to hate vegetables"
+      ],
+      "explainKo": "정답: used to hate vegetables"
+    },
+    {
+      "id": 23,
+      "group": "중2동아-L05-X10Grammar-P2-M04-23",
+      "type": "TST",
+      "question": "Point2 More 04. 다음 우리말에 맞도록 주어진 단어와 used to를 이용하여 문장을 완성하시오. 빈칸에 들어갈 말만 쓰시오.\n엄마는 매일 아침 커피를 마셨었는데, 지금은 주스를 더 좋아하신다. (drink)\n→ My mom ______ every morning, but now she prefers juice.",
+      "answers": [
+        "used to drink coffee"
+      ],
+      "explainKo": "정답: used to drink coffee"
+    },
+    {
+      "id": 24,
+      "group": "중2동아-L05-X10Grammar-P2-M05-24",
+      "type": "TST",
+      "question": "Point2 More 05. 다음 우리말에 맞도록 주어진 단어와 used to를 이용하여 문장을 완성하시오. 빈칸에 들어갈 말만 쓰시오.\n그는 주말에 늦게 일어났었는데, 지금은 운동하려고 일찍 일어난다. (wake up)\n→ He ______ on weekends, but now he gets up early to exercise.",
+      "answers": [
+        "used to wake up late"
+      ],
+      "explainKo": "정답: used to wake up late"
+    },
+    {
+      "id": 25,
+      "group": "중2동아-L05-X10Grammar-P2-M06-25",
+      "type": "TST",
+      "question": "Point2 More 06. 다음 우리말에 맞도록 주어진 단어와 used to를 이용하여 문장을 완성하시오. 빈칸에 들어갈 말만 쓰시오.\n우리 가족은 매년 여름 캠핑을 가곤 했었다. (go camping)\n→ My family ______ every summer.",
+      "answers": [
+        "used to go camping"
+      ],
+      "explainKo": "정답: used to go camping"
+    },
+    {
+      "id": 26,
+      "group": "중2동아-L05-X10Grammar-P2-M07-26",
+      "type": "TST",
+      "question": "Point2 More 07. 다음 우리말에 맞도록 주어진 단어와 used to를 이용하여 문장을 완성하시오. 빈칸에 들어갈 말만 쓰시오.\n여기에 나무가 많이 있었는데, 몇 년 전에 벌목되었다. (be, there)\n→ ______ many trees here, but they were cut down a few years ago.",
+      "answers": [
+        "There used to be"
+      ],
+      "explainKo": "정답: There used to be"
+    },
+    {
+      "id": 27,
+      "group": "중2동아-L05-X10Grammar-P2-M08-27",
+      "type": "TST",
+      "question": "Point2 More 08. 다음 우리말에 맞도록 주어진 단어와 used to를 이용하여 문장을 완성하시오. 빈칸에 들어갈 말만 쓰시오.\n우리는 어렸을 때 공원에서 축구를 하곤 했었다. (play)\n→ We ______ at the park when we were young.",
+      "answers": [
+        "used to play soccer"
+      ],
+      "explainKo": "정답: used to play soccer"
+    },
+    {
+      "id": 28,
+      "group": "중2동아-L05-X10Grammar-P2-M09-28",
+      "type": "TST",
+      "question": "Point2 More 09. 다음 우리말에 맞도록 주어진 단어와 used to를 이용하여 문장을 완성하시오. 빈칸에 들어갈 말만 쓰시오.\n우리 집 근처에 작은 공원이 있었는데, 지금은 주차장이다. (be, a small park)\n→ There ______ near my house, but it is now a parking lot.",
+      "answers": [
+        "used to be a small park"
+      ],
+      "explainKo": "정답: used to be a small park"
+    },
+    {
+      "id": 29,
+      "group": "중2동아-L05-X10Grammar-P2-M10-29",
+      "type": "TST",
+      "question": "Point2 More 10. 다음 우리말에 맞도록 주어진 단어와 used to를 이용하여 문장을 완성하시오. 빈칸에 들어갈 말만 쓰시오.\n그녀는 개를 무서워했었는데, 지금은 반려동물로 개를 한 마리를 기르고 있다. (be afraid of)\n→ She ______ dogs, but now she has one as a pet.",
+      "answers": [
+        "used to be afraid of"
+      ],
+      "explainKo": "정답: used to be afraid of"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "j2-donga-l05-dialog-write",
+  "title": "중2동아 L05 X-10 대화 영작",
+  "sourceFile": "중2동아_L05_X-10_대화_영작하기.xlsx",
+  "questionCount": 8,
+  "questions": [
+    {
+      "id": 1,
+      "group": "중2동아-L05-X10대화영작-01-01",
+      "type": "TST",
+      "question": "01. 다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오. 문장 전체를 쓰시오. Watch and Talk A-1.",
+      "answers": [
+        "B: Excuse me, how can I get to the Star Stadium?\nG: You can get there by subway. Take line 4, the green line, and get off at Hangang Station.\nB: Line 4 and Hangang Station. Got it. How long will it take?\nG: A little more than 30 minutes."
+      ],
+      "explainKo": "정답: B: Excuse me, how can I get to the Star Stadium?"
+    },
+    {
+      "id": 2,
+      "group": "중2동아-L05-X10대화영작-02-02",
+      "type": "TST",
+      "question": "02. 다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오. 문장 전체를 쓰시오. Watch and Talk A-2.",
+      "answers": [
+        "B: I'm sorry, but how can I get to the Sky Cinema?\nG: It's not far, but it's a little difficult to find. Why don't you take a taxi?\nB: OK. How long will it take?\nG: By taxi? About 20 minutes."
+      ],
+      "explainKo": "정답: B: I'm sorry, but how can I get to the Sky Cinema?"
+    },
+    {
+      "id": 3,
+      "group": "중2동아-L05-X10대화영작-03-03",
+      "type": "TST",
+      "question": "03. 다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오. 문장 전체를 쓰시오. Watch and Talk A-3.",
+      "answers": [
+        "G: Do you need help?\nB: Yes. How can I get to the Dream Shopping Mall from here? Can I walk?\nG: You can, but it's a little far. Why don't you go by bus? Take bus No. 12.\nB: OK. How long will it take by bus?\nG: Not very long. It'll take less than 10 minutes."
+      ],
+      "explainKo": "정답: G: Do you need help?"
+    },
+    {
+      "id": 4,
+      "group": "중2동아-L05-X10대화영작-04-04",
+      "type": "TST",
+      "question": "04. 다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오. 문장 전체를 쓰시오. Watch and Talk A-4.",
+      "answers": [
+        "B: Excuse me. I'm going to the National Art Museum. What's the best way to get there?\nG: You can walk. Go straight for about 500 meters and turn left. It'll be on your right.\nB: I see. How long will it take?\nG: Only about 15 minutes.\nB: Really? Thanks."
+      ],
+      "explainKo": "정답: B: Excuse me."
+    },
+    {
+      "id": 5,
+      "group": "중2동아-L05-X10대화영작-05-05",
+      "type": "TST",
+      "question": "05. 다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오. 문장 전체를 쓰시오. Watch and Talk C.",
+      "answers": [
+        "B: Somi, I need help. What's the best way to get to Sebit Park from here?\nG: Sebit Park? Well, you can get there by bus or by subway, but the subway is better.\nB: OK. Which line should I take?\nG: Take line 3, and get off at Sebit Station.\nB: Line 3 and get off at Sebit Station. How long will it take?\nG: It'll take about 40 minutes.\nB: Is it that far?\nG: Yes. Anyway, why are you going to Sebit Park, Liam?\nB: Oh, there is an art fair this Saturday. You can come with me if you want.\nG: Really? I'm free this Saturday. Let's go together.\nB: Perfect. Let's meet here at 10."
+      ],
+      "explainKo": "정답: B: Somi, I need help."
+    },
+    {
+      "id": 6,
+      "group": "중2동아-L05-X10대화영작-06-06",
+      "type": "TST",
+      "question": "06. 다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오. 문장 전체를 쓰시오. Speak Up.",
+      "answers": [
+        "I'll explain how you can get to the City Library from the school. The best way to get there is to take the bus. You can take bus No. 2 or 5, and it'll only take about 10 minutes."
+      ],
+      "explainKo": "정답: I'll explain how you can get to the City Library from the…"
+    },
+    {
+      "id": 7,
+      "group": "중2동아-L05-X10대화영작-07-07",
+      "type": "TST",
+      "question": "07. 다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오. 문장 전체를 쓰시오. Review 1.",
+      "answers": [
+        "G: Excuse me, how can I get to the Dream Zoo?\nB: You can take the subway.\nG: I see. How long will it take?\nB: I think it'll take about 30 minutes."
+      ],
+      "explainKo": "정답: G: Excuse me, how can I get to the Dream Zoo?"
+    },
+    {
+      "id": 8,
+      "group": "중2동아-L05-X10대화영작-08-08",
+      "type": "TST",
+      "question": "08. 다음 우리말에 맞도록 대화[담화]를 바르게 영작하시오. 문장 전체를 쓰시오. Review 2.",
+      "answers": [
+        "B: Excuse me, how can I get to Seoul Museum from here?\nG: Seoul Museum? You can get there by bus or by subway.\nB: Which is faster, the bus or the subway?\nG: Hmm, I think the bus is faster.\nB: Really? Then, I'll take the bus."
+      ],
+      "explainKo": "정답: B: Excuse me, how can I get to Seoul Museum from here?"
+    }
+  ]
+}

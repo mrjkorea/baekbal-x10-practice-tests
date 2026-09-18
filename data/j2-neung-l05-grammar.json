@@ -1,0 +1,354 @@
+{
+  "id": "j2-neung-l05-grammar",
+  "title": "중2능률 L05 X-10 핵심 Grammar 확인",
+  "sourceFile": "중2능률_L05_X-10_핵심_Grammar_확인_문제.xlsx",
+  "questionCount": 31,
+  "questions": [
+    {
+      "id": 1,
+      "group": "중2능률-L05-X10Grammar-P1-01-01",
+      "type": "TMC",
+      "question": "Point1-01. 다음 괄호 안에서 어법상 적절한 것을 고르시오.\nI want you [stop / to stop].",
+      "answers": [
+        "stop",
+        "to stop"
+      ],
+      "explainKo": "정답은 2번입니다.",
+      "corAns": "2"
+    },
+    {
+      "id": 2,
+      "group": "중2능률-L05-X10Grammar-P1-02-02",
+      "type": "TMC",
+      "question": "Point1-02. 다음 괄호 안에서 어법상 적절한 것을 고르시오.\nShe asked her [sign / to sign] it.",
+      "answers": [
+        "sign",
+        "to sign"
+      ],
+      "explainKo": "정답은 2번입니다.",
+      "corAns": "2"
+    },
+    {
+      "id": 3,
+      "group": "중2능률-L05-X10Grammar-P1-03-03",
+      "type": "TMC",
+      "question": "Point1-03. 다음 괄호 안에서 어법상 적절한 것을 고르시오.\nDan told Jia [closing / to close] the door.",
+      "answers": [
+        "closing",
+        "to close"
+      ],
+      "explainKo": "정답은 2번입니다.",
+      "corAns": "2"
+    },
+    {
+      "id": 4,
+      "group": "중2능률-L05-X10Grammar-P1-04-04",
+      "type": "TMC",
+      "question": "Point1-04. 다음 괄호 안에서 어법상 적절한 것을 고르시오.\nI want you [believed / to believe] in yourself.",
+      "answers": [
+        "believed",
+        "to believe"
+      ],
+      "explainKo": "정답은 2번입니다.",
+      "corAns": "2"
+    },
+    {
+      "id": 5,
+      "group": "중2능률-L05-X10Grammar-P1-05-05",
+      "type": "TMC",
+      "question": "Point1-05. 다음 괄호 안에서 어법상 적절한 것을 고르시오.\nMy parents don't allow me [cook / to cook].",
+      "answers": [
+        "cook",
+        "to cook"
+      ],
+      "explainKo": "정답은 2번입니다.",
+      "corAns": "2"
+    },
+    {
+      "id": 6,
+      "group": "중2능률-L05-X10Grammar-P1-06-06",
+      "type": "TMC",
+      "question": "Point1-06. 다음 괄호 안에서 어법상 적절한 것을 고르시오.\nThe man asked me [brought / to bring] him a glass of water.",
+      "answers": [
+        "brought",
+        "to bring"
+      ],
+      "explainKo": "정답은 2번입니다.",
+      "corAns": "2"
+    },
+    {
+      "id": 7,
+      "group": "중2능률-L05-X10Grammar-P1M01-07",
+      "type": "TST",
+      "question": "Point1 More 01. 다음 우리말에 맞도록 괄호 안의 단어를 이용하여 문장을 완성하시오. 빈칸에 들어갈 말만 쓰시오.\n그녀는 나에게 여기서 기다리라고 말했다. (tell, wait)\n→ She ____________________ here.",
+      "answers": [
+        "told me to wait"
+      ],
+      "explainKo": "정답: told me to wait"
+    },
+    {
+      "id": 8,
+      "group": "중2능률-L05-X10Grammar-P1M02-08",
+      "type": "TST",
+      "question": "Point1 More 02. 다음 우리말에 맞도록 괄호 안의 단어를 이용하여 문장을 완성하시오. 빈칸에 들어갈 말만 쓰시오.\n나는 네가 정직해지길 원한다. (honest, want)\n→ I ____________________.",
+      "answers": [
+        "want you to be honest"
+      ],
+      "explainKo": "정답: want you to be honest"
+    },
+    {
+      "id": 9,
+      "group": "중2능률-L05-X10Grammar-P1M03-09",
+      "type": "TST",
+      "question": "Point1 More 03. 다음 우리말에 맞도록 괄호 안의 단어를 이용하여 문장을 완성하시오. 빈칸에 들어갈 말만 쓰시오.\n의사는 나에게 운동을 하라고 조언했다. (advise, exercise)\n→ The doctor ____________________.",
+      "answers": [
+        "advised me to exercise"
+      ],
+      "explainKo": "정답: advised me to exercise"
+    },
+    {
+      "id": 10,
+      "group": "중2능률-L05-X10Grammar-P1M04-10",
+      "type": "TST",
+      "question": "Point1 More 04. 다음 우리말에 맞도록 괄호 안의 단어를 이용하여 문장을 완성하시오. 빈칸에 들어갈 말만 쓰시오.\n엄마는 나에게 방을 청소하라고 하셨다. (ask, clean)\n→ My mom ____________________.",
+      "answers": [
+        "asked me to clean my room"
+      ],
+      "explainKo": "정답: asked me to clean my room"
+    },
+    {
+      "id": 11,
+      "group": "중2능률-L05-X10Grammar-P1M05-11",
+      "type": "TST",
+      "question": "Point1 More 05. 다음 우리말에 맞도록 괄호 안의 단어를 이용하여 문장을 완성하시오. 빈칸에 들어갈 말만 쓰시오.\n그녀는 아이들이 조용히 하기를 원한다. (want, quiet)\n→ She ____________________.",
+      "answers": [
+        "wants the children to be quiet"
+      ],
+      "explainKo": "정답: wants the children to be quiet"
+    },
+    {
+      "id": 12,
+      "group": "중2능률-L05-X10Grammar-P1M06-12",
+      "type": "TST",
+      "question": "Point1 More 06. 다음 우리말에 맞도록 괄호 안의 단어를 이용하여 문장을 완성하시오. 빈칸에 들어갈 말만 쓰시오.\n그는 나에게 창문을 열어달라고 했다. (ask, the window)\n→ He ____________________.",
+      "answers": [
+        "asked me to open the window"
+      ],
+      "explainKo": "정답: asked me to open the window"
+    },
+    {
+      "id": 13,
+      "group": "중2능률-L05-X10Grammar-P1M07-13",
+      "type": "TST",
+      "question": "Point1 More 07. 다음 우리말에 맞도록 괄호 안의 단어를 이용하여 문장을 완성하시오. 빈칸에 들어갈 말만 쓰시오.\n나의 부모님은 내가 게임하는 것을 허락하신다. (allow, play games)\n→ My parents ____________________.",
+      "answers": [
+        "allow me to play games"
+      ],
+      "explainKo": "정답: allow me to play games"
+    },
+    {
+      "id": 14,
+      "group": "중2능률-L05-X10Grammar-P1M08-14",
+      "type": "TST",
+      "question": "Point1 More 08. 다음 우리말에 맞도록 괄호 안의 단어를 이용하여 문장을 완성하시오. 빈칸에 들어갈 말만 쓰시오.\n그들은 네가 곧 돌아오기를 기대한다. (expect, come back)\n→ They ____________________ soon.",
+      "answers": [
+        "expect you to come back"
+      ],
+      "explainKo": "정답: expect you to come back"
+    },
+    {
+      "id": 15,
+      "group": "중2능률-L05-X10Grammar-P1M09-15",
+      "type": "TST",
+      "question": "Point1 More 09. 다음 우리말에 맞도록 괄호 안의 단어를 이용하여 문장을 완성하시오. 빈칸에 들어갈 말만 쓰시오.\n그는 그녀에게 그 문제를 설명해 달라고 했다. (explain, ask, the problem)\n→ He ____________________.",
+      "answers": [
+        "asked her to explain the problem"
+      ],
+      "explainKo": "정답: asked her to explain the problem"
+    },
+    {
+      "id": 16,
+      "group": "중2능률-L05-X10Grammar-P1M10-16",
+      "type": "TST",
+      "question": "Point1 More 10. 다음 우리말에 맞도록 괄호 안의 단어를 이용하여 문장을 완성하시오. 빈칸에 들어갈 말만 쓰시오.\n우리는 그녀가 시험에 합격할 것이라고 기대한다. (pass the exam, expect)\n→ We ____________________.",
+      "answers": [
+        "expect her to pass the exam"
+      ],
+      "explainKo": "정답: expect her to pass the exam"
+    },
+    {
+      "id": 17,
+      "group": "중2능률-L05-X10Grammar-P2-01-17",
+      "type": "TST",
+      "question": "Point2-01. 보기에서 골라 모두 쓰시오. 빈칸에 들어갈 말만 쓰시오. (보기: who, whom, which, that) 여러 개면 콤마로.\nThe pencil ______ the boy held shook.",
+      "answers": [
+        "which, that",
+        "which/that",
+        "which",
+        "that"
+      ],
+      "explainKo": "정답: which, that"
+    },
+    {
+      "id": 18,
+      "group": "중2능률-L05-X10Grammar-P2-02-18",
+      "type": "TST",
+      "question": "Point2-02. 보기에서 골라 모두 쓰시오. 빈칸에 들어갈 말만 쓰시오. (보기: who, whom, which, that) 여러 개면 콤마로.\nPotato pizza is a food ______ Ben likes.",
+      "answers": [
+        "which, that",
+        "which/that",
+        "which",
+        "that"
+      ],
+      "explainKo": "정답: which, that"
+    },
+    {
+      "id": 19,
+      "group": "중2능률-L05-X10Grammar-P2-03-19",
+      "type": "TST",
+      "question": "Point2-03. 보기에서 골라 모두 쓰시오. 빈칸에 들어갈 말만 쓰시오. (보기: who, whom, which, that) 여러 개면 콤마로.\nJenny was the girl ______ I saw yesterday.",
+      "answers": [
+        "whom, who, that",
+        "whom/who/that",
+        "whom",
+        "who",
+        "that"
+      ],
+      "explainKo": "정답: whom, who, that"
+    },
+    {
+      "id": 20,
+      "group": "중2능률-L05-X10Grammar-P2-04-20",
+      "type": "TST",
+      "question": "Point2-04. 보기에서 골라 모두 쓰시오. 빈칸에 들어갈 말만 쓰시오. (보기: who, whom, which, that) 여러 개면 콤마로.\nYou are the person ______ I like the most.",
+      "answers": [
+        "whom, who, that",
+        "whom/who/that",
+        "whom",
+        "who",
+        "that"
+      ],
+      "explainKo": "정답: whom, who, that"
+    },
+    {
+      "id": 21,
+      "group": "중2능률-L05-X10Grammar-P2-05-21",
+      "type": "TST",
+      "question": "Point2-05. 보기에서 골라 모두 쓰시오. 빈칸에 들어갈 말만 쓰시오. (보기: who, whom, which, that) 여러 개면 콤마로.\nAll of the dots ______ she painted looked beautiful together on the paper.",
+      "answers": [
+        "that, which",
+        "that/which",
+        "which, that",
+        "which",
+        "that"
+      ],
+      "explainKo": "정답: that, which"
+    },
+    {
+      "id": 22,
+      "group": "중2능률-L05-X10Grammar-P2M01-22",
+      "type": "TST",
+      "question": "Point2 More 01. 다음 두 문장을 관계대명사를 이용하여 한 문장으로 바꿔 쓰시오. (that은 쓰지 말 것) 문장 전체를 쓰시오.\nThey played a game. It was fun.",
+      "answers": [
+        "The game which they played was fun."
+      ],
+      "explainKo": "정답: The game which they played was fun."
+    },
+    {
+      "id": 23,
+      "group": "중2능률-L05-X10Grammar-P2M02-23",
+      "type": "TST",
+      "question": "Point2 More 02. 다음 두 문장을 관계대명사를 이용하여 한 문장으로 바꿔 쓰시오. (that은 쓰지 말 것) 문장 전체를 쓰시오.\nI got a letter. It made me happy.",
+      "answers": [
+        "The letter which I got made me happy."
+      ],
+      "explainKo": "정답: The letter which I got made me happy."
+    },
+    {
+      "id": 24,
+      "group": "중2능률-L05-X10Grammar-P2M03-24",
+      "type": "TST",
+      "question": "Point2 More 03. 다음 두 문장을 관계대명사를 이용하여 한 문장으로 바꿔 쓰시오. (that은 쓰지 말 것) 문장 전체를 쓰시오.\nI found a bag. It was empty inside.",
+      "answers": [
+        "The bag which I found was empty.",
+        "The bag which I found was empty inside."
+      ],
+      "explainKo": "정답: The bag which I found was empty."
+    },
+    {
+      "id": 25,
+      "group": "중2능률-L05-X10Grammar-P2M04-25",
+      "type": "TST",
+      "question": "Point2 More 04. 다음 두 문장을 관계대명사를 이용하여 한 문장으로 바꿔 쓰시오. (that은 쓰지 말 것) 문장 전체를 쓰시오.\nShe likes the song. It is popular.",
+      "answers": [
+        "The song which she likes is popular."
+      ],
+      "explainKo": "정답: The song which she likes is popular."
+    },
+    {
+      "id": 26,
+      "group": "중2능률-L05-X10Grammar-P2M05-26",
+      "type": "TST",
+      "question": "Point2 More 05. 다음 두 문장을 관계대명사를 이용하여 한 문장으로 바꿔 쓰시오. (that은 쓰지 말 것) 문장 전체를 쓰시오.\nWe visited the place. It was amazing.",
+      "answers": [
+        "The place which we visited was amazing."
+      ],
+      "explainKo": "정답: The place which we visited was amazing."
+    },
+    {
+      "id": 27,
+      "group": "중2능률-L05-X10Grammar-P2M06-27",
+      "type": "TST",
+      "question": "Point2 More 06. 다음 두 문장을 관계대명사를 이용하여 한 문장으로 바꿔 쓰시오. (that은 쓰지 말 것) 문장 전체를 쓰시오.\nWe saw a man in the park. He was running.",
+      "answers": [
+        "The man whom we saw in the park was running.",
+        "The man who we saw in the park was running."
+      ],
+      "explainKo": "정답: The man whom we saw in the park was running."
+    },
+    {
+      "id": 28,
+      "group": "중2능률-L05-X10Grammar-P2M07-28",
+      "type": "TST",
+      "question": "Point2 More 07. 다음 두 문장을 관계대명사를 이용하여 한 문장으로 바꿔 쓰시오. (that은 쓰지 말 것) 문장 전체를 쓰시오.\nShe helped the boy. The boy thanked her.",
+      "answers": [
+        "The boy whom she helped thanked her.",
+        "The boy who she helped thanked her."
+      ],
+      "explainKo": "정답: The boy whom she helped thanked her."
+    },
+    {
+      "id": 29,
+      "group": "중2능률-L05-X10Grammar-P2M08-29",
+      "type": "TST",
+      "question": "Point2 More 08. 다음 두 문장을 관계대명사를 이용하여 한 문장으로 바꿔 쓰시오. (that은 쓰지 말 것) 문장 전체를 쓰시오.\nI had a special meal today. It was delicious.",
+      "answers": [
+        "The special meal which I had today was delicious."
+      ],
+      "explainKo": "정답: The special meal which I had today was delicious."
+    },
+    {
+      "id": 30,
+      "group": "중2능률-L05-X10Grammar-P2M09-30",
+      "type": "TST",
+      "question": "Point2 More 09. 다음 두 문장을 관계대명사를 이용하여 한 문장으로 바꿔 쓰시오. (that은 쓰지 말 것) 문장 전체를 쓰시오.\nMr. Kim is the teacher. I respect him the most.",
+      "answers": [
+        "The teacher whom I respect the most is Mr. Kim.",
+        "The teacher who I respect the most is Mr. Kim.",
+        "Mr. Kim is the teacher whom I respect the most.",
+        "Mr. Kim is the teacher who I respect the most."
+      ],
+      "explainKo": "정답: The teacher whom I respect the most is Mr."
+    },
+    {
+      "id": 31,
+      "group": "중2능률-L05-X10Grammar-P2M10-31",
+      "type": "TST",
+      "question": "Point2 More 10. 다음 두 문장을 관계대명사를 이용하여 한 문장으로 바꿔 쓰시오. (that은 쓰지 말 것) 문장 전체를 쓰시오.\nWe watched the movie last night. The movie was exciting.",
+      "answers": [
+        "The movie which we watched last night was exciting."
+      ],
+      "explainKo": "정답: The movie which we watched last night was exciting."
+    }
+  ]
+}

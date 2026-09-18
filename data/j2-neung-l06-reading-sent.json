@@ -1,0 +1,308 @@
+{
+  "id": "j2-neung-l06-reading-sent",
+  "title": "중2능률 L06 X-10 Reading 문장 완성",
+  "sourceFile": "중2능률_L06_X-10_Reading_문장_완성하기.xlsx",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": 1,
+      "group": "중2능률-L06-X10문장완성-01-01",
+      "type": "TST",
+      "question": "Reading 문장 완성하기 01. 빈칸에 들어갈 적절한 말을 골라 빈칸 순서대로 쓰시오. 빈칸에 들어갈 말만 쓰시오.",
+      "answers": [
+        "flight, finally arrived"
+      ],
+      "explainKo": "정답: flight, finally arrived"
+    },
+    {
+      "id": 2,
+      "group": "중2능률-L06-X10문장완성-02-02",
+      "type": "TST",
+      "question": "Reading 문장 완성하기 02. 빈칸에 들어갈 적절한 말을 골라 빈칸 순서대로 쓰시오. 빈칸에 들어갈 말만 쓰시오.",
+      "answers": [
+        "When, through, calling"
+      ],
+      "explainKo": "정답: When, through, calling"
+    },
+    {
+      "id": 3,
+      "group": "중2능률-L06-X10문장완성-03-03",
+      "type": "TST",
+      "question": "Reading 문장 완성하기 03. 빈칸에 들어갈 적절한 말을 골라 빈칸 순서대로 쓰시오. 빈칸에 들어갈 말만 쓰시오.",
+      "answers": [
+        "cousin, waiting for"
+      ],
+      "explainKo": "정답: cousin, waiting for"
+    },
+    {
+      "id": 4,
+      "group": "중2능률-L06-X10문장완성-04-04",
+      "type": "TST",
+      "question": "Reading 문장 완성하기 04. 빈칸에 들어갈 적절한 말을 골라 빈칸 순서대로 쓰시오. 빈칸에 들어갈 말만 쓰시오.",
+      "answers": [
+        "each other, hugged, circle"
+      ],
+      "explainKo": "정답: each other, hugged, circle"
+    },
+    {
+      "id": 5,
+      "group": "중2능률-L06-X10문장완성-05-05",
+      "type": "TST",
+      "question": "Reading 문장 완성하기 05. 빈칸에 들어갈 적절한 말을 골라 빈칸 순서대로 쓰시오. 빈칸에 들어갈 말만 쓰시오.",
+      "answers": [
+        "put, necklace around"
+      ],
+      "explainKo": "정답: put, necklace around"
+    },
+    {
+      "id": 6,
+      "group": "중2능률-L06-X10문장완성-06-06",
+      "type": "TST",
+      "question": "Reading 문장 완성하기 06. 빈칸에 들어갈 적절한 말을 골라 빈칸 순서대로 쓰시오. 빈칸에 들어갈 말만 쓰시오.",
+      "answers": [
+        "called, means, welcome"
+      ],
+      "explainKo": "정답: called, means, welcome"
+    },
+    {
+      "id": 7,
+      "group": "중2능률-L06-X10문장완성-07-07",
+      "type": "TST",
+      "question": "Reading 문장 완성하기 07. 빈칸에 들어갈 적절한 말을 골라 빈칸 순서대로 쓰시오. 빈칸에 들어갈 말만 쓰시오.",
+      "answers": [
+        "visited, first"
+      ],
+      "explainKo": "정답: visited, first"
+    },
+    {
+      "id": 8,
+      "group": "중2능률-L06-X10문장완성-08-08",
+      "type": "TST",
+      "question": "Reading 문장 완성하기 08. 빈칸에 들어갈 적절한 말을 골라 빈칸 순서대로 쓰시오. 빈칸에 들어갈 말만 쓰시오.",
+      "answers": [
+        "famous hiking"
+      ],
+      "explainKo": "정답: famous hiking"
+    },
+    {
+      "id": 9,
+      "group": "중2능률-L06-X10문장완성-09-09",
+      "type": "TST",
+      "question": "Reading 문장 완성하기 09. 빈칸에 들어갈 적절한 말을 골라 빈칸 순서대로 쓰시오. 빈칸에 들어갈 말만 쓰시오.",
+      "answers": [
+        "told us how, got"
+      ],
+      "explainKo": "정답: told us how, got"
+    },
+    {
+      "id": 10,
+      "group": "중2능률-L06-X10문장완성-10-10",
+      "type": "TST",
+      "question": "Reading 문장 완성하기 10. 빈칸에 들어갈 적절한 말을 골라 빈칸 순서대로 쓰시오. 빈칸에 들어갈 말만 쓰시오.",
+      "answers": [
+        "In, mistook, for diamonds"
+      ],
+      "explainKo": "정답: In, mistook, for diamonds"
+    },
+    {
+      "id": 11,
+      "group": "중2능률-L06-X10문장완성-11-11",
+      "type": "TST",
+      "question": "Reading 문장 완성하기 11. 빈칸에 들어갈 적절한 말을 골라 빈칸 순서대로 쓰시오. 빈칸에 들어갈 말만 쓰시오.",
+      "answers": [
+        "named, place, How"
+      ],
+      "explainKo": "정답: named, place, How"
+    },
+    {
+      "id": 12,
+      "group": "중2능률-L06-X10문장완성-12-12",
+      "type": "TST",
+      "question": "Reading 문장 완성하기 12. 빈칸에 들어갈 적절한 말을 골라 빈칸 순서대로 쓰시오. 빈칸에 들어갈 말만 쓰시오.",
+      "answers": [
+        "view from, amazing"
+      ],
+      "explainKo": "정답: view from, amazing"
+    },
+    {
+      "id": 13,
+      "group": "중2능률-L06-X10문장완성-13-13",
+      "type": "TST",
+      "question": "Reading 문장 완성하기 13. 빈칸에 들어갈 적절한 말을 골라 빈칸 순서대로 쓰시오. 빈칸에 들어갈 말만 쓰시오.",
+      "answers": [
+        "took, pictures there"
+      ],
+      "explainKo": "정답: took, pictures there"
+    },
+    {
+      "id": 14,
+      "group": "중2능률-L06-X10문장완성-14-14",
+      "type": "TST",
+      "question": "Reading 문장 완성하기 14. 빈칸에 들어갈 적절한 말을 골라 빈칸 순서대로 쓰시오. 빈칸에 들어갈 말만 쓰시오.",
+      "answers": [
+        "went to, culture"
+      ],
+      "explainKo": "정답: went to, culture"
+    },
+    {
+      "id": 15,
+      "group": "중2능률-L06-X10문장완성-15-15",
+      "type": "TST",
+      "question": "Reading 문장 완성하기 15. 빈칸에 들어갈 적절한 말을 골라 빈칸 순서대로 쓰시오. 빈칸에 들어갈 말만 쓰시오.",
+      "answers": [
+        "learned, traditional, culture"
+      ],
+      "explainKo": "정답: learned, traditional, culture"
+    },
+    {
+      "id": 16,
+      "group": "중2능률-L06-X10문장완성-16-16",
+      "type": "TST",
+      "question": "Reading 문장 완성하기 16. 빈칸에 들어갈 적절한 말을 골라 빈칸 순서대로 쓰시오. 빈칸에 들어갈 말만 쓰시오.",
+      "answers": [
+        "First, what, words mean"
+      ],
+      "explainKo": "정답: First, what, words mean"
+    },
+    {
+      "id": 17,
+      "group": "중2능률-L06-X10문장완성-17-17",
+      "type": "TST",
+      "question": "Reading 문장 완성하기 17. 빈칸에 들어갈 적절한 말을 골라 빈칸 순서대로 쓰시오. 빈칸에 들어갈 말만 쓰시오.",
+      "answers": [
+        "is used to, means"
+      ],
+      "explainKo": "정답: is used to, means"
+    },
+    {
+      "id": 18,
+      "group": "중2능률-L06-X10문장완성-18-18",
+      "type": "TST",
+      "question": "Reading 문장 완성하기 18. 빈칸에 들어갈 적절한 말을 골라 빈칸 순서대로 쓰시오. 빈칸에 들어갈 말만 쓰시오.",
+      "answers": [
+        "Then it, time"
+      ],
+      "explainKo": "정답: Then it, time"
+    },
+    {
+      "id": 19,
+      "group": "중2능률-L06-X10문장완성-19-19",
+      "type": "TST",
+      "question": "Reading 문장 완성하기 19. 빈칸에 들어갈 적절한 말을 골라 빈칸 순서대로 쓰시오. 빈칸에 들어갈 말만 쓰시오.",
+      "answers": [
+        "Surprisingly, movements stood, nature"
+      ],
+      "explainKo": "정답: Surprisingly, movements stood, nature"
+    },
+    {
+      "id": 20,
+      "group": "중2능률-L06-X10문장완성-20-20",
+      "type": "TST",
+      "question": "Reading 문장 완성하기 20. 빈칸에 들어갈 적절한 말을 골라 빈칸 순서대로 쓰시오. 빈칸에 들어갈 말만 쓰시오.",
+      "answers": [
+        "For, raise, above, for"
+      ],
+      "explainKo": "정답: For, raise, above, for"
+    },
+    {
+      "id": 21,
+      "group": "중2능률-L06-X10문장완성-21-21",
+      "type": "TST",
+      "question": "Reading 문장 완성하기 21. 빈칸에 들어갈 적절한 말을 골라 빈칸 순서대로 쓰시오. 빈칸에 들어갈 말만 쓰시오.",
+      "answers": [
+        "When, danced, feel"
+      ],
+      "explainKo": "정답: When, danced, feel"
+    },
+    {
+      "id": 22,
+      "group": "중2능률-L06-X10문장완성-22-22",
+      "type": "TST",
+      "question": "Reading 문장 완성하기 22. 빈칸에 들어갈 적절한 말을 골라 빈칸 순서대로 쓰시오. 빈칸에 들어갈 말만 쓰시오.",
+      "answers": [
+        "back to, rainbow"
+      ],
+      "explainKo": "정답: back to, rainbow"
+    },
+    {
+      "id": 23,
+      "group": "중2능률-L06-X10문장완성-23-23",
+      "type": "TST",
+      "question": "Reading 문장 완성하기 23. 빈칸에 들어갈 적절한 말을 골라 빈칸 순서대로 쓰시오. 빈칸에 들어갈 말만 쓰시오.",
+      "answers": [
+        "explained, often see, called"
+      ],
+      "explainKo": "정답: explained, often see, called"
+    },
+    {
+      "id": 24,
+      "group": "중2능률-L06-X10문장완성-24-24",
+      "type": "TST",
+      "question": "Reading 문장 완성하기 24. 빈칸에 들어갈 적절한 말을 골라 빈칸 순서대로 쓰시오. 빈칸에 들어갈 말만 쓰시오.",
+      "answers": [
+        "headed, go snorkeling"
+      ],
+      "explainKo": "정답: headed, go snorkeling"
+    },
+    {
+      "id": 25,
+      "group": "중2능률-L06-X10문장완성-25-25",
+      "type": "TST",
+      "question": "Reading 문장 완성하기 25. 빈칸에 들어갈 적절한 말을 골라 빈칸 순서대로 쓰시오. 빈칸에 들어갈 말만 쓰시오.",
+      "answers": [
+        "snorkeling, watched, educational"
+      ],
+      "explainKo": "정답: snorkeling, watched, educational"
+    },
+    {
+      "id": 26,
+      "group": "중2능률-L06-X10문장완성-26-26",
+      "type": "TST",
+      "question": "Reading 문장 완성하기 26. 빈칸에 들어갈 적절한 말을 골라 빈칸 순서대로 쓰시오. 빈칸에 들어갈 말만 쓰시오.",
+      "answers": [
+        "to harm, touch"
+      ],
+      "explainKo": "정답: to harm, touch"
+    },
+    {
+      "id": 27,
+      "group": "중2능률-L06-X10문장완성-27-27",
+      "type": "TST",
+      "question": "Reading 문장 완성하기 27. 빈칸에 들어갈 적절한 말을 골라 빈칸 순서대로 쓰시오. 빈칸에 들어갈 말만 쓰시오.",
+      "answers": [
+        "underwater world, wonderful"
+      ],
+      "explainKo": "정답: underwater world, wonderful"
+    },
+    {
+      "id": 28,
+      "group": "중2능률-L06-X10문장완성-28-28",
+      "type": "TST",
+      "question": "Reading 문장 완성하기 28. 빈칸에 들어갈 적절한 말을 골라 빈칸 순서대로 쓰시오. 빈칸에 들어갈 말만 쓰시오.",
+      "answers": [
+        "colorful, turtle swimming, amazing"
+      ],
+      "explainKo": "정답: colorful, turtle swimming, amazing"
+    },
+    {
+      "id": 29,
+      "group": "중2능률-L06-X10문장완성-29-29",
+      "type": "TST",
+      "question": "Reading 문장 완성하기 29. 빈칸에 들어갈 적절한 말을 골라 빈칸 순서대로 쓰시오. 빈칸에 들어갈 말만 쓰시오.",
+      "answers": [
+        "already, last, of"
+      ],
+      "explainKo": "정답: already, last, of"
+    },
+    {
+      "id": 30,
+      "group": "중2능률-L06-X10문장완성-30-30",
+      "type": "TST",
+      "question": "Reading 문장 완성하기 30. 빈칸에 들어갈 적절한 말을 골라 빈칸 순서대로 쓰시오. 빈칸에 들어갈 말만 쓰시오.",
+      "answers": [
+        "to go, will always"
+      ],
+      "explainKo": "정답: to go, will always"
+    }
+  ]
+}

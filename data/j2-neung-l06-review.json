@@ -1,0 +1,276 @@
+{
+  "id": "j2-neung-l06-review",
+  "title": "중2능률 L06 X-10 핵심 문장 Review",
+  "sourceFile": "중2능률_L06_X-10_핵심_문장_Review.xlsx",
+  "questionCount": 24,
+  "questions": [
+    {
+      "id": 1,
+      "group": "중2능률-L06-X10Review-A01-01",
+      "type": "TMC",
+      "question": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\nThe writer's family spent 9 hours on the plane to get to Honolulu.",
+      "answers": [
+        "T",
+        "F"
+      ],
+      "explainKo": "정답은 1번입니다.",
+      "corAns": "1"
+    },
+    {
+      "id": 2,
+      "group": "중2능률-L06-X10Review-A02-02",
+      "type": "TMC",
+      "question": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\nSoobin gave the writer a flower necklace as a welcome gift.",
+      "answers": [
+        "T",
+        "F"
+      ],
+      "explainKo": "정답은 1번입니다.",
+      "corAns": "1"
+    },
+    {
+      "id": 3,
+      "group": "중2능률-L06-X10Review-A03-03",
+      "type": "TMC",
+      "question": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\nPeople actually found real diamonds at Diamond Head.",
+      "answers": [
+        "T",
+        "F"
+      ],
+      "explainKo": "정답은 2번입니다.",
+      "corAns": "2"
+    },
+    {
+      "id": 4,
+      "group": "중2능률-L06-X10Review-A04-04",
+      "type": "TMC",
+      "question": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\nThe writer visited Diamond Head at the end of the trip.",
+      "answers": [
+        "T",
+        "F"
+      ],
+      "explainKo": "정답은 2번입니다.",
+      "corAns": "2"
+    },
+    {
+      "id": 5,
+      "group": "중2능률-L06-X10Review-A05-05",
+      "type": "TMC",
+      "question": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\n\"Aloha\" means \"thank you.\"",
+      "answers": [
+        "T",
+        "F"
+      ],
+      "explainKo": "정답은 2번입니다.",
+      "corAns": "2"
+    },
+    {
+      "id": 6,
+      "group": "중2능률-L06-X10Review-A06-06",
+      "type": "TMC",
+      "question": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\nThe writer saw a rainbow at the airport.",
+      "answers": [
+        "T",
+        "F"
+      ],
+      "explainKo": "정답은 2번입니다.",
+      "corAns": "2"
+    },
+    {
+      "id": 7,
+      "group": "중2능률-L06-X10Review-A07-07",
+      "type": "TMC",
+      "question": "A 다음 문장이 Reading 내용과 일치하면 T, 일치하지 않으면 F를 고르시오.\nHawaii is called the Rainbow State.",
+      "answers": [
+        "T",
+        "F"
+      ],
+      "explainKo": "정답은 1번입니다.",
+      "corAns": "1"
+    },
+    {
+      "id": 8,
+      "group": "중2능률-L06-X10Review-B01-08",
+      "type": "TMC",
+      "question": "B 문장 01가 어법상 맞으면 O, 틀리면 X를 고르시오.",
+      "answers": [
+        "O",
+        "X"
+      ],
+      "explainKo": "정답은 2번입니다.",
+      "corAns": "2"
+    },
+    {
+      "id": 9,
+      "group": "중2능률-L06-X10Review-B02-09",
+      "type": "TMC",
+      "question": "B 문장 02가 어법상 맞으면 O, 틀리면 X를 고르시오.",
+      "answers": [
+        "O",
+        "X"
+      ],
+      "explainKo": "정답은 2번입니다.",
+      "corAns": "2"
+    },
+    {
+      "id": 10,
+      "group": "중2능률-L06-X10Review-B03-10",
+      "type": "TMC",
+      "question": "B 문장 03가 어법상 맞으면 O, 틀리면 X를 고르시오.",
+      "answers": [
+        "O",
+        "X"
+      ],
+      "explainKo": "정답은 1번입니다.",
+      "corAns": "1"
+    },
+    {
+      "id": 11,
+      "group": "중2능률-L06-X10Review-B04-11",
+      "type": "TMC",
+      "question": "B 문장 04가 어법상 맞으면 O, 틀리면 X를 고르시오.",
+      "answers": [
+        "O",
+        "X"
+      ],
+      "explainKo": "정답은 2번입니다.",
+      "corAns": "2"
+    },
+    {
+      "id": 12,
+      "group": "중2능률-L06-X10Review-B05-12",
+      "type": "TMC",
+      "question": "B 문장 05가 어법상 맞으면 O, 틀리면 X를 고르시오.",
+      "answers": [
+        "O",
+        "X"
+      ],
+      "explainKo": "정답은 2번입니다.",
+      "corAns": "2"
+    },
+    {
+      "id": 13,
+      "group": "중2능률-L06-X10Review-B06-13",
+      "type": "TMC",
+      "question": "B 문장 06가 어법상 맞으면 O, 틀리면 X를 고르시오.",
+      "answers": [
+        "O",
+        "X"
+      ],
+      "explainKo": "정답은 2번입니다.",
+      "corAns": "2"
+    },
+    {
+      "id": 14,
+      "group": "중2능률-L06-X10Review-B07-14",
+      "type": "TMC",
+      "question": "B 문장 07가 어법상 맞으면 O, 틀리면 X를 고르시오.",
+      "answers": [
+        "O",
+        "X"
+      ],
+      "explainKo": "정답은 1번입니다.",
+      "corAns": "1"
+    },
+    {
+      "id": 15,
+      "group": "중2능률-L06-X10Review-C01-15",
+      "type": "TST",
+      "question": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오. 문장 전체를 쓰시오.\nWhen we saw each other, we hugged and jumped together in a circle.",
+      "answers": [
+        "When we saw each other, we hugged and jumped together in a circle."
+      ],
+      "explainKo": "정답: When we saw each other, we hugged and jumped together in a…"
+    },
+    {
+      "id": 16,
+      "group": "중2능률-L06-X10Review-C02-16",
+      "type": "TST",
+      "question": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오. 문장 전체를 쓰시오.\nMy cousin Soobin and her family were waiting for us.",
+      "answers": [
+        "My cousin Soobin and her family were waiting for us."
+      ],
+      "explainKo": "정답: My cousin Soobin and her family were waiting for us."
+    },
+    {
+      "id": 17,
+      "group": "중2능률-L06-X10Review-C03-17",
+      "type": "TST",
+      "question": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오. 문장 전체를 쓰시오.\nIn the past, people mistook its shiny rocks for diamonds.",
+      "answers": [
+        "In the past, people mistook its shiny rocks for diamonds."
+      ],
+      "explainKo": "정답: In the past, people mistook its shiny rocks for diamonds."
+    },
+    {
+      "id": 18,
+      "group": "중2능률-L06-X10Review-C04-18",
+      "type": "TST",
+      "question": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오. 문장 전체를 쓰시오.\nSurprisingly, many of the movements stood for things in nature.",
+      "answers": [
+        "Surprisingly, many of the movements stood for things in nature."
+      ],
+      "explainKo": "정답: Surprisingly, many of the movements stood for things in…"
+    },
+    {
+      "id": 19,
+      "group": "중2능률-L06-X10Review-C05-19",
+      "type": "TST",
+      "question": "C 다음 괄호 안의 단어를 적절한 형태로 바꿔 문장을 다시 쓰시오. 문장 전체를 쓰시오.\nBefore snorkeling, we watched an educational video.",
+      "answers": [
+        "Before snorkeling, we watched an educational video."
+      ],
+      "explainKo": "정답: Before snorkeling, we watched an educational video."
+    },
+    {
+      "id": 20,
+      "group": "중2능률-L06-X10Review-D01-20",
+      "type": "TST",
+      "question": "D 틀린 부분을 바르게 고쳐 문장을 다시 쓰시오. 문장 전체를 쓰시오.\nAfter a nine-hour flight, my family finally arrived at the international airport in Honolulu.",
+      "answers": [
+        "After a nine-hour flight, my family finally arrived at the international airport in Honolulu."
+      ],
+      "explainKo": "정답: After a nine-hour flight, my family finally arrived at the…"
+    },
+    {
+      "id": 21,
+      "group": "중2능률-L06-X10Review-D02-21",
+      "type": "TST",
+      "question": "D 틀린 부분을 바르게 고쳐 문장을 다시 쓰시오. 문장 전체를 쓰시오.\nWe learned about traditional Hawaiian culture there.",
+      "answers": [
+        "We learned about traditional Hawaiian culture there."
+      ],
+      "explainKo": "정답: We learned about traditional Hawaiian culture there."
+    },
+    {
+      "id": 22,
+      "group": "중2능률-L06-X10Review-D03-22",
+      "type": "TST",
+      "question": "D 틀린 부분을 바르게 고쳐 문장을 다시 쓰시오. 문장 전체를 쓰시오.\nFirst, we learned what some Hawaiian words mean.",
+      "answers": [
+        "First, we learned what some Hawaiian words mean."
+      ],
+      "explainKo": "정답: First, we learned what some Hawaiian words mean."
+    },
+    {
+      "id": 23,
+      "group": "중2능률-L06-X10Review-D04-23",
+      "type": "TST",
+      "question": "D 틀린 부분을 바르게 고쳐 문장을 다시 쓰시오. 문장 전체를 쓰시오.\nFor example, if you raise your arms above your head in a circle, it stands for the moon.",
+      "answers": [
+        "For example, if you raise your arms above your head in a circle, it stands for the moon."
+      ],
+      "explainKo": "정답: For example, if you raise your arms above your head in a…"
+    },
+    {
+      "id": 24,
+      "group": "중2능률-L06-X10Review-D05-24",
+      "type": "TST",
+      "question": "D 틀린 부분을 바르게 고쳐 문장을 다시 쓰시오. 문장 전체를 쓰시오.\nWe saw lots of colorful fish and a turtle swimming there.",
+      "answers": [
+        "We saw lots of colorful fish and a turtle swimming there."
+      ],
+      "explainKo": "정답: We saw lots of colorful fish and a turtle swimming there."
+    }
+  ]
+}

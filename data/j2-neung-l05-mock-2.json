@@ -1,0 +1,376 @@
+{
+  "id": "j2-neung-l05-mock-2",
+  "title": "중2능률 L05 X-10 최종점검 모의고사 2회",
+  "sourceFile": "중2능률_L05_X-10_최종점검_모의고사_2회.xlsx",
+  "questionCount": 28,
+  "questions": [
+    {
+      "id": 1,
+      "group": "중2능률-L05-최종2-01-01",
+      "type": "TMC",
+      "question": "01. 다음 중 짝지어진 단어의 관계가 나머지와 다른 것은?",
+      "answers": [
+        "decide : decision",
+        "code : coding",
+        "bake : baking",
+        "allow : allowance",
+        "surprise : surprising"
+      ],
+      "explainKo": "정답은 5번입니다.",
+      "corAns": "5"
+    },
+    {
+      "id": 2,
+      "group": "중2능률-L05-최종2-02-02",
+      "type": "TMC",
+      "question": "02. 다음 중 밑줄 친 단어의 쓰임이 어색한 것은?",
+      "answers": [
+        "Writing poems is her greatest strength.",
+        "I am very thankful for your kind help.",
+        "See you later! Have a nice weekend.",
+        "I believe the truth because he always tells lies.",
+        "My goal is to read one English book every day."
+      ],
+      "explainKo": "정답은 4번입니다.",
+      "corAns": "4"
+    },
+    {
+      "id": 3,
+      "group": "중2능률-L05-최종2-03-03",
+      "type": "TST",
+      "question": "03. 다음 영영풀이에 해당하는 단어를 주어진 철자로 시작하여 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nto find or learn something for the first time\n→ d__________",
+      "answers": [
+        "discover"
+      ],
+      "explainKo": "정답: discover"
+    },
+    {
+      "id": 4,
+      "group": "중2능률-L05-최종2-04-04",
+      "type": "TMC",
+      "question": "04. 다음 중 짝지어진 대화가 어색한 것은?",
+      "answers": [
+        "A: Are you good at playing basketball? / B: Yes, I'm good at it. I practice every day.",
+        "A: Are you good at speaking English? / B: Not really. I'm still learning.",
+        "A: I'm not sure if I'll pass the test. / B: Don't worry. You will pass it.",
+        "A: Alice has a great voice. / B: I'm sure she will win the race.",
+        "A: I believe that she is good at math. / B: Yes, she studies very hard every day."
+      ],
+      "explainKo": "정답은 4번입니다.",
+      "corAns": "4"
+    },
+    {
+      "id": 5,
+      "group": "중2능률-L05-최종2-05-05",
+      "type": "TMC",
+      "question": "[05~06] 다음 대화를 읽고, 물음에 답하시오.\nB: Mia, you're interested in writing, right?\nG: Yes. I want to be a writer, so I keep a diary every day.\nB: That's great! I'm sure you will be a good writer.\nG: Thank you. How about you, Suho? Do you enjoy writing?\nB: I enjoy it, but I'm not good at it.\nG: Then why don't you join a writing class with me? There's a new one in the after-school program.\nB: Really? Can you tell me more about it?\nG: Sure. It is held every Wednesday at 5:00 p.m. in the school library. We can learn to write essays.\nB: That sounds good. Let's sign up together.\nG: Great!\n\n05. According to the dialog, which one is NOT true?",
+      "answers": [
+        "Mia keeps a diary every day to become a writer.",
+        "Suho enjoys writing but is not good at it.",
+        "The writing class is held every Wednesday in the school library.",
+        "Suho and Mia will read a lot of books in the writing class.",
+        "Mia invites Suho to join a writing class with her."
+      ],
+      "explainKo": "정답은 4번입니다.",
+      "corAns": "4"
+    },
+    {
+      "id": 6,
+      "group": "중2능률-L05-최종2-06-1-06",
+      "type": "TST",
+      "question": "[05~06] 다음 대화를 읽고, 물음에 답하시오.\nB: Mia, you're interested in writing, right?\nG: Yes. I want to be a writer, so I keep a diary every day.\nB: That's great! I'm sure you will be a good writer.\nG: Thank you. How about you, Suho? Do you enjoy writing?\nB: I enjoy it, but I'm not good at it.\nG: Then why don't you join a writing class with me? There's a new one in the after-school program.\nB: Really? Can you tell me more about it?\nG: Sure. It is held every Wednesday at 5:00 p.m. in the school library. We can learn to write essays.\nB: That sounds good. Let's sign up together.\nG: Great!\n\n06. 위 대화의 내용과 일치하도록 대화에서 사용된 표현을 이용하여 빈칸을 완성하시오. 첫 번째 빈칸만 쓰시오.\nThe writing class takes place in the school library every ________ at ________ p.m. After talking with Mia, Suho becomes ________ in the class and decides to ________ with her.",
+      "answers": [
+        "Wednesday"
+      ],
+      "explainKo": "정답: Wednesday"
+    },
+    {
+      "id": 7,
+      "group": "중2능률-L05-최종2-06-2-07",
+      "type": "TST",
+      "question": "[05~06] 다음 대화를 읽고, 물음에 답하시오.\nB: Mia, you're interested in writing, right?\nG: Yes. I want to be a writer, so I keep a diary every day.\nB: That's great! I'm sure you will be a good writer.\nG: Thank you. How about you, Suho? Do you enjoy writing?\nB: I enjoy it, but I'm not good at it.\nG: Then why don't you join a writing class with me? There's a new one in the after-school program.\nB: Really? Can you tell me more about it?\nG: Sure. It is held every Wednesday at 5:00 p.m. in the school library. We can learn to write essays.\nB: That sounds good. Let's sign up together.\nG: Great!\n\n06. 위 대화의 내용과 일치하도록 대화에서 사용된 표현을 이용하여 빈칸을 완성하시오. 두 번째 빈칸만 쓰시오.\nThe writing class takes place in the school library every ________ at ________ p.m. After talking with Mia, Suho becomes ________ in the class and decides to ________ with her.",
+      "answers": [
+        "five",
+        "5",
+        "5:00"
+      ],
+      "explainKo": "정답: five"
+    },
+    {
+      "id": 8,
+      "group": "중2능률-L05-최종2-06-3-08",
+      "type": "TST",
+      "question": "[05~06] 다음 대화를 읽고, 물음에 답하시오.\nB: Mia, you're interested in writing, right?\nG: Yes. I want to be a writer, so I keep a diary every day.\nB: That's great! I'm sure you will be a good writer.\nG: Thank you. How about you, Suho? Do you enjoy writing?\nB: I enjoy it, but I'm not good at it.\nG: Then why don't you join a writing class with me? There's a new one in the after-school program.\nB: Really? Can you tell me more about it?\nG: Sure. It is held every Wednesday at 5:00 p.m. in the school library. We can learn to write essays.\nB: That sounds good. Let's sign up together.\nG: Great!\n\n06. 위 대화의 내용과 일치하도록 대화에서 사용된 표현을 이용하여 빈칸을 완성하시오. 세 번째 빈칸만 쓰시오.\nThe writing class takes place in the school library every ________ at ________ p.m. After talking with Mia, Suho becomes ________ in the class and decides to ________ with her.",
+      "answers": [
+        "interested"
+      ],
+      "explainKo": "정답: interested"
+    },
+    {
+      "id": 9,
+      "group": "중2능률-L05-최종2-06-4-09",
+      "type": "TST",
+      "question": "[05~06] 다음 대화를 읽고, 물음에 답하시오.\nB: Mia, you're interested in writing, right?\nG: Yes. I want to be a writer, so I keep a diary every day.\nB: That's great! I'm sure you will be a good writer.\nG: Thank you. How about you, Suho? Do you enjoy writing?\nB: I enjoy it, but I'm not good at it.\nG: Then why don't you join a writing class with me? There's a new one in the after-school program.\nB: Really? Can you tell me more about it?\nG: Sure. It is held every Wednesday at 5:00 p.m. in the school library. We can learn to write essays.\nB: That sounds good. Let's sign up together.\nG: Great!\n\n06. 위 대화의 내용과 일치하도록 대화에서 사용된 표현을 이용하여 빈칸을 완성하시오. 네 번째 빈칸만 쓰시오.\nThe writing class takes place in the school library every ________ at ________ p.m. After talking with Mia, Suho becomes ________ in the class and decides to ________ with her.",
+      "answers": [
+        "sign up"
+      ],
+      "explainKo": "정답: sign up"
+    },
+    {
+      "id": 10,
+      "group": "중2능률-L05-최종2-07-10",
+      "type": "TMC",
+      "question": "[07-08] 다음 대화를 읽고, 물음에 답하시오.\nB: Hi, nice to meet you. I'm Jake, the new guitarist.\nG: Nice to meet you. Welcome to our band! I'm Luna, and I play the drums.\nB: Oh, ⓐ I heard that you are good at playing the drums.\nG: That's nice to hear. I practice a lot.\nB: Well, I look forward to playing with you.\nG: Yes, it will be fun! I'm sure we will make a great band.\n\n07. 위 대화의 밑줄 친 ⓐ와 의미가 다른 것을 고르면?",
+      "answers": [
+        "I heard that you are good at the drums.",
+        "I heard that you are a good drum player.",
+        "I heard that you can play the drums very well.",
+        "I heard that you do well in playing the drums.",
+        "I heard that you have started learning the drums."
+      ],
+      "explainKo": "정답은 5번입니다.",
+      "corAns": "5"
+    },
+    {
+      "id": 11,
+      "group": "중2능률-L05-최종2-08-11",
+      "type": "TMC",
+      "question": "[07-08] 다음 대화를 읽고, 물음에 답하시오.\nB: Hi, nice to meet you. I'm Jake, the new guitarist.\nG: Nice to meet you. Welcome to our band! I'm Luna, and I play the drums.\nB: Oh, ⓐ I heard that you are good at playing the drums.\nG: That's nice to hear. I practice a lot.\nB: Well, I look forward to playing with you.\nG: Yes, it will be fun! I'm sure we will make a great band.\n\n08. 위 대화를 읽고 대답할 수 없는 질문은?",
+      "answers": [
+        "What instrument does Jake play?",
+        "What instrument does Luna play?",
+        "How did Jake and Luna first meet?",
+        "Why does Luna play the drums well?",
+        "How does Luna feel about making a band with Jake?"
+      ],
+      "explainKo": "정답은 3번입니다.",
+      "corAns": "3"
+    },
+    {
+      "id": 12,
+      "group": "중2능률-L05-최종2-09-12",
+      "type": "TST",
+      "question": "09. 다음 두 문장을 한 문장으로 바꿔 쓰시오. 문장 전체를 쓰시오.\nI lost the umbrella. My mom bought it for me.",
+      "answers": [
+        "I lost the umbrella which my mom bought for me.",
+        "I lost the umbrella that my mom bought for me."
+      ],
+      "explainKo": "정답: I lost the umbrella which my mom bought for me."
+    },
+    {
+      "id": 13,
+      "group": "중2능률-L05-최종2-10-13",
+      "type": "TMC",
+      "question": "10. 다음 우리말을 영작할 때 빈칸 ⓐ에 들어갈 말로 가장 적절한 것은?\n나는 네가 과학 프로젝트를 도와줬으면 좋겠어.\n→ I [ ] you [ ] ⓐ [ ] me with [ ] project.",
+      "answers": [
+        "to",
+        "want",
+        "help",
+        "my",
+        "science"
+      ],
+      "explainKo": "정답은 3번입니다.",
+      "corAns": "3"
+    },
+    {
+      "id": 14,
+      "group": "중2능률-L05-최종2-11-14",
+      "type": "TMC",
+      "question": "11. 다음 중 밑줄 친 부분의 쓰임이 나머지와 다른 것은?",
+      "answers": [
+        "The movie that you recommended was very exciting.",
+        "The cafes that we found in Seoul were cozy.",
+        "The baker that the neighbors love is very generous.",
+        "I think that healthy habits can change your life.",
+        "The soup that dad made for lunch was amazing."
+      ],
+      "explainKo": "정답은 4번입니다.",
+      "corAns": "4"
+    },
+    {
+      "id": 15,
+      "group": "중2능률-L05-최종2-12-15",
+      "type": "TMC",
+      "question": "12. 다음 중 어법상 적절하지 않은 것을 고르면?",
+      "answers": [
+        "The rain forced us to stay at home.",
+        "The doctor told him to rest at home.",
+        "I went to the park that you told me about.",
+        "My teacher asked me to clean the classroom.",
+        "Show me the pictures who you took yesterday."
+      ],
+      "explainKo": "정답은 5번입니다.",
+      "corAns": "5"
+    },
+    {
+      "id": 16,
+      "group": "중2능률-L05-최종2-13-16",
+      "type": "TST",
+      "question": "13. 다음 우리말에 맞도록 괄호 안의 단어들을 순서대로 바르게 배열하여 문장을 완성하시오. (필요시 어형을 바꿀 것) 문장 전체를 쓰시오.\n이게 네가 말하던 그 책이야?\n(were / that / is / book / talk / this / about / the / you)",
+      "answers": [
+        "Is this the book that you were talking about?"
+      ],
+      "explainKo": "정답: Is this the book that you were talking about?"
+    },
+    {
+      "id": 17,
+      "group": "중2능률-L05-최종2-14-17",
+      "type": "TMC",
+      "question": "[14-17] 다음 글을 읽고, 물음에 답하시오.\nArt class was over, but Vashti still sat in her chair. Her paper was blank. Her teacher leaned ⓐ ________ and looked at it.\n\"Ah! It is a polar bear in a snowstorm,\" she said.\n(A) \"That's funny!\" said Vashti. \"I CAN'T draw!\"\nHer teacher smiled. \"Just make a mark.\"\nVashti picked up a marker and drew a small dot on the paper.\n\"Here it is!\"\nHer teacher picked up the paper and looked at it carefully.\n\"Hmmmm.\"\nShe pushed the paper ⓑ ________ Vashti.\n(B) 그녀는 Vashti에게 종이에 서명을 해달라고 요청했다.\nVashti thought ⓒ ________ a moment.\n\"Well, maybe I can't draw, but I CAN sign my name.\"\n\n14. 윗글의 빈칸 ⓐ~ⓒ에 들어갈 말이 바르게 짝지어진 것은? (ⓐ / ⓑ / ⓒ)",
+      "answers": [
+        "over / for / at",
+        "over / toward / for",
+        "over / toward / at",
+        "to / toward / to",
+        "to / for / for"
+      ],
+      "explainKo": "정답은 2번입니다.",
+      "corAns": "2"
+    },
+    {
+      "id": 18,
+      "group": "중2능률-L05-최종2-15-18",
+      "type": "TMC",
+      "question": "[14-17] 다음 글을 읽고, 물음에 답하시오.\nArt class was over, but Vashti still sat in her chair. Her paper was blank. Her teacher leaned ⓐ ________ and looked at it.\n\"Ah! It is a polar bear in a snowstorm,\" she said.\n(A) \"That's funny!\" said Vashti. \"I CAN'T draw!\"\nHer teacher smiled. \"Just make a mark.\"\nVashti picked up a marker and drew a small dot on the paper.\n\"Here it is!\"\nHer teacher picked up the paper and looked at it carefully.\n\"Hmmmm.\"\nShe pushed the paper ⓑ ________ Vashti.\n(B) 그녀는 Vashti에게 종이에 서명을 해달라고 요청했다.\nVashti thought ⓒ ________ a moment.\n\"Well, maybe I can't draw, but I CAN sign my name.\"\n\n15. Why did Vashti say (A) \"That's funny\"?",
+      "answers": [
+        "Because she was angry at her teacher.",
+        "Because she was happy to see her drawing on the paper.",
+        "Because she wanted to draw a polar bear in a snowstorm.",
+        "Because she did not understand what her teacher said.",
+        "Because she thought her teacher's idea about the blank paper was strange."
+      ],
+      "explainKo": "정답은 5번입니다.",
+      "corAns": "5"
+    },
+    {
+      "id": 19,
+      "group": "중2능률-L05-최종2-16-19",
+      "type": "TST",
+      "question": "[14-17] 다음 글을 읽고, 물음에 답하시오.\nArt class was over, but Vashti still sat in her chair. Her paper was blank. Her teacher leaned ⓐ ________ and looked at it.\n\"Ah! It is a polar bear in a snowstorm,\" she said.\n(A) \"That's funny!\" said Vashti. \"I CAN'T draw!\"\nHer teacher smiled. \"Just make a mark.\"\nVashti picked up a marker and drew a small dot on the paper.\n\"Here it is!\"\nHer teacher picked up the paper and looked at it carefully.\n\"Hmmmm.\"\nShe pushed the paper ⓑ ________ Vashti.\n(B) 그녀는 Vashti에게 종이에 서명을 해달라고 요청했다.\nVashti thought ⓒ ________ a moment.\n\"Well, maybe I can't draw, but I CAN sign my name.\" \n\n16. 윗글의 밑줄 친 (B)의 우리말을 조건에 맞게 바르게 영작하시오. 문장 전체를 쓰시오.\n(B) 그녀는 Vashti에게 종이에 서명을 해달라고 요청했다.\n<조건> 1. ask와 the paper를 이용하되 필요시 형태를 바꿀 것. 2. 총 7단어로 쓸 것.",
+      "answers": [
+        "She asked Vashti to sign the paper."
+      ],
+      "explainKo": "정답: She asked Vashti to sign the paper."
+    },
+    {
+      "id": 20,
+      "group": "중2능률-L05-최종2-17-20",
+      "type": "TMC",
+      "question": "[14-17] 다음 글을 읽고, 물음에 답하시오.\nArt class was over, but Vashti still sat in her chair. Her paper was blank. Her teacher leaned ⓐ ________ and looked at it.\n\"Ah! It is a polar bear in a snowstorm,\" she said.\n(A) \"That's funny!\" said Vashti. \"I CAN'T draw!\"\nHer teacher smiled. \"Just make a mark.\"\nVashti picked up a marker and drew a small dot on the paper.\n\"Here it is!\"\nHer teacher picked up the paper and looked at it carefully.\n\"Hmmmm.\"\nShe pushed the paper ⓑ ________ Vashti.\n(B) 그녀는 Vashti에게 종이에 서명을 해달라고 요청했다.\nVashti thought ⓒ ________ a moment.\n\"Well, maybe I can't draw, but I CAN sign my name.\"\n\n17. 윗글의 내용과 일치하지 않는 것은?",
+      "answers": [
+        "Vashti는 미술 수업이 끝난 뒤에도 자리에 앉아 있었다.",
+        "Vashti의 종이에는 아무것도 그려져 있지 않은 상태였다.",
+        "선생님은 Vashti의 종이에 자신의 이름을 썼다.",
+        "Vashti는 종이에 작은 점을 하나 그렸다.",
+        "Vashti는 자신의 이름을 서명할 수 있다고 생각했다."
+      ],
+      "explainKo": "정답은 3번입니다.",
+      "corAns": "3"
+    },
+    {
+      "id": 21,
+      "group": "중2능률-L05-최종2-18-21",
+      "type": "TMC",
+      "question": "[18-21] 다음 글을 읽고, 물음에 답하시오.\nThe next day, Vashti was ⓐ surprised to see something in a frame on the wall of the art classroom. It was her little dot!\n\"I can make a ⓑ worse dot than that!\" Vashti said.\nShe got a brush and started painting.\n( 1 ) A red dot. A purple dot. A yellow dot. A blue dot. ( 2 ) Then she ⓒ mixed blue and yellow together. ( 3 ) Vashti kept ⓓ experimenting. She painted lots of little dots in many colors. ( 4 )\n\"If I can make little dots, I can make ⓔ big dots, too.\" ( 5 )\n(A) 그녀가 그린 모든 점들이 종이 위에서 함께 아름답게 보였다.\n\n18. 윗글의 밑줄 친 ⓐ~ⓔ 중 흐름상 어색한 것은?",
+      "answers": [
+        "surprised",
+        "worse",
+        "mixed",
+        "experimenting",
+        "big"
+      ],
+      "explainKo": "정답은 2번입니다.",
+      "corAns": "2"
+    },
+    {
+      "id": 22,
+      "group": "중2능률-L05-최종2-19-22",
+      "type": "TMC",
+      "question": "[18-21] 다음 글을 읽고, 물음에 답하시오.\nThe next day, Vashti was ⓐ surprised to see something in a frame on the wall of the art classroom. It was her little dot!\n\"I can make a ⓑ worse dot than that!\" Vashti said.\nShe got a brush and started painting.\n( 1 ) A red dot. A purple dot. A yellow dot. A blue dot. ( 2 ) Then she ⓒ mixed blue and yellow together. ( 3 ) Vashti kept ⓓ experimenting. She painted lots of little dots in many colors. ( 4 )\n\"If I can make little dots, I can make ⓔ big dots, too.\" ( 5 )\n(A) 그녀가 그린 모든 점들이 종이 위에서 함께 아름답게 보였다.\n\n19. 윗글의 (1)~(5) 중 다음 문장이 들어가기에 가장 적절한 곳은?\nShe discovered that she could make a green dot.",
+      "answers": [
+        "1번",
+        "2번",
+        "3번",
+        "4번",
+        "5번"
+      ],
+      "explainKo": "정답은 3번입니다.",
+      "corAns": "3"
+    },
+    {
+      "id": 23,
+      "group": "중2능률-L05-최종2-20-23",
+      "type": "TST",
+      "question": "[18-21] 다음 글을 읽고, 물음에 답하시오.\nThe next day, Vashti was ⓐ surprised to see something in a frame on the wall of the art classroom. It was her little dot!\n\"I can make a ⓑ worse dot than that!\" Vashti said.\nShe got a brush and started painting.\n( 1 ) A red dot. A purple dot. A yellow dot. A blue dot. ( 2 ) Then she ⓒ mixed blue and yellow together. ( 3 ) Vashti kept ⓓ experimenting. She painted lots of little dots in many colors. ( 4 )\n\"If I can make little dots, I can make ⓔ big dots, too.\" ( 5 )\n(A) 그녀가 그린 모든 점들이 종이 위에서 함께 아름답게 보였다.\n\n20. 윗글의 밑줄 친 (A)의 우리말에 맞도록 괄호 안의 단어들을 이용하여 문장을 완성하시오. 빈칸에 들어갈 말만 쓰시오.\n(that, the, painted, beautiful)\n→ All of ________ together on the paper.",
+      "answers": [
+        "the dots that she painted looked beautiful"
+      ],
+      "explainKo": "정답: the dots that she painted looked beautiful"
+    },
+    {
+      "id": 24,
+      "group": "중2능률-L05-최종2-21-24",
+      "type": "TMC",
+      "question": "[18-21] 다음 글을 읽고, 물음에 답하시오.\nThe next day, Vashti was ⓐ surprised to see something in a frame on the wall of the art classroom. It was her little dot!\n\"I can make a ⓑ worse dot than that!\" Vashti said.\nShe got a brush and started painting.\n( 1 ) A red dot. A purple dot. A yellow dot. A blue dot. ( 2 ) Then she ⓒ mixed blue and yellow together. ( 3 ) Vashti kept ⓓ experimenting. She painted lots of little dots in many colors. ( 4 )\n\"If I can make little dots, I can make ⓔ big dots, too.\" ( 5 )\n(A) 그녀가 그린 모든 점들이 종이 위에서 함께 아름답게 보였다.\n\n21. Which can you NOT know from the passage?",
+      "answers": [
+        "Seeing her dot on the wall encouraged Vashti to draw more.",
+        "Vashti became more confident about her drawing.",
+        "Vashti enjoyed experimenting with different colors.",
+        "Vashti was unhappy with all the dots she painted.",
+        "Vashti thought she could create more than just simple dots."
+      ],
+      "explainKo": "정답은 4번입니다.",
+      "corAns": "4"
+    },
+    {
+      "id": 25,
+      "group": "중2능률-L05-최종2-22-25",
+      "type": "TST",
+      "question": "[22-25] 다음 글을 읽고, 물음에 답하시오.\nAt the school art show a few weeks later, everyone loved Vashti's paintings.\nⓐ 한 어린 소년이 그녀를 올려다보았다.\n\"You're a really great artist. I want to paint like you,\" he said.\n\"I bet you can,\" said Vashti.\n\"Me? No, not me. I CAN'T draw!\"\nVashti smiled. She handed the boy a blank sheet of paper and told him to draw a line.\nThe pencil ⓑ which the boy held shook as he drew. Vashti looked at the boy's line. And then she said ...\n\"Sign it.\" \n\n22. 윗글의 밑줄 친 ⓐ의 우리말을 조건에 맞게 영작하시오. 문장 전체를 쓰시오.\nⓐ 한 어린 소년이 그녀를 올려다보았다.\n<조건> 1. look을 이용하되 필요시 형태를 바꿀 것. 2. 총 7단어로 쓸 것.",
+      "answers": [
+        "A little boy looked up at her."
+      ],
+      "explainKo": "정답: A little boy looked up at her."
+    },
+    {
+      "id": 26,
+      "group": "중2능률-L05-최종2-23-26",
+      "type": "TMC",
+      "question": "[22-25] 다음 글을 읽고, 물음에 답하시오.\nAt the school art show a few weeks later, everyone loved Vashti's paintings.\nⓐ 한 어린 소년이 그녀를 올려다보았다.\n\"You're a really great artist. I want to paint like you,\" he said.\n\"I bet you can,\" said Vashti.\n\"Me? No, not me. I CAN'T draw!\"\nVashti smiled. She handed the boy a blank sheet of paper and told him to draw a line.\nThe pencil ⓑ which the boy held shook as he drew. Vashti looked at the boy's line. And then she said ...\n\"Sign it.\"\n\n23. 윗글의 밑줄 친 ⓑ(which)와 쓰임이 다른 것은?",
+      "answers": [
+        "The movie that we watched was scary.",
+        "The T-shirt which you bought is really cool!",
+        "She is the baker who made this cake.",
+        "I like the jacket which you wore yesterday.",
+        "The teacher whom I asked explained it clearly."
+      ],
+      "explainKo": "정답은 3번입니다.",
+      "corAns": "3"
+    },
+    {
+      "id": 27,
+      "group": "중2능률-L05-최종2-24-27",
+      "type": "TMC",
+      "question": "[22-25] 다음 글을 읽고, 물음에 답하시오.\nAt the school art show a few weeks later, everyone loved Vashti's paintings.\nⓐ 한 어린 소년이 그녀를 올려다보았다.\n\"You're a really great artist. I want to paint like you,\" he said.\n\"I bet you can,\" said Vashti.\n\"Me? No, not me. I CAN'T draw!\"\nVashti smiled. She handed the boy a blank sheet of paper and told him to draw a line.\nThe pencil ⓑ which the boy held shook as he drew. Vashti looked at the boy's line. And then she said ...\n\"Sign it.\"\n\n24. 윗글의 내용과 일치하지 않는 것은?",
+      "answers": [
+        "Everyone at the school art show liked Vashti's paintings.",
+        "A little boy told Vashti that he wanted to paint like her.",
+        "Vashti encouraged the boy to draw even though he was not confident.",
+        "The boy drew a perfect and very beautiful painting at the art show.",
+        "Vashti told the boy to sign his drawing after he finished."
+      ],
+      "explainKo": "정답은 4번입니다.",
+      "corAns": "4"
+    },
+    {
+      "id": 28,
+      "group": "중2능률-L05-최종2-25-28",
+      "type": "TST",
+      "question": "[22-25] 다음 글을 읽고, 물음에 답하시오.\nAt the school art show a few weeks later, everyone loved Vashti's paintings.\nⓐ 한 어린 소년이 그녀를 올려다보았다.\n\"You're a really great artist. I want to paint like you,\" he said.\n\"I bet you can,\" said Vashti.\n\"Me? No, not me. I CAN'T draw!\"\nVashti smiled. She handed the boy a blank sheet of paper and told him to draw a line.\nThe pencil ⓑ which the boy held shook as he drew. Vashti looked at the boy's line. And then she said ...\n\"Sign it.\" \n\n25. 윗글에서 다음 영영풀이에 해당하는 단어를 찾아 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nto feel sure about something without knowing it as a fact",
+      "answers": [
+        "bet"
+      ],
+      "explainKo": "정답: bet"
+    }
+  ]
+}

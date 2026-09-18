@@ -1,0 +1,891 @@
+{
+  "id": "j2-neung-l06-vocab",
+  "title": "중2능률 L06 X-10 어휘 확인",
+  "sourceFile": "중2능률_L06_X-10_어휘_확인_문제.xlsx",
+  "questionCount": 87,
+  "questions": [
+    {
+      "id": 1,
+      "group": "중2능률-L06-X10어휘-A01-01",
+      "type": "TST",
+      "question": "A 다음 영어를 우리말로 쓰시오.\nraise",
+      "answers": [
+        "올리다, 기르다, 모으다",
+        "올리다",
+        "기르다",
+        "모으다"
+      ],
+      "explainKo": "정답: 올리다, 기르다, 모으다"
+    },
+    {
+      "id": 2,
+      "group": "중2능률-L06-X10어휘-A02-02",
+      "type": "TST",
+      "question": "A 다음 영어를 우리말로 쓰시오.\nthrough",
+      "answers": [
+        "~을 통해, 통과하여",
+        "~을 통해",
+        "통과하여"
+      ],
+      "explainKo": "정답: ~을 통해, 통과하여"
+    },
+    {
+      "id": 3,
+      "group": "중2능률-L06-X10어휘-A03-03",
+      "type": "TST",
+      "question": "A 다음 영어를 우리말로 쓰시오.\ninternational",
+      "answers": [
+        "국제적인"
+      ],
+      "explainKo": "정답: 국제적인"
+    },
+    {
+      "id": 4,
+      "group": "중2능률-L06-X10어휘-A04-04",
+      "type": "TST",
+      "question": "A 다음 영어를 우리말로 쓰시오.\nhappiness",
+      "answers": [
+        "행복"
+      ],
+      "explainKo": "정답: 행복"
+    },
+    {
+      "id": 5,
+      "group": "중2능률-L06-X10어휘-A05-05",
+      "type": "TST",
+      "question": "A 다음 영어를 우리말로 쓰시오.\nrainbow",
+      "answers": [
+        "무지개"
+      ],
+      "explainKo": "정답: 무지개"
+    },
+    {
+      "id": 6,
+      "group": "중2능률-L06-X10어휘-A06-06",
+      "type": "TST",
+      "question": "A 다음 영어를 우리말로 쓰시오.\nlantern",
+      "answers": [
+        "등불, 랜턴",
+        "등불",
+        "랜턴"
+      ],
+      "explainKo": "정답: 등불, 랜턴"
+    },
+    {
+      "id": 7,
+      "group": "중2능률-L06-X10어휘-A07-07",
+      "type": "TST",
+      "question": "A 다음 영어를 우리말로 쓰시오.\nstate",
+      "answers": [
+        "(미국 등의) 주",
+        "주"
+      ],
+      "explainKo": "정답: (미국 등의) 주"
+    },
+    {
+      "id": 8,
+      "group": "중2능률-L06-X10어휘-A08-08",
+      "type": "TST",
+      "question": "A 다음 영어를 우리말로 쓰시오.\nturtle",
+      "answers": [
+        "거북이"
+      ],
+      "explainKo": "정답: 거북이"
+    },
+    {
+      "id": 9,
+      "group": "중2능률-L06-X10어휘-A09-09",
+      "type": "TST",
+      "question": "A 다음 영어를 우리말로 쓰시오.\nharm",
+      "answers": [
+        "해치다, 해, 손해",
+        "해치다"
+      ],
+      "explainKo": "정답: 해치다, 해, 손해"
+    },
+    {
+      "id": 10,
+      "group": "중2능률-L06-X10어휘-A10-10",
+      "type": "TST",
+      "question": "A 다음 영어를 우리말로 쓰시오.\nmovement",
+      "answers": [
+        "동작, 움직임"
+      ],
+      "explainKo": "정답: 동작, 움직임"
+    },
+    {
+      "id": 11,
+      "group": "중2능률-L06-X10어휘-A11-11",
+      "type": "TST",
+      "question": "A 다음 영어를 우리말로 쓰시오.\nwonder",
+      "answers": [
+        "궁금하다"
+      ],
+      "explainKo": "정답: 궁금하다"
+    },
+    {
+      "id": 12,
+      "group": "중2능률-L06-X10어휘-A12-12",
+      "type": "TST",
+      "question": "A 다음 영어를 우리말로 쓰시오.\ncoral",
+      "answers": [
+        "산호"
+      ],
+      "explainKo": "정답: 산호"
+    },
+    {
+      "id": 13,
+      "group": "중2능률-L06-X10어휘-A13-13",
+      "type": "TST",
+      "question": "A 다음 영어를 우리말로 쓰시오.\ntouch",
+      "answers": [
+        "만지다, 접촉하다",
+        "만지다"
+      ],
+      "explainKo": "정답: 만지다, 접촉하다"
+    },
+    {
+      "id": 14,
+      "group": "중2능률-L06-X10어휘-A14-14",
+      "type": "TST",
+      "question": "A 다음 영어를 우리말로 쓰시오.\nnature",
+      "answers": [
+        "자연"
+      ],
+      "explainKo": "정답: 자연"
+    },
+    {
+      "id": 15,
+      "group": "중2능률-L06-X10어휘-A15-15",
+      "type": "TST",
+      "question": "A 다음 영어를 우리말로 쓰시오.\nstatue",
+      "answers": [
+        "조각상"
+      ],
+      "explainKo": "정답: 조각상"
+    },
+    {
+      "id": 16,
+      "group": "중2능률-L06-X10어휘-A16-16",
+      "type": "TST",
+      "question": "A 다음 영어를 우리말로 쓰시오.\nunderwater",
+      "answers": [
+        "물속의, 수중의"
+      ],
+      "explainKo": "정답: 물속의, 수중의"
+    },
+    {
+      "id": 17,
+      "group": "중2능률-L06-X10어휘-A17-17",
+      "type": "TST",
+      "question": "A 다음 영어를 우리말로 쓰시오.\nsurf",
+      "answers": [
+        "파도타기를 하다"
+      ],
+      "explainKo": "정답: 파도타기를 하다"
+    },
+    {
+      "id": 18,
+      "group": "중2능률-L06-X10어휘-A18-18",
+      "type": "TST",
+      "question": "A 다음 영어를 우리말로 쓰시오.\nopera",
+      "answers": [
+        "오페라"
+      ],
+      "explainKo": "정답: 오페라"
+    },
+    {
+      "id": 19,
+      "group": "중2능률-L06-X10어휘-A19-19",
+      "type": "TST",
+      "question": "A 다음 영어를 우리말로 쓰시오.\nfly",
+      "answers": [
+        "날리다, 날다, 비행하다"
+      ],
+      "explainKo": "정답: 날리다, 날다, 비행하다"
+    },
+    {
+      "id": 20,
+      "group": "중2능률-L06-X10어휘-A20-20",
+      "type": "TST",
+      "question": "A 다음 영어를 우리말로 쓰시오.\neducational",
+      "answers": [
+        "교육의, 교육적인"
+      ],
+      "explainKo": "정답: 교육의, 교육적인"
+    },
+    {
+      "id": 21,
+      "group": "중2능률-L06-X10어휘-B01-21",
+      "type": "TST",
+      "question": "B 다음 우리말을 영어로 쓰시오.\n~에 맞서",
+      "answers": [
+        "against"
+      ],
+      "explainKo": "정답: against"
+    },
+    {
+      "id": 22,
+      "group": "중2능률-L06-X10어휘-B02-22",
+      "type": "TST",
+      "question": "B 다음 우리말을 영어로 쓰시오.\n스노클링을 하다",
+      "answers": [
+        "snorkel"
+      ],
+      "explainKo": "정답: snorkel"
+    },
+    {
+      "id": 23,
+      "group": "중2능률-L06-X10어휘-B03-23",
+      "type": "TST",
+      "question": "B 다음 우리말을 영어로 쓰시오.\n목걸이",
+      "answers": [
+        "necklace"
+      ],
+      "explainKo": "정답: necklace"
+    },
+    {
+      "id": 24,
+      "group": "중2능률-L06-X10어휘-B04-24",
+      "type": "TST",
+      "question": "B 다음 우리말을 영어로 쓰시오.\n퍼레이드, 행진",
+      "answers": [
+        "parade"
+      ],
+      "explainKo": "정답: parade"
+    },
+    {
+      "id": 25,
+      "group": "중2능률-L06-X10어휘-B05-25",
+      "type": "TST",
+      "question": "B 다음 우리말을 영어로 쓰시오.\n기쁨, 즐거움",
+      "answers": [
+        "delight"
+      ],
+      "explainKo": "정답: delight"
+    },
+    {
+      "id": 26,
+      "group": "중2능률-L06-X10어휘-B06-26",
+      "type": "TST",
+      "question": "B 다음 우리말을 영어로 쓰시오.\n밝은",
+      "answers": [
+        "bright"
+      ],
+      "explainKo": "정답: bright"
+    },
+    {
+      "id": 27,
+      "group": "중2능률-L06-X10어휘-B07-27",
+      "type": "TST",
+      "question": "B 다음 우리말을 영어로 쓰시오.\n(바람이) 불다",
+      "answers": [
+        "blow"
+      ],
+      "explainKo": "정답: blow"
+    },
+    {
+      "id": 28,
+      "group": "중2능률-L06-X10어휘-B08-28",
+      "type": "TST",
+      "question": "B 다음 우리말을 영어로 쓰시오.\n흔한, 자주 있는",
+      "answers": [
+        "common"
+      ],
+      "explainKo": "정답: common"
+    },
+    {
+      "id": 29,
+      "group": "중2능률-L06-X10어휘-B09-29",
+      "type": "TST",
+      "question": "B 다음 우리말을 영어로 쓰시오.\n잡지",
+      "answers": [
+        "magazine"
+      ],
+      "explainKo": "정답: magazine"
+    },
+    {
+      "id": 30,
+      "group": "중2능률-L06-X10어휘-B10-30",
+      "type": "TST",
+      "question": "B 다음 우리말을 영어로 쓰시오.\n경치, 전망",
+      "answers": [
+        "view"
+      ],
+      "explainKo": "정답: view"
+    },
+    {
+      "id": 31,
+      "group": "중2능률-L06-X10어휘-B11-31",
+      "type": "TST",
+      "question": "B 다음 우리말을 영어로 쓰시오.\n일몰, 석양",
+      "answers": [
+        "sunset"
+      ],
+      "explainKo": "정답: sunset"
+    },
+    {
+      "id": 32,
+      "group": "중2능률-L06-X10어휘-B12-32",
+      "type": "TST",
+      "question": "B 다음 우리말을 영어로 쓰시오.\n환영; 환영하다",
+      "answers": [
+        "welcome"
+      ],
+      "explainKo": "정답: welcome"
+    },
+    {
+      "id": 33,
+      "group": "중2능률-L06-X10어휘-B13-33",
+      "type": "TST",
+      "question": "B 다음 우리말을 영어로 쓰시오.\n놀랍게도",
+      "answers": [
+        "surprisingly"
+      ],
+      "explainKo": "정답: surprisingly"
+    },
+    {
+      "id": 34,
+      "group": "중2능률-L06-X10어휘-B14-34",
+      "type": "TST",
+      "question": "B 다음 우리말을 영어로 쓰시오.\n축제, 카니발",
+      "answers": [
+        "carnival"
+      ],
+      "explainKo": "정답: carnival"
+    },
+    {
+      "id": 35,
+      "group": "중2능률-L06-X10어휘-B15-35",
+      "type": "TST",
+      "question": "B 다음 우리말을 영어로 쓰시오.\n역사적인",
+      "answers": [
+        "historical"
+      ],
+      "explainKo": "정답: historical"
+    },
+    {
+      "id": 36,
+      "group": "중2능률-L06-X10어휘-B16-36",
+      "type": "TST",
+      "question": "B 다음 우리말을 영어로 쓰시오.\n(해·달이) 뜨다",
+      "answers": [
+        "rise"
+      ],
+      "explainKo": "정답: rise"
+    },
+    {
+      "id": 37,
+      "group": "중2능률-L06-X10어휘-B17-37",
+      "type": "TST",
+      "question": "B 다음 우리말을 영어로 쓰시오.\n빛나는, 반짝거리는",
+      "answers": [
+        "shiny"
+      ],
+      "explainKo": "정답: shiny"
+    },
+    {
+      "id": 38,
+      "group": "중2능률-L06-X10어휘-B18-38",
+      "type": "TST",
+      "question": "B 다음 우리말을 영어로 쓰시오.\n관광",
+      "answers": [
+        "tour"
+      ],
+      "explainKo": "정답: tour"
+    },
+    {
+      "id": 39,
+      "group": "중2능률-L06-X10어휘-B19-39",
+      "type": "TST",
+      "question": "B 다음 우리말을 영어로 쓰시오.\n클래식의",
+      "answers": [
+        "classical"
+      ],
+      "explainKo": "정답: classical"
+    },
+    {
+      "id": 40,
+      "group": "중2능률-L06-X10어휘-B20-40",
+      "type": "TST",
+      "question": "B 다음 우리말을 영어로 쓰시오.\n전통의",
+      "answers": [
+        "traditional"
+      ],
+      "explainKo": "정답: traditional"
+    },
+    {
+      "id": 41,
+      "group": "중2능률-L06-X10어휘-C01-41",
+      "type": "TST",
+      "question": "C 다음 영어를 우리말로 쓰시오.\nsend away",
+      "answers": [
+        "쫓아 보내다"
+      ],
+      "explainKo": "정답: 쫓아 보내다"
+    },
+    {
+      "id": 42,
+      "group": "중2능률-L06-X10어휘-C02-42",
+      "type": "TST",
+      "question": "C 다음 영어를 우리말로 쓰시오.\narrive at",
+      "answers": [
+        "~에 도착하다"
+      ],
+      "explainKo": "정답: ~에 도착하다"
+    },
+    {
+      "id": 43,
+      "group": "중2능률-L06-X10어휘-C03-43",
+      "type": "TST",
+      "question": "C 다음 영어를 우리말로 쓰시오.\nbe ready to",
+      "answers": [
+        "~할 준비가 되다"
+      ],
+      "explainKo": "정답: ~할 준비가 되다"
+    },
+    {
+      "id": 44,
+      "group": "중2능률-L06-X10어휘-C04-44",
+      "type": "TST",
+      "question": "C 다음 영어를 우리말로 쓰시오.\non the way back (to)",
+      "answers": [
+        "(~로) 돌아가는 길에",
+        "돌아가는 길에"
+      ],
+      "explainKo": "정답: (~로) 돌아가는 길에"
+    },
+    {
+      "id": 45,
+      "group": "중2능률-L06-X10어휘-C05-45",
+      "type": "TST",
+      "question": "C 다음 영어를 우리말로 쓰시오.\nstand for",
+      "answers": [
+        "~을 상징하다, 의미하다"
+      ],
+      "explainKo": "정답: ~을 상징하다, 의미하다"
+    },
+    {
+      "id": 46,
+      "group": "중2능률-L06-X10어휘-C06-46",
+      "type": "TST",
+      "question": "C 다음 영어를 우리말로 쓰시오.\nfrom A to B",
+      "answers": [
+        "A에서 B까지"
+      ],
+      "explainKo": "정답: A에서 B까지"
+    },
+    {
+      "id": 47,
+      "group": "중2능률-L06-X10어휘-C07-47",
+      "type": "TST",
+      "question": "C 다음 영어를 우리말로 쓰시오.\neach other",
+      "answers": [
+        "서로"
+      ],
+      "explainKo": "정답: 서로"
+    },
+    {
+      "id": 48,
+      "group": "중2능률-L06-X10어휘-C08-48",
+      "type": "TST",
+      "question": "C 다음 영어를 우리말로 쓰시오.\nmistake A for B",
+      "answers": [
+        "A를 B로 오해하다"
+      ],
+      "explainKo": "정답: A를 B로 오해하다"
+    },
+    {
+      "id": 49,
+      "group": "중2능률-L06-X10어휘-C09-49",
+      "type": "TST",
+      "question": "C 다음 영어를 우리말로 쓰시오.\nin the past",
+      "answers": [
+        "과거에"
+      ],
+      "explainKo": "정답: 과거에"
+    },
+    {
+      "id": 50,
+      "group": "중2능률-L06-X10어휘-C10-50",
+      "type": "TST",
+      "question": "C 다음 영어를 우리말로 쓰시오.\nbad luck",
+      "answers": [
+        "불운"
+      ],
+      "explainKo": "정답: 불운"
+    },
+    {
+      "id": 51,
+      "group": "중2능률-L06-X10어휘-D01-51",
+      "type": "TST",
+      "question": "D 다음 우리말 뜻에 적절한 영어 표현을 쓰시오.\n원 모양으로",
+      "answers": [
+        "in a circle"
+      ],
+      "explainKo": "정답: in a circle"
+    },
+    {
+      "id": 52,
+      "group": "중2능률-L06-X10어휘-D02-52",
+      "type": "TST",
+      "question": "D 다음 우리말 뜻에 적절한 영어 표현을 쓰시오.\n예를 들어",
+      "answers": [
+        "for example"
+      ],
+      "explainKo": "정답: for example"
+    },
+    {
+      "id": 53,
+      "group": "중2능률-L06-X10어휘-D03-53",
+      "type": "TST",
+      "question": "D 다음 우리말 뜻에 적절한 영어 표현을 쓰시오.\n소원을 빌다",
+      "answers": [
+        "make a wish"
+      ],
+      "explainKo": "정답: make a wish"
+    },
+    {
+      "id": 54,
+      "group": "중2능률-L06-X10어휘-D04-54",
+      "type": "TST",
+      "question": "D 다음 우리말 뜻에 적절한 영어 표현을 쓰시오.\n~을 빌다[기원하다]",
+      "answers": [
+        "wish for"
+      ],
+      "explainKo": "정답: wish for"
+    },
+    {
+      "id": 55,
+      "group": "중2능률-L06-X10어휘-D05-55",
+      "type": "TST",
+      "question": "D 다음 우리말 뜻에 적절한 영어 표현을 쓰시오.\n녹차 밭",
+      "answers": [
+        "green tea field"
+      ],
+      "explainKo": "정답: green tea field"
+    },
+    {
+      "id": 56,
+      "group": "중2능률-L06-X10어휘-D06-56",
+      "type": "TST",
+      "question": "D 다음 우리말 뜻에 적절한 영어 표현을 쓰시오.\n(~로) 여행을 가다",
+      "answers": [
+        "go on a trip (to)",
+        "go on a trip to",
+        "go on a trip"
+      ],
+      "explainKo": "정답: go on a trip (to)"
+    },
+    {
+      "id": 57,
+      "group": "중2능률-L06-X10어휘-D07-57",
+      "type": "TST",
+      "question": "D 다음 우리말 뜻에 적절한 영어 표현을 쓰시오.\n라이브 공연",
+      "answers": [
+        "live performance"
+      ],
+      "explainKo": "정답: live performance"
+    },
+    {
+      "id": 58,
+      "group": "중2능률-L06-X10어휘-D08-58",
+      "type": "TST",
+      "question": "D 다음 우리말 뜻에 적절한 영어 표현을 쓰시오.\nA를 B라고 부르다",
+      "answers": [
+        "call A B"
+      ],
+      "explainKo": "정답: call A B"
+    },
+    {
+      "id": 59,
+      "group": "중2능률-L06-X10어휘-D09-59",
+      "type": "TST",
+      "question": "D 다음 우리말 뜻에 적절한 영어 표현을 쓰시오.\n열리다, 개최되다",
+      "answers": [
+        "be held"
+      ],
+      "explainKo": "정답: be held"
+    },
+    {
+      "id": 60,
+      "group": "중2능률-L06-X10어휘-D10-60",
+      "type": "TST",
+      "question": "D 다음 우리말 뜻에 적절한 영어 표현을 쓰시오.\n실현되다, 이루어지다",
+      "answers": [
+        "come true"
+      ],
+      "explainKo": "정답: come true"
+    },
+    {
+      "id": 61,
+      "group": "중2능률-L06-X10어휘-E01-61",
+      "type": "TST",
+      "question": "E 보기에서 골라 쓰시오. turtle carnival rainbow stand come view mistake wish traditional international\nThe ______ from the top is fantastic. 빈칸에 들어갈 말만 쓰시오.",
+      "answers": [
+        "view"
+      ],
+      "explainKo": "정답: view"
+    },
+    {
+      "id": 62,
+      "group": "중2능률-L06-X10어휘-E02-62",
+      "type": "TST",
+      "question": "E 보기에서 골라 쓰시오. turtle carnival rainbow stand come view mistake wish traditional international\nThe white dove ______s for hope and peace. 빈칸에 들어갈 말만 쓰시오.",
+      "answers": [
+        "stand"
+      ],
+      "explainKo": "정답: stand"
+    },
+    {
+      "id": 63,
+      "group": "중2능률-L06-X10어휘-E03-63",
+      "type": "TST",
+      "question": "E 보기에서 골라 쓰시오. turtle carnival rainbow stand come view mistake wish traditional international\nFinally, my childhood dream has ______ true. 빈칸에 들어갈 말만 쓰시오.",
+      "answers": [
+        "come"
+      ],
+      "explainKo": "정답: come"
+    },
+    {
+      "id": 64,
+      "group": "중2능률-L06-X10어휘-E04-64",
+      "type": "TST",
+      "question": "E 보기에서 골라 쓰시오. turtle carnival rainbow stand come view mistake wish traditional international\nA ______ appeared in the sky after the rain. 빈칸에 들어갈 말만 쓰시오.",
+      "answers": [
+        "rainbow"
+      ],
+      "explainKo": "정답: rainbow"
+    },
+    {
+      "id": 65,
+      "group": "중2능률-L06-X10어휘-E05-65",
+      "type": "TST",
+      "question": "E 보기에서 골라 쓰시오. turtle carnival rainbow stand come view mistake wish traditional international\nPeople often ______ her for a famous movie star. 빈칸에 들어갈 말만 쓰시오.",
+      "answers": [
+        "mistake"
+      ],
+      "explainKo": "정답: mistake"
+    },
+    {
+      "id": 66,
+      "group": "중2능률-L06-X10어휘-E06-66",
+      "type": "TST",
+      "question": "E 보기에서 골라 쓰시오. turtle carnival rainbow stand come view mistake wish traditional international\nClose your eyes, make a ______ and blow out the candles. 빈칸에 들어갈 말만 쓰시오.",
+      "answers": [
+        "wish"
+      ],
+      "explainKo": "정답: wish"
+    },
+    {
+      "id": 67,
+      "group": "중2능률-L06-X10어휘-E07-67",
+      "type": "TST",
+      "question": "E 보기에서 골라 쓰시오. turtle carnival rainbow stand come view mistake wish traditional international\nMany people wore masks and funny costumes during the ______. 빈칸에 들어갈 말만 쓰시오.",
+      "answers": [
+        "carnival"
+      ],
+      "explainKo": "정답: carnival"
+    },
+    {
+      "id": 68,
+      "group": "중2능률-L06-X10어휘-F01-68",
+      "type": "TST",
+      "question": "F 다음 영영풀이에 해당하는 단어를 쓰시오.\na light you can carry in your hand",
+      "answers": [
+        "lantern"
+      ],
+      "explainKo": "정답: lantern"
+    },
+    {
+      "id": 69,
+      "group": "중2능률-L06-X10어휘-F02-69",
+      "type": "TST",
+      "question": "F 다음 영영풀이에 해당하는 단어를 쓰시오.\nto travel or go in a particular direction",
+      "answers": [
+        "head"
+      ],
+      "explainKo": "정답: head"
+    },
+    {
+      "id": 70,
+      "group": "중2능률-L06-X10어휘-F03-70",
+      "type": "TST",
+      "question": "F 다음 영영풀이에 해당하는 단어를 쓰시오.\nlocated below the surface of the water",
+      "answers": [
+        "underwater"
+      ],
+      "explainKo": "정답: underwater"
+    },
+    {
+      "id": 71,
+      "group": "중2능률-L06-X10어휘-F04-71",
+      "type": "TST",
+      "question": "F 다음 영영풀이에 해당하는 단어를 쓰시오.\nto lift something up or make it higher",
+      "answers": [
+        "raise"
+      ],
+      "explainKo": "정답: raise"
+    },
+    {
+      "id": 72,
+      "group": "중2능률-L06-X10어휘-F05-72",
+      "type": "TST",
+      "question": "F 다음 영영풀이에 해당하는 단어를 쓰시오.\na hard thing made by small sea animals",
+      "answers": [
+        "coral"
+      ],
+      "explainKo": "정답: coral"
+    },
+    {
+      "id": 73,
+      "group": "중2능률-L06-X10어휘-F06-73",
+      "type": "TST",
+      "question": "F 다음 영영풀이에 해당하는 단어를 쓰시오.\nto hurt somebody or to damage something",
+      "answers": [
+        "harm"
+      ],
+      "explainKo": "정답: harm"
+    },
+    {
+      "id": 74,
+      "group": "중2능률-L06-X10어휘-F07-74",
+      "type": "TST",
+      "question": "F 다음 영영풀이에 해당하는 단어를 쓰시오.\nof or having to do with two or more countries",
+      "answers": [
+        "international"
+      ],
+      "explainKo": "정답: international"
+    },
+    {
+      "id": 75,
+      "group": "중2능률-L06-X10어휘-F08-75",
+      "type": "TST",
+      "question": "F 다음 영영풀이에 해당하는 단어를 쓰시오.\neverything in the world that is not made by people",
+      "answers": [
+        "nature"
+      ],
+      "explainKo": "정답: nature"
+    },
+    {
+      "id": 76,
+      "group": "중2능률-L06-X10어휘-F09-76",
+      "type": "TST",
+      "question": "F 다음 영영풀이에 해당하는 단어를 쓰시오.\na piece of jewelry that people wear around the neck",
+      "answers": [
+        "necklace"
+      ],
+      "explainKo": "정답: necklace"
+    },
+    {
+      "id": 77,
+      "group": "중2능률-L06-X10어휘-F10-77",
+      "type": "TST",
+      "question": "F 다음 영영풀이에 해당하는 단어를 쓰시오.\nan image of a person or animal that is made from a hard material",
+      "answers": [
+        "statue"
+      ],
+      "explainKo": "정답: statue"
+    },
+    {
+      "id": 78,
+      "group": "중2능률-L06-X10어휘-PlusA01-78",
+      "type": "TST",
+      "question": "Words Plus+ A 두 단어의 관계가 같도록 알맞은 단어를 쓰시오.\nrise : go down = ______ : below",
+      "answers": [
+        "above"
+      ],
+      "explainKo": "정답: above"
+    },
+    {
+      "id": 79,
+      "group": "중2능률-L06-X10어휘-PlusA02-79",
+      "type": "TST",
+      "question": "Words Plus+ A 두 단어의 관계가 같도록 알맞은 단어를 쓰시오.\nhurt 관계. 빈칸 단어만 쓰시오.",
+      "answers": [
+        "harm"
+      ],
+      "explainKo": "정답: harm"
+    },
+    {
+      "id": 80,
+      "group": "중2능률-L06-X10어휘-PlusA03-80",
+      "type": "TST",
+      "question": "Words Plus+ A 두 단어의 관계가 같도록 알맞은 단어를 쓰시오.\nlift / common:frequent 관계. 빈칸 단어만 쓰시오.",
+      "answers": [
+        "raise"
+      ],
+      "explainKo": "정답: raise"
+    },
+    {
+      "id": 81,
+      "group": "중2능률-L06-X10어휘-PlusA04-81",
+      "type": "TST",
+      "question": "Words Plus+ A 두 단어의 관계가 같도록 알맞은 단어를 쓰시오.\n행복 관련 명사. 빈칸 단어만 쓰시오.",
+      "answers": [
+        "happiness"
+      ],
+      "explainKo": "정답: happiness"
+    },
+    {
+      "id": 82,
+      "group": "중2능률-L06-X10어휘-PlusA05-82",
+      "type": "TST",
+      "question": "Words Plus+ A 두 단어의 관계가 같도록 알맞은 단어를 쓰시오.\neducational 관련. 빈칸 단어만 쓰시오.",
+      "answers": [
+        "educational"
+      ],
+      "explainKo": "정답: educational"
+    },
+    {
+      "id": 83,
+      "group": "중2능률-L06-X10어휘-PlusB01-83",
+      "type": "TST",
+      "question": "Words Plus+ B 조건에 맞게 빈칸에 알맞은 단어를 쓰시오.\nbright (반의어)",
+      "answers": [
+        "dark"
+      ],
+      "explainKo": "정답: dark"
+    },
+    {
+      "id": 84,
+      "group": "중2능률-L06-X10어휘-PlusB02-84",
+      "type": "TST",
+      "question": "Words Plus+ B 조건에 맞게 빈칸에 알맞은 단어를 쓰시오.\nsunset (반의어)",
+      "answers": [
+        "sunrise"
+      ],
+      "explainKo": "정답: sunrise"
+    },
+    {
+      "id": 85,
+      "group": "중2능률-L06-X10어휘-PlusB03-85",
+      "type": "TST",
+      "question": "Words Plus+ B 조건에 맞게 빈칸에 알맞은 단어를 쓰시오.\nview (유의어)",
+      "answers": [
+        "scenery"
+      ],
+      "explainKo": "정답: scenery"
+    },
+    {
+      "id": 86,
+      "group": "중2능률-L06-X10어휘-PlusB04-86",
+      "type": "TST",
+      "question": "Words Plus+ B 조건에 맞게 빈칸에 알맞은 단어를 쓰시오.\n공연 관련",
+      "answers": [
+        "performance"
+      ],
+      "explainKo": "정답: performance"
+    },
+    {
+      "id": 87,
+      "group": "중2능률-L06-X10어휘-PlusB05-87",
+      "type": "TST",
+      "question": "Words Plus+ B 조건에 맞게 빈칸에 알맞은 단어를 쓰시오.\ntraditional",
+      "answers": [
+        "traditional"
+      ],
+      "explainKo": "정답: traditional"
+    }
+  ]
+}

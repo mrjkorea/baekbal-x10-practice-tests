@@ -1,0 +1,999 @@
+{
+  "id": "j2-neung-l05-vocab",
+  "title": "중2능률 L05 X-10 어휘 확인",
+  "sourceFile": "중2능률_L05_X-10_어휘_확인_문제.xlsx",
+  "questionCount": 97,
+  "questions": [
+    {
+      "id": 1,
+      "group": "중2능률-L05-X10어휘-A01-01",
+      "type": "TST",
+      "question": "A01. 다음 영어를 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오: dot",
+      "answers": [
+        "점"
+      ],
+      "explainKo": "정답: 점"
+    },
+    {
+      "id": 2,
+      "group": "중2능률-L05-X10어휘-A02-02",
+      "type": "TST",
+      "question": "A02. 다음 영어를 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오: mark",
+      "answers": [
+        "자국; 표시하다",
+        "자국",
+        "표시하다"
+      ],
+      "explainKo": "정답: 자국; 표시하다"
+    },
+    {
+      "id": 3,
+      "group": "중2능률-L05-X10어휘-A03-03",
+      "type": "TST",
+      "question": "A03. 다음 영어를 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오: thankful",
+      "answers": [
+        "고마워하는"
+      ],
+      "explainKo": "정답: 고마워하는"
+    },
+    {
+      "id": 4,
+      "group": "중2능률-L05-X10어휘-A04-04",
+      "type": "TST",
+      "question": "A04. 다음 영어를 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오: amazing",
+      "answers": [
+        "놀라운"
+      ],
+      "explainKo": "정답: 놀라운"
+    },
+    {
+      "id": 5,
+      "group": "중2능률-L05-X10어휘-A05-05",
+      "type": "TST",
+      "question": "A05. 다음 영어를 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오: hold",
+      "answers": [
+        "개최하다, 열다",
+        "개최하다",
+        "열다"
+      ],
+      "explainKo": "정답: 개최하다, 열다"
+    },
+    {
+      "id": 6,
+      "group": "중2능률-L05-X10어휘-A06-06",
+      "type": "TST",
+      "question": "A06. 다음 영어를 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오: mix",
+      "answers": [
+        "섞다, 혼합하다",
+        "섞다",
+        "혼합하다"
+      ],
+      "explainKo": "정답: 섞다, 혼합하다"
+    },
+    {
+      "id": 7,
+      "group": "중2능률-L05-X10어휘-A07-07",
+      "type": "TST",
+      "question": "A07. 다음 영어를 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오: coding",
+      "answers": [
+        "코딩"
+      ],
+      "explainKo": "정답: 코딩"
+    },
+    {
+      "id": 8,
+      "group": "중2능률-L05-X10어휘-A08-08",
+      "type": "TST",
+      "question": "A08. 다음 영어를 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오: carefully",
+      "answers": [
+        "주의 깊게, 신중히",
+        "주의 깊게",
+        "신중히"
+      ],
+      "explainKo": "정답: 주의 깊게, 신중히"
+    },
+    {
+      "id": 9,
+      "group": "중2능률-L05-X10어휘-A09-09",
+      "type": "TST",
+      "question": "A09. 다음 영어를 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오: edit",
+      "answers": [
+        "편집하다"
+      ],
+      "explainKo": "정답: 편집하다"
+    },
+    {
+      "id": 10,
+      "group": "중2능률-L05-X10어휘-A10-10",
+      "type": "TST",
+      "question": "A10. 다음 영어를 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오: believe",
+      "answers": [
+        "믿다"
+      ],
+      "explainKo": "정답: 믿다"
+    },
+    {
+      "id": 11,
+      "group": "중2능률-L05-X10어휘-A11-11",
+      "type": "TST",
+      "question": "A11. 다음 영어를 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오: perfect",
+      "answers": [
+        "완벽한"
+      ],
+      "explainKo": "정답: 완벽한"
+    },
+    {
+      "id": 12,
+      "group": "중2능률-L05-X10어휘-A12-12",
+      "type": "TST",
+      "question": "A12. 다음 영어를 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오: remember",
+      "answers": [
+        "기억하다"
+      ],
+      "explainKo": "정답: 기억하다"
+    },
+    {
+      "id": 13,
+      "group": "중2능률-L05-X10어휘-A13-13",
+      "type": "TST",
+      "question": "A13. 다음 영어를 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오: someday",
+      "answers": [
+        "(미래의) 언젠가, 훗날",
+        "(미래의) 언젠가",
+        "훗날"
+      ],
+      "explainKo": "정답: (미래의) 언젠가, 훗날"
+    },
+    {
+      "id": 14,
+      "group": "중2능률-L05-X10어휘-A14-14",
+      "type": "TST",
+      "question": "A14. 다음 영어를 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오: practice",
+      "answers": [
+        "연습하다, 실행하다",
+        "연습하다",
+        "실행하다"
+      ],
+      "explainKo": "정답: 연습하다, 실행하다"
+    },
+    {
+      "id": 15,
+      "group": "중2능률-L05-X10어휘-A15-15",
+      "type": "TST",
+      "question": "A15. 다음 영어를 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오: experiment",
+      "answers": [
+        "실험하다"
+      ],
+      "explainKo": "정답: 실험하다"
+    },
+    {
+      "id": 16,
+      "group": "중2능률-L05-X10어휘-A16-16",
+      "type": "TST",
+      "question": "A16. 다음 영어를 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오: sign",
+      "answers": [
+        "서명하다"
+      ],
+      "explainKo": "정답: 서명하다"
+    },
+    {
+      "id": 17,
+      "group": "중2능률-L05-X10어휘-A17-17",
+      "type": "TST",
+      "question": "A17. 다음 영어를 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오: toward",
+      "answers": [
+        "~쪽으로, ~을 향하여",
+        "~쪽으로",
+        "~을 향하여"
+      ],
+      "explainKo": "정답: ~쪽으로, ~을 향하여"
+    },
+    {
+      "id": 18,
+      "group": "중2능률-L05-X10어휘-A18-18",
+      "type": "TST",
+      "question": "A18. 다음 영어를 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오: allow",
+      "answers": [
+        "허락하다"
+      ],
+      "explainKo": "정답: 허락하다"
+    },
+    {
+      "id": 19,
+      "group": "중2능률-L05-X10어휘-A19-19",
+      "type": "TST",
+      "question": "A19. 다음 영어를 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오: return",
+      "answers": [
+        "돌려주다, 반납하다",
+        "돌려주다",
+        "반납하다"
+      ],
+      "explainKo": "정답: 돌려주다, 반납하다"
+    },
+    {
+      "id": 20,
+      "group": "중2능률-L05-X10어휘-A20-20",
+      "type": "TST",
+      "question": "A20. 다음 영어를 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오: shake",
+      "answers": [
+        "흔들리다, 흔들다",
+        "흔들리다",
+        "흔들다"
+      ],
+      "explainKo": "정답: 흔들리다, 흔들다"
+    },
+    {
+      "id": 21,
+      "group": "중2능률-L05-X10어휘-B01-21",
+      "type": "TST",
+      "question": "B01. 다음 우리말을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오: 쉽게",
+      "answers": [
+        "easily"
+      ],
+      "explainKo": "정답: easily"
+    },
+    {
+      "id": 22,
+      "group": "중2능률-L05-X10어휘-B02-22",
+      "type": "TST",
+      "question": "B02. 다음 우리말을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오: 실패하다",
+      "answers": [
+        "fail"
+      ],
+      "explainKo": "정답: fail"
+    },
+    {
+      "id": 23,
+      "group": "중2능률-L05-X10어휘-B03-23",
+      "type": "TST",
+      "question": "B03. 다음 우리말을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오: -도 또한, 역시",
+      "answers": [
+        "too"
+      ],
+      "explainKo": "정답: too"
+    },
+    {
+      "id": 24,
+      "group": "중2능률-L05-X10어휘-B04-24",
+      "type": "TST",
+      "question": "B04. 다음 우리말을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오: 기울이다, 기대다",
+      "answers": [
+        "lean"
+      ],
+      "explainKo": "정답: lean"
+    },
+    {
+      "id": 25,
+      "group": "중2능률-L05-X10어휘-B05-25",
+      "type": "TST",
+      "question": "B05. 다음 우리말을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오: 건네주다",
+      "answers": [
+        "hand"
+      ],
+      "explainKo": "정답: hand"
+    },
+    {
+      "id": 26,
+      "group": "중2능률-L05-X10어휘-B06-26",
+      "type": "TST",
+      "question": "B06. 다음 우리말을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오: 얇은 천[종이]",
+      "answers": [
+        "sheet"
+      ],
+      "explainKo": "정답: sheet"
+    },
+    {
+      "id": 27,
+      "group": "중2능률-L05-X10어휘-B07-27",
+      "type": "TST",
+      "question": "B07. 다음 우리말을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오: 놀란",
+      "answers": [
+        "surprised"
+      ],
+      "explainKo": "정답: surprised"
+    },
+    {
+      "id": 28,
+      "group": "중2능률-L05-X10어휘-B08-28",
+      "type": "TST",
+      "question": "B08. 다음 우리말을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오: 나중에, 후에",
+      "answers": [
+        "later"
+      ],
+      "explainKo": "정답: later"
+    },
+    {
+      "id": 29,
+      "group": "중2능률-L05-X10어휘-B09-29",
+      "type": "TST",
+      "question": "B09. 다음 우리말을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오: 지지하다, 후원하다",
+      "answers": [
+        "support"
+      ],
+      "explainKo": "정답: support"
+    },
+    {
+      "id": 30,
+      "group": "중2능률-L05-X10어휘-B10-30",
+      "type": "TST",
+      "question": "B10. 다음 우리말을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오: 발견하다, 찾다",
+      "answers": [
+        "discover"
+      ],
+      "explainKo": "정답: discover"
+    },
+    {
+      "id": 31,
+      "group": "중2능률-L05-X10어휘-B11-31",
+      "type": "TST",
+      "question": "B11. 다음 우리말을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오: 액자, 틀",
+      "answers": [
+        "frame"
+      ],
+      "explainKo": "정답: frame"
+    },
+    {
+      "id": 32,
+      "group": "중2능률-L05-X10어휘-B12-32",
+      "type": "TST",
+      "question": "B12. 다음 우리말을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오: 예술가, 미술가",
+      "answers": [
+        "artist"
+      ],
+      "explainKo": "정답: artist"
+    },
+    {
+      "id": 33,
+      "group": "중2능률-L05-X10어휘-B13-33",
+      "type": "TST",
+      "question": "B13. 다음 우리말을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오: 사람",
+      "answers": [
+        "person"
+      ],
+      "explainKo": "정답: person"
+    },
+    {
+      "id": 34,
+      "group": "중2능률-L05-X10어휘-B14-34",
+      "type": "TST",
+      "question": "B14. 다음 우리말을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오: 게시하여 알리다",
+      "answers": [
+        "post"
+      ],
+      "explainKo": "정답: post"
+    },
+    {
+      "id": 35,
+      "group": "중2능률-L05-X10어휘-B15-35",
+      "type": "TST",
+      "question": "B15. 다음 우리말을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오: 메시지, 전갈",
+      "answers": [
+        "message"
+      ],
+      "explainKo": "정답: message"
+    },
+    {
+      "id": 36,
+      "group": "중2능률-L05-X10어휘-B16-36",
+      "type": "TST",
+      "question": "B16. 다음 우리말을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오: 기타 연주자",
+      "answers": [
+        "guitarist"
+      ],
+      "explainKo": "정답: guitarist"
+    },
+    {
+      "id": 37,
+      "group": "중2능률-L05-X10어휘-B17-37",
+      "type": "TST",
+      "question": "B17. 다음 우리말을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오: 수필, 에세이",
+      "answers": [
+        "essay"
+      ],
+      "explainKo": "정답: essay"
+    },
+    {
+      "id": 38,
+      "group": "중2능률-L05-X10어휘-B18-38",
+      "type": "TST",
+      "question": "B18. 다음 우리말을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오: 만들다, 창조하다",
+      "answers": [
+        "create"
+      ],
+      "explainKo": "정답: create"
+    },
+    {
+      "id": 39,
+      "group": "중2능률-L05-X10어휘-B19-39",
+      "type": "TST",
+      "question": "B19. 다음 우리말을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오: 댓글, 논평",
+      "answers": [
+        "comment"
+      ],
+      "explainKo": "정답: comment"
+    },
+    {
+      "id": 40,
+      "group": "중2능률-L05-X10어휘-B20-40",
+      "type": "TST",
+      "question": "B20. 다음 우리말을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오: (음식을) 굽다",
+      "answers": [
+        "bake"
+      ],
+      "explainKo": "정답: bake"
+    },
+    {
+      "id": 41,
+      "group": "중2능률-L05-X10어휘-C01-41",
+      "type": "TST",
+      "question": "C01. 다음 영어 표현을 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오: be good at",
+      "answers": [
+        "~을 잘하다"
+      ],
+      "explainKo": "정답: ~을 잘하다"
+    },
+    {
+      "id": 42,
+      "group": "중2능률-L05-X10어휘-C02-42",
+      "type": "TST",
+      "question": "C02. 다음 영어 표현을 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오: keep a diary",
+      "answers": [
+        "일기를 (지속해서) 쓰다",
+        "일기를 쓰다"
+      ],
+      "explainKo": "정답: 일기를 (지속해서) 쓰다"
+    },
+    {
+      "id": 43,
+      "group": "중2능률-L05-X10어휘-C03-43",
+      "type": "TST",
+      "question": "C03. 다음 영어 표현을 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오: in front of",
+      "answers": [
+        "~의 앞에"
+      ],
+      "explainKo": "정답: ~의 앞에"
+    },
+    {
+      "id": 44,
+      "group": "중2능률-L05-X10어휘-C04-44",
+      "type": "TST",
+      "question": "C04. 다음 영어 표현을 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오: look forward to",
+      "answers": [
+        "~을 고대하다"
+      ],
+      "explainKo": "정답: ~을 고대하다"
+    },
+    {
+      "id": 45,
+      "group": "중2능률-L05-X10어휘-C05-45",
+      "type": "TST",
+      "question": "C05. 다음 영어 표현을 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오: a few",
+      "answers": [
+        "어느 정도, 조금"
+      ],
+      "explainKo": "정답: 어느 정도, 조금"
+    },
+    {
+      "id": 46,
+      "group": "중2능률-L05-X10어휘-C06-46",
+      "type": "TST",
+      "question": "C06. 다음 영어 표현을 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오: look up at",
+      "answers": [
+        "~을 올려다보다"
+      ],
+      "explainKo": "정답: ~을 올려다보다"
+    },
+    {
+      "id": 47,
+      "group": "중2능률-L05-X10어휘-C07-47",
+      "type": "TST",
+      "question": "C07. 다음 영어 표현을 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오: the next day",
+      "answers": [
+        "다음 날"
+      ],
+      "explainKo": "정답: 다음 날"
+    },
+    {
+      "id": 48,
+      "group": "중2능률-L05-X10어휘-C08-48",
+      "type": "TST",
+      "question": "C08. 다음 영어 표현을 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오: lean over",
+      "answers": [
+        "~너머로 몸을 숙이다"
+      ],
+      "explainKo": "정답: ~너머로 몸을 숙이다"
+    },
+    {
+      "id": 49,
+      "group": "중2능률-L05-X10어휘-C09-49",
+      "type": "TST",
+      "question": "C09. 다음 영어 표현을 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오: take a picture",
+      "answers": [
+        "사진을 찍다"
+      ],
+      "explainKo": "정답: 사진을 찍다"
+    },
+    {
+      "id": 50,
+      "group": "중2능률-L05-X10어휘-C10-50",
+      "type": "TST",
+      "question": "C10. 다음 영어 표현을 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오: polar bear",
+      "answers": [
+        "북극곰"
+      ],
+      "explainKo": "정답: 북극곰"
+    },
+    {
+      "id": 51,
+      "group": "중2능률-L05-X10어휘-D01-51",
+      "type": "TST",
+      "question": "D01. 다음 우리말 표현을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오: 집어들다",
+      "answers": [
+        "pick up"
+      ],
+      "explainKo": "정답: pick up"
+    },
+    {
+      "id": 52,
+      "group": "중2능률-L05-X10어휘-D02-52",
+      "type": "TST",
+      "question": "D02. 다음 우리말 표현을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오: 벽에",
+      "answers": [
+        "on the wall"
+      ],
+      "explainKo": "정답: on the wall"
+    },
+    {
+      "id": 53,
+      "group": "중2능률-L05-X10어휘-D03-53",
+      "type": "TST",
+      "question": "D03. 다음 우리말 표현을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오: -에 참석하다",
+      "answers": [
+        "take part in"
+      ],
+      "explainKo": "정답: take part in"
+    },
+    {
+      "id": 54,
+      "group": "중2능률-L05-X10어휘-D04-54",
+      "type": "TST",
+      "question": "D04. 다음 우리말 표현을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오: 잠시",
+      "answers": [
+        "for a moment"
+      ],
+      "explainKo": "정답: for a moment"
+    },
+    {
+      "id": 55,
+      "group": "중2능률-L05-X10어휘-D05-55",
+      "type": "TST",
+      "question": "D05. 다음 우리말 표현을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오: 끝나다",
+      "answers": [
+        "be over"
+      ],
+      "explainKo": "정답: be over"
+    },
+    {
+      "id": 56,
+      "group": "중2능률-L05-X10어휘-D06-56",
+      "type": "TST",
+      "question": "D06. 다음 우리말 표현을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오: 요즘에는",
+      "answers": [
+        "these days"
+      ],
+      "explainKo": "정답: these days"
+    },
+    {
+      "id": 57,
+      "group": "중2능률-L05-X10어휘-D07-57",
+      "type": "TST",
+      "question": "D07. 다음 우리말 표현을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오: ~에 등록하다",
+      "answers": [
+        "sign up"
+      ],
+      "explainKo": "정답: sign up"
+    },
+    {
+      "id": 58,
+      "group": "중2능률-L05-X10어휘-D08-58",
+      "type": "TST",
+      "question": "D08. 다음 우리말 표현을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오: 발표하다",
+      "answers": [
+        "give a presentation"
+      ],
+      "explainKo": "정답: give a presentation"
+    },
+    {
+      "id": 59,
+      "group": "중2능률-L05-X10어휘-D09-59",
+      "type": "TST",
+      "question": "D09. 다음 우리말 표현을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오: ~을 확신하다",
+      "answers": [
+        "be sure (that)",
+        "be sure",
+        "be sure that"
+      ],
+      "explainKo": "정답: be sure (that)"
+    },
+    {
+      "id": 60,
+      "group": "중2능률-L05-X10어휘-D10-60",
+      "type": "TST",
+      "question": "D10. 다음 우리말 표현을 영어로 쓰시오. 빈칸에 들어갈 말만 쓰시오: 여러 가지 색깔로",
+      "answers": [
+        "in many colors"
+      ],
+      "explainKo": "정답: in many colors"
+    },
+    {
+      "id": 61,
+      "group": "중2능률-L05-X10어휘-E01-61",
+      "type": "TST",
+      "question": "E01. 보기에서 골라 쓰시오. 빈칸에 들어갈 말만 쓰시오. (보기: bet, comment, experiment, frame, goal, hand, lean, shake)\n01 Please don't ______ on the glass door.",
+      "answers": [
+        "lean"
+      ],
+      "explainKo": "정답: lean"
+    },
+    {
+      "id": 62,
+      "group": "중2능률-L05-X10어휘-E02-62",
+      "type": "TST",
+      "question": "E02. 보기에서 골라 쓰시오. 빈칸에 들어갈 말만 쓰시오. (보기: bet, comment, experiment, frame, goal, hand, lean, shake)\n02 The dog likes to ______ his body after a bath.",
+      "answers": [
+        "shake"
+      ],
+      "explainKo": "정답: shake"
+    },
+    {
+      "id": 63,
+      "group": "중2능률-L05-X10어휘-E03-63",
+      "type": "TST",
+      "question": "E03. 보기에서 골라 쓰시오. 빈칸에 들어갈 말만 쓰시오. (보기: bet, comment, experiment, frame, goal, hand, lean, shake)\n03 I ______ you can finish your homework in an hour.",
+      "answers": [
+        "bet"
+      ],
+      "explainKo": "정답: bet"
+    },
+    {
+      "id": 64,
+      "group": "중2능률-L05-X10어휘-E04-64",
+      "type": "TST",
+      "question": "E04. 보기에서 골라 쓰시오. 빈칸에 들어갈 말만 쓰시오. (보기: bet, comment, experiment, frame, goal, hand, lean, shake)\n04 The girl will ______ with different kinds of paint.",
+      "answers": [
+        "experiment"
+      ],
+      "explainKo": "정답: experiment"
+    },
+    {
+      "id": 65,
+      "group": "중2능률-L05-X10어휘-E05-65",
+      "type": "TST",
+      "question": "E05. 보기에서 골라 쓰시오. 빈칸에 들어갈 말만 쓰시오. (보기: bet, comment, experiment, frame, goal, hand, lean, shake)\n05 My friend gave me a nice ______ about my singing.",
+      "answers": [
+        "comment"
+      ],
+      "explainKo": "정답: comment"
+    },
+    {
+      "id": 66,
+      "group": "중2능률-L05-X10어휘-E06-66",
+      "type": "TST",
+      "question": "E06. 보기에서 골라 쓰시오. 빈칸에 들어갈 말만 쓰시오. (보기: bet, comment, experiment, frame, goal, hand, lean, shake)\n06 The teacher will ______ the test paper back to the student.",
+      "answers": [
+        "hand"
+      ],
+      "explainKo": "정답: hand"
+    },
+    {
+      "id": 67,
+      "group": "중2능률-L05-X10어휘-E07-67",
+      "type": "TST",
+      "question": "E07. 보기에서 골라 쓰시오. 빈칸에 들어갈 말만 쓰시오. (보기: bet, comment, experiment, frame, goal, hand, lean, shake)\n07 The artist put the finished artwork in a simple black ______.",
+      "answers": [
+        "frame"
+      ],
+      "explainKo": "정답: frame"
+    },
+    {
+      "id": 68,
+      "group": "중2능률-L05-X10어휘-F01-1-68",
+      "type": "TST",
+      "question": "F01-1. 다음 영영풀이에 해당하는 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n(to do many times in order to become skilled)",
+      "answers": [
+        "practice"
+      ],
+      "explainKo": "정답: practice"
+    },
+    {
+      "id": 69,
+      "group": "중2능률-L05-X10어휘-F01-2-69",
+      "type": "TST",
+      "question": "F01-2. 위 단어의 뜻을 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오. (practice)",
+      "answers": [
+        "연습하다"
+      ],
+      "explainKo": "정답: 연습하다"
+    },
+    {
+      "id": 70,
+      "group": "중2능률-L05-X10어휘-F02-1-70",
+      "type": "TST",
+      "question": "F02-1. 다음 영영풀이에 해당하는 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n(to give back or go back to a place)",
+      "answers": [
+        "return"
+      ],
+      "explainKo": "정답: return"
+    },
+    {
+      "id": 71,
+      "group": "중2능률-L05-X10어휘-F02-2-71",
+      "type": "TST",
+      "question": "F02-2. 위 단어의 뜻을 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오. (return)",
+      "answers": [
+        "돌려주다"
+      ],
+      "explainKo": "정답: 돌려주다"
+    },
+    {
+      "id": 72,
+      "group": "중2능률-L05-X10어휘-F03-1-72",
+      "type": "TST",
+      "question": "F03-1. 다음 영영풀이에 해당하는 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n(a small round mark made by a pencil, pen, or other object)",
+      "answers": [
+        "dot"
+      ],
+      "explainKo": "정답: dot"
+    },
+    {
+      "id": 73,
+      "group": "중2능률-L05-X10어휘-F03-2-73",
+      "type": "TST",
+      "question": "F03-2. 위 단어의 뜻을 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오. (dot)",
+      "answers": [
+        "점"
+      ],
+      "explainKo": "정답: 점"
+    },
+    {
+      "id": 74,
+      "group": "중2능률-L05-X10어휘-F04-1-74",
+      "type": "TST",
+      "question": "F04-1. 다음 영영풀이에 해당하는 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n(something that you want to achieve in the future)",
+      "answers": [
+        "goal"
+      ],
+      "explainKo": "정답: goal"
+    },
+    {
+      "id": 75,
+      "group": "중2능률-L05-X10어휘-F04-2-75",
+      "type": "TST",
+      "question": "F04-2. 위 단어의 뜻을 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오. (goal)",
+      "answers": [
+        "목표"
+      ],
+      "explainKo": "정답: 목표"
+    },
+    {
+      "id": 76,
+      "group": "중2능률-L05-X10어휘-F05-1-76",
+      "type": "TST",
+      "question": "F05-1. 다음 영영풀이에 해당하는 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n(to write one's name to show that one has made it)",
+      "answers": [
+        "sign"
+      ],
+      "explainKo": "정답: sign"
+    },
+    {
+      "id": 77,
+      "group": "중2능률-L05-X10어휘-F05-2-77",
+      "type": "TST",
+      "question": "F05-2. 위 단어의 뜻을 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오. (sign)",
+      "answers": [
+        "서명하다"
+      ],
+      "explainKo": "정답: 서명하다"
+    },
+    {
+      "id": 78,
+      "group": "중2능률-L05-X10어휘-F06-1-78",
+      "type": "TST",
+      "question": "F06-1. 다음 영영풀이에 해당하는 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n(to help someone in a time of need, trouble, or stress)",
+      "answers": [
+        "support"
+      ],
+      "explainKo": "정답: support"
+    },
+    {
+      "id": 79,
+      "group": "중2능률-L05-X10어휘-F06-2-79",
+      "type": "TST",
+      "question": "F06-2. 위 단어의 뜻을 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오. (support)",
+      "answers": [
+        "지지하다"
+      ],
+      "explainKo": "정답: 지지하다"
+    },
+    {
+      "id": 80,
+      "group": "중2능률-L05-X10어휘-F07-1-80",
+      "type": "TST",
+      "question": "F07-1. 다음 영영풀이에 해당하는 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n(to let someone do something)",
+      "answers": [
+        "allow"
+      ],
+      "explainKo": "정답: allow"
+    },
+    {
+      "id": 81,
+      "group": "중2능률-L05-X10어휘-F07-2-81",
+      "type": "TST",
+      "question": "F07-2. 위 단어의 뜻을 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오. (allow)",
+      "answers": [
+        "허락하다"
+      ],
+      "explainKo": "정답: 허락하다"
+    },
+    {
+      "id": 82,
+      "group": "중2능률-L05-X10어휘-F08-1-82",
+      "type": "TST",
+      "question": "F08-1. 다음 영영풀이에 해당하는 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n(being without writing, printing, or marks)",
+      "answers": [
+        "blank"
+      ],
+      "explainKo": "정답: blank"
+    },
+    {
+      "id": 83,
+      "group": "중2능률-L05-X10어휘-F08-2-83",
+      "type": "TST",
+      "question": "F08-2. 위 단어의 뜻을 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오. (blank)",
+      "answers": [
+        "빈"
+      ],
+      "explainKo": "정답: 빈"
+    },
+    {
+      "id": 84,
+      "group": "중2능률-L05-X10어휘-F09-1-84",
+      "type": "TST",
+      "question": "F09-1. 다음 영영풀이에 해당하는 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n(having no equal; different from everything else)",
+      "answers": [
+        "unique"
+      ],
+      "explainKo": "정답: unique"
+    },
+    {
+      "id": 85,
+      "group": "중2능률-L05-X10어휘-F09-2-85",
+      "type": "TST",
+      "question": "F09-2. 위 단어의 뜻을 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오. (unique)",
+      "answers": [
+        "독특한"
+      ],
+      "explainKo": "정답: 독특한"
+    },
+    {
+      "id": 86,
+      "group": "중2능률-L05-X10어휘-F10-1-86",
+      "type": "TST",
+      "question": "F10-1. 다음 영영풀이에 해당하는 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n(to find or learn something for the first time)",
+      "answers": [
+        "discover"
+      ],
+      "explainKo": "정답: discover"
+    },
+    {
+      "id": 87,
+      "group": "중2능률-L05-X10어휘-F10-2-87",
+      "type": "TST",
+      "question": "F10-2. 위 단어의 뜻을 우리말로 쓰시오. 빈칸에 들어갈 말만 쓰시오. (discover)",
+      "answers": [
+        "발견하다"
+      ],
+      "explainKo": "정답: 발견하다"
+    },
+    {
+      "id": 88,
+      "group": "중2능률-L05-X10어휘-WpA01-88",
+      "type": "TST",
+      "question": "Words Plus+ A01. 두 단어의 관계가 같도록 빈칸에 적절한 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n01 art : ______ = science : scientist",
+      "answers": [
+        "artist"
+      ],
+      "explainKo": "정답: artist"
+    },
+    {
+      "id": 89,
+      "group": "중2능률-L05-X10어휘-WpA02-89",
+      "type": "TST",
+      "question": "Words Plus+ A02. 두 단어의 관계가 같도록 빈칸에 적절한 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n02 ______ : pull = borrow : lend",
+      "answers": [
+        "push"
+      ],
+      "explainKo": "정답: push"
+    },
+    {
+      "id": 90,
+      "group": "중2능률-L05-X10어휘-WpA03-90",
+      "type": "TST",
+      "question": "Words Plus+ A03. 두 단어의 관계가 같도록 빈칸에 적절한 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n03 hold : held = ______ : shook",
+      "answers": [
+        "shake"
+      ],
+      "explainKo": "정답: shake"
+    },
+    {
+      "id": 91,
+      "group": "중2능률-L05-X10어휘-WpA04-91",
+      "type": "TST",
+      "question": "Words Plus+ A04. 두 단어의 관계가 같도록 빈칸에 적절한 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n04 goal : target = perhaps : ______",
+      "answers": [
+        "maybe"
+      ],
+      "explainKo": "정답: maybe"
+    },
+    {
+      "id": 92,
+      "group": "중2능률-L05-X10어휘-WpA05-92",
+      "type": "TST",
+      "question": "Words Plus+ A05. 두 단어의 관계가 같도록 빈칸에 적절한 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n05 child : children = ______ : people",
+      "answers": [
+        "person"
+      ],
+      "explainKo": "정답: person"
+    },
+    {
+      "id": 93,
+      "group": "중2능률-L05-X10어휘-WpB01-93",
+      "type": "TST",
+      "question": "Words Plus+ B01. 주어진 조건에 맞게 빈칸에 적절한 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n01 fail (반의어)",
+      "answers": [
+        "succeed"
+      ],
+      "explainKo": "정답: succeed"
+    },
+    {
+      "id": 94,
+      "group": "중2능률-L05-X10어휘-WpB02-94",
+      "type": "TST",
+      "question": "Words Plus+ B02. 주어진 조건에 맞게 빈칸에 적절한 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n02 remember (반의어)",
+      "answers": [
+        "forget"
+      ],
+      "explainKo": "정답: forget"
+    },
+    {
+      "id": 95,
+      "group": "중2능률-L05-X10어휘-WpB03-95",
+      "type": "TST",
+      "question": "Words Plus+ B03. 주어진 조건에 맞게 빈칸에 적절한 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n03 unique (유의어)",
+      "answers": [
+        "special"
+      ],
+      "explainKo": "정답: special"
+    },
+    {
+      "id": 96,
+      "group": "중2능률-L05-X10어휘-WpB04-96",
+      "type": "TST",
+      "question": "Words Plus+ B04. 주어진 조건에 맞게 빈칸에 적절한 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n04 quickly (유의어)",
+      "answers": [
+        "fast"
+      ],
+      "explainKo": "정답: fast"
+    },
+    {
+      "id": 97,
+      "group": "중2능률-L05-X10어휘-WpB05-97",
+      "type": "TST",
+      "question": "Words Plus+ B05. 주어진 조건에 맞게 빈칸에 적절한 단어를 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n05 positive (반의어)",
+      "answers": [
+        "negative"
+      ],
+      "explainKo": "정답: negative"
+    }
+  ]
+}

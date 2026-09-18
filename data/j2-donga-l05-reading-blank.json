@@ -1,0 +1,288 @@
+{
+  "id": "j2-donga-l05-reading-blank",
+  "title": "중2동아 L05 X-10 Reading 빈칸 완성",
+  "sourceFile": "중2동아_L05_X-10_Reading_빈칸_완성하기.xlsx",
+  "questionCount": 28,
+  "questions": [
+    {
+      "id": 1,
+      "group": "중2동아-L05-X10빈칸-01-01",
+      "type": "TST",
+      "question": "01. Reading 빈칸 완성하기. 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nModern street art comes in ______ and it ______ cities colorful and lively.",
+      "answers": [
+        "many different forms, makes"
+      ],
+      "explainKo": "정답: many different forms, makes"
+    },
+    {
+      "id": 2,
+      "group": "중2동아-L05-X10빈칸-02-02",
+      "type": "TST",
+      "question": "02. Reading 빈칸 완성하기. 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nToday, we are ______ some well-known street ______ in London.",
+      "answers": [
+        "going to see, artworks"
+      ],
+      "explainKo": "정답: going to see, artworks"
+    },
+    {
+      "id": 3,
+      "group": "중2동아-L05-X10빈칸-03-03",
+      "type": "TST",
+      "question": "03. Reading 빈칸 완성하기. 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n______ we are going to ______ Shoreditch.",
+      "answers": [
+        "The place that, visit is"
+      ],
+      "explainKo": "정답: The place that, visit is"
+    },
+    {
+      "id": 4,
+      "group": "중2동아-L05-X10빈칸-04-04",
+      "type": "TST",
+      "question": "04. Reading 빈칸 완성하기. 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nPoor workers ______ in this area, but now it is ______ of the ______ in London.",
+      "answers": [
+        "used to live, one, hippest areas"
+      ],
+      "explainKo": "정답: used to live, one, hippest areas"
+    },
+    {
+      "id": 5,
+      "group": "중2동아-L05-X10빈칸-05-05",
+      "type": "TST",
+      "question": "05. Reading 빈칸 완성하기. 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nWe can ______ so many ______ pieces of ______ here.",
+      "answers": [
+        "find, great, street art"
+      ],
+      "explainKo": "정답: find, great, street art"
+    },
+    {
+      "id": 6,
+      "group": "중2동아-L05-X10빈칸-06-06",
+      "type": "TST",
+      "question": "06. Reading 빈칸 완성하기. 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n______ the painting over there?",
+      "answers": [
+        "Do you see"
+      ],
+      "explainKo": "정답: Do you see"
+    },
+    {
+      "id": 7,
+      "group": "중2동아-L05-X10빈칸-07-07",
+      "type": "TST",
+      "question": "07. Reading 빈칸 완성하기. 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n______ is ______ the ______ STIK.",
+      "answers": [
+        "It, by, artist"
+      ],
+      "explainKo": "정답: It, by, artist"
+    },
+    {
+      "id": 8,
+      "group": "중2동아-L05-X10빈칸-08-08",
+      "type": "TST",
+      "question": "08. Reading 빈칸 완성하기. 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nHe is famous for ______ lines and dots in his paintings of ______.",
+      "answers": [
+        "using only, human bodies"
+      ],
+      "explainKo": "정답: using only, human bodies"
+    },
+    {
+      "id": 9,
+      "group": "중2동아-L05-X10빈칸-09-09",
+      "type": "TST",
+      "question": "09. Reading 빈칸 완성하기. 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nAccording to STIK, the ______ represent the ______, ______ and ______ of Shoreditch.",
+      "answers": [
+        "three figures, past, present, future"
+      ],
+      "explainKo": "정답: three figures, past, present, future"
+    },
+    {
+      "id": 10,
+      "group": "중2동아-L05-X10빈칸-10-10",
+      "type": "TST",
+      "question": "10. Reading 빈칸 완성하기. 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nWhich figure ______ which?",
+      "answers": [
+        "represents"
+      ],
+      "explainKo": "정답: represents"
+    },
+    {
+      "id": 11,
+      "group": "중2동아-L05-X10빈칸-11-11",
+      "type": "TST",
+      "question": "11. Reading 빈칸 완성하기. 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nWell, ______ closely ______ the eyes of the ______.",
+      "answers": [
+        "look, at, three figures"
+      ],
+      "explainKo": "정답: look, at, three figures"
+    },
+    {
+      "id": 12,
+      "group": "중2동아-L05-X10빈칸-12-12",
+      "type": "TST",
+      "question": "12. Reading 빈칸 완성하기. 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nThey are just ______ but they will ______ a clue.",
+      "answers": [
+        "dots, give you"
+      ],
+      "explainKo": "정답: dots, give you"
+    },
+    {
+      "id": 13,
+      "group": "중2동아-L05-X10빈칸-13-13",
+      "type": "TST",
+      "question": "13. Reading 빈칸 완성하기. 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nWe are now in Finsbury Park ______ a painting by Banksy, an internationally ______.",
+      "answers": [
+        "to see, famous street artist"
+      ],
+      "explainKo": "정답: to see, famous street artist"
+    },
+    {
+      "id": 14,
+      "group": "중2동아-L05-X10빈칸-14-14",
+      "type": "TST",
+      "question": "14. Reading 빈칸 완성하기. 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nBanksy's artworks often carry ______ and the ______ you see over there is a ______.",
+      "answers": [
+        "social messages, green tree, good example"
+      ],
+      "explainKo": "정답: social messages, green tree, good example"
+    },
+    {
+      "id": 15,
+      "group": "중2동아-L05-X10빈칸-15-15",
+      "type": "TST",
+      "question": "15. Reading 빈칸 완성하기. 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n______ you can see, he created a green tree ______ green paint on a wall behind a ______.",
+      "answers": [
+        "As, by spraying, leafless tree"
+      ],
+      "explainKo": "정답: As, by spraying, leafless tree"
+    },
+    {
+      "id": 16,
+      "group": "중2동아-L05-X10빈칸-16-16",
+      "type": "TST",
+      "question": "16. Reading 빈칸 완성하기. 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nNext to the tree, ______ a person ______ a sprayer.",
+      "answers": [
+        "there is, who is holding"
+      ],
+      "explainKo": "정답: there is, who is holding"
+    },
+    {
+      "id": 17,
+      "group": "중2동아-L05-X10빈칸-17-17",
+      "type": "TST",
+      "question": "17. Reading 빈칸 완성하기. 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n______ message ______ Banksy want to ______ through this painting?",
+      "answers": [
+        "What, does, give us"
+      ],
+      "explainKo": "정답: What, does, give us"
+    },
+    {
+      "id": 18,
+      "group": "중2동아-L05-X10빈칸-18-18",
+      "type": "TST",
+      "question": "18. Reading 빈칸 완성하기. 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nIn many people's ______, he is ______ that nature is having a ______.",
+      "answers": [
+        "opinion, telling us, hard time"
+      ],
+      "explainKo": "정답: opinion, telling us, hard time"
+    },
+    {
+      "id": 19,
+      "group": "중2동아-L05-X10빈칸-19-19",
+      "type": "TST",
+      "question": "19. Reading 빈칸 완성하기. 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nThey ______ he ______ us to ______ better ______ it.",
+      "answers": [
+        "think, wants, take, care of"
+      ],
+      "explainKo": "정답: think, wants, take, care of"
+    },
+    {
+      "id": 20,
+      "group": "중2동아-L05-X10빈칸-20-20",
+      "type": "TST",
+      "question": "20. Reading 빈칸 완성하기. 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nThe ______ of our ______ today is Muswell Hill.",
+      "answers": [
+        "final stop, tour"
+      ],
+      "explainKo": "정답: final stop, tour"
+    },
+    {
+      "id": 21,
+      "group": "중2동아-L05-X10빈칸-21-21",
+      "type": "TST",
+      "question": "21. Reading 빈칸 완성하기. 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n______ see ______ street ______?",
+      "answers": [
+        "Can't, any, artworks"
+      ],
+      "explainKo": "정답: Can't, any, artworks"
+    },
+    {
+      "id": 22,
+      "group": "중2동아-L05-X10빈칸-22-22",
+      "type": "TST",
+      "question": "22. Reading 빈칸 완성하기. 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nWell, look ______ and look ______.",
+      "answers": [
+        "down, closely"
+      ],
+      "explainKo": "정답: down, closely"
+    },
+    {
+      "id": 23,
+      "group": "중2동아-L05-X10빈칸-23-23",
+      "type": "TST",
+      "question": "23. Reading 빈칸 완성하기. 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nDo you ______ the ______ chewing gum ______?",
+      "answers": [
+        "see, little, paintings"
+      ],
+      "explainKo": "정답: see, little, paintings"
+    },
+    {
+      "id": 24,
+      "group": "중2동아-L05-X10빈칸-24-24",
+      "type": "TST",
+      "question": "24. Reading 빈칸 완성하기. 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰시오.\n______ by the ______ Ben Wilson.",
+      "answers": [
+        "They are, artist"
+      ],
+      "explainKo": "정답: They are, artist"
+    },
+    {
+      "id": 25,
+      "group": "중2동아-L05-X10빈칸-25-25",
+      "type": "TST",
+      "question": "25. Reading 빈칸 완성하기. 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nWilson is ______ known ______ pictures on gum ______ people ______ on the street.",
+      "answers": [
+        "well, for painting, that, drop"
+      ],
+      "explainKo": "정답: well, for painting, that, drop"
+    },
+    {
+      "id": 26,
+      "group": "중2동아-L05-X10빈칸-26-26",
+      "type": "TST",
+      "question": "26. Reading 빈칸 완성하기. 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nHis gum paintings often carry ______ from people he meets ______.",
+      "answers": [
+        "personal messages, on the street"
+      ],
+      "explainKo": "정답: personal messages, on the street"
+    },
+    {
+      "id": 27,
+      "group": "중2동아-L05-X10빈칸-27-27",
+      "type": "TST",
+      "question": "27. Reading 빈칸 완성하기. 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nFor example, the one ______ is a happy ______ wish for a ______.",
+      "answers": [
+        "over here, birthday, loved one"
+      ],
+      "explainKo": "정답: over here, birthday, loved one"
+    },
+    {
+      "id": 28,
+      "group": "중2동아-L05-X10빈칸-28-28",
+      "type": "TST",
+      "question": "28. Reading 빈칸 완성하기. 빈칸에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nWilson's ______ are tiny, but they give ______ to many people.",
+      "answers": [
+        "gum paintings, great pleasure"
+      ],
+      "explainKo": "정답: gum paintings, great pleasure"
+    }
+  ]
+}

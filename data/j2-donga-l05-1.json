@@ -1,0 +1,346 @@
+{
+  "id": "j2-donga-l05-1",
+  "title": "중2동아 L05 X-10 최종점검 모의고사 1회",
+  "sourceFile": "중2동아_L05_X-10_최종점검_모의고사_1회.xlsx",
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": 1,
+      "group": "중2동아-L05-최종1-01-01",
+      "type": "TMC",
+      "question": "01. 다음 중 짝지어진 두 단어의 관계가 나머지와 다른 것은?",
+      "answers": [
+        "leaf : leafless",
+        "color : colorful",
+        "pride : proud",
+        "final : finally",
+        "person : personal"
+      ],
+      "explainKo": "정답은 4번입니다.",
+      "corAns": "4"
+    },
+    {
+      "id": 2,
+      "group": "중2동아-L05-최종1-02-02",
+      "type": "TST",
+      "question": "02. 다음 영영풀이에 해당하는 단어를 주어진 철자로 시작하여 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nto send many small drops of water or other things into the air or onto something\nS-",
+      "answers": [
+        "spray"
+      ],
+      "explainKo": "정답: spray"
+    },
+    {
+      "id": 3,
+      "group": "중2동아-L05-최종1-03-03",
+      "type": "TMC",
+      "question": "03. 다음 빈칸 ⓐ~ⓒ에 들어갈 말이 바르게 짝지어진 것은?\n• Please ⓐ ______ your gum quietly.\n• He is an important ⓑ ______ in history.\n• Reading books gives me great ⓒ ______.",
+      "answers": [
+        "chew / form / pleasure",
+        "chew / form / present",
+        "chew / figure / pleasure",
+        "clue / figure / present",
+        "clue / future / place"
+      ],
+      "explainKo": "정답은 3번입니다.",
+      "corAns": "3"
+    },
+    {
+      "id": 4,
+      "group": "중2동아-L05-최종1-04-04",
+      "type": "TMC",
+      "question": "04. 위 대화의 밑줄 친 ⓐ의 의미로 가장 적절한 것은?\nB: I'm sorry, but how can I get to the Sky Cinema?\nG: It's not far, but ⓐit's a little difficult to find. Why don't you take a taxi?\nB: OK. How long will it take?\nG: By taxi? About 20 minutes.",
+      "answers": [
+        "스카이 시네마는 지도에 없다.",
+        "스카이 시네마는 쉽게 눈에 띈다.",
+        "스카이 시네마로 가는 길은 약간 복잡하다.",
+        "스카이 시네마는 시내에 위치해 있다.",
+        "스카이 시네마가 어디에 있는지 모른다."
+      ],
+      "explainKo": "정답은 3번입니다.",
+      "corAns": "3"
+    },
+    {
+      "id": 5,
+      "group": "중2동아-L05-최종1-05-05",
+      "type": "TMC",
+      "question": "05. 위 대화가 끝난 후 소년이 할 일로 가장 적절한 것은?\nB: I'm sorry, but how can I get to the Sky Cinema?\nG: It's not far, but ⓐit's a little difficult to find. Why don't you take a taxi?\nB: OK. How long will it take?\nG: By taxi? About 20 minutes.",
+      "answers": [
+        "He will take a taxi.",
+        "He will go back home.",
+        "He will wait for someone.",
+        "He will walk to the Sky Cinema.",
+        "He will ask another person for help."
+      ],
+      "explainKo": "정답은 1번입니다.",
+      "corAns": "1"
+    },
+    {
+      "id": 6,
+      "group": "중2동아-L05-최종1-06-06",
+      "type": "TMC",
+      "question": "06. 위 대화의",
+      "answers": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "explainKo": "정답은 4번입니다.",
+      "corAns": "4"
+    },
+    {
+      "id": 7,
+      "group": "중2동아-L05-최종1-07-07",
+      "type": "TMC",
+      "question": "07. 위 대화의 빈칸 ⓐ와 ⓑ에 들어갈 말로 바르게 짝지어진 것은?\nB: Somi, I need help. What's the best way to get to Sebit Park from here? (",
+      "answers": [
+        "get on / live in",
+        "get off / live in",
+        "get on / come with",
+        "get off / come with",
+        "get on / look down"
+      ],
+      "explainKo": "정답은 4번입니다.",
+      "corAns": "4"
+    },
+    {
+      "id": 8,
+      "group": "중2동아-L05-최종1-08-08",
+      "type": "TMC",
+      "question": "08. 위 대화의 내용과 일치하지 않는 것은?\nB: Somi, I need help. What's the best way to get to Sebit Park from here? (",
+      "answers": [
+        "Q: Which line should Liam take? A: He should take line 3.",
+        "Q: Where should Liam get off? A: He should get off at Sebit Station.",
+        "Q: Why is Liam going to Sebit Park? A: There is an art fair.",
+        "Q: When will Liam and Somi go to Sebit Park? A: This Saturday.",
+        "Q: Where will Liam and Somi meet? A: They will meet in front of Sebit Station."
+      ],
+      "explainKo": "정답은 5번입니다.",
+      "corAns": "5"
+    },
+    {
+      "id": 9,
+      "group": "중2동아-L05-최종1-09-09",
+      "type": "TMCMA",
+      "question": "09. 다음 빈칸에 들어갈 말로 적절한 것을 모두 고르면?\nThe book ______ my brother read was written by a French writer.",
+      "answers": [
+        "who",
+        "which",
+        "whose",
+        "what",
+        "that"
+      ],
+      "explainKo": "정답 번호는 2,5입니다.",
+      "corAns": "2,5"
+    },
+    {
+      "id": 10,
+      "group": "중2동아-L05-최종1-10-10",
+      "type": "TST",
+      "question": "10. 다음 두 문장을 한 문장으로 바꿔 쓸 때, 빈칸에 들어갈 적절한 말을 쓰시오.\nI like the movie. We watched it together.\n→ I like the movie ______ together.",
+      "answers": [
+        "which[that] we watched",
+        "which we watched",
+        "that we watched"
+      ],
+      "explainKo": "정답: which[that] we watched"
+    },
+    {
+      "id": 11,
+      "group": "중2동아-L05-최종1-11-11",
+      "type": "TMC",
+      "question": "11. 다음 중 밑줄 친 부분을 생략할 수 없는 것은?",
+      "answers": [
+        "He found the card that I lost yesterday.",
+        "This is the restaurant that I recommended.",
+        "I visited the place that you told me about.",
+        "Can you see the girl that is dancing over there?",
+        "She is wearing a new cap that I really want to buy."
+      ],
+      "explainKo": "정답은 4번입니다.",
+      "corAns": "4"
+    },
+    {
+      "id": 12,
+      "group": "중2동아-L05-최종1-12-12",
+      "type": "TMC",
+      "question": "12. 다음 중 used to를 would로 바꿀 수 없는 것은?",
+      "answers": [
+        "He used to wear glasses when he was young.",
+        "I used to enjoy watching horror movies.",
+        "Did he use to have a cat?",
+        "Dad didn't use to talk much.",
+        "There used to be a house with a garden here."
+      ],
+      "explainKo": "정답은 5번입니다.",
+      "corAns": "5"
+    },
+    {
+      "id": 13,
+      "group": "중2동아-L05-최종1-13-13",
+      "type": "TST",
+      "question": "13. 밑줄 친 ⓐ~ⓒ 중 어법상 틀린 것을 두 개 찾아 바르게 고쳐 문장을 다시 쓰시오.\nA: Did you used to live in Seoul?\nB: Yes, I did. But now I live in Busan.\nA: Really? I used to go to Busan every summer.\nB: That's nice! I used not to like the beach, but now I enjoy it a lot.",
+      "answers": [
+        "(1) ⓐ, Did you use to live in Seoul? (2) ⓒ, I didn't use to like the beach, but now I enjoy it a lot.",
+        "Did you use to live in Seoul? / I didn't use to like the beach, but now I enjoy it a lot."
+      ],
+      "explainKo": "정답: (1) ⓐ, Did you use to live in Seoul?"
+    },
+    {
+      "id": 14,
+      "group": "중2동아-L05-최종1-14-14",
+      "type": "TMC",
+      "question": "14. 윗글의 밑줄 친 ⓐ~ⓔ가 가리키는 것으로 적절하지 않은 것은?\nModern street art comes in many different forms, and it makes cities colorful and lively. Today, we are going to see some well-known street artworks in London.\nThe place (A) ______ we are going to visit is Shoreditch. (",
+      "answers": [
+        "ⓐ: modern street art",
+        "ⓑ: Shoreditch",
+        "ⓒ: STIK",
+        "ⓓ: the eyes of the three figures",
+        "ⓔ: the past, present, and future of Shoreditch"
+      ],
+      "explainKo": "정답은 5번입니다.",
+      "corAns": "5"
+    },
+    {
+      "id": 15,
+      "group": "중2동아-L05-최종1-15-15",
+      "type": "TMC",
+      "question": "15. 윗글의 빈칸 (A)와 (C)에 들어갈 말로 바르게 짝지어진 것은?\nModern street art comes in many different forms, and it makes cities colorful and lively. Today, we are going to see some well-known street artworks in London.\nThe place (A) ______ we are going to visit is Shoreditch. (",
+      "answers": [
+        "that / which",
+        "that / that",
+        "which / that",
+        "who / which",
+        "who / that"
+      ],
+      "explainKo": "정답은 1번입니다.",
+      "corAns": "1"
+    },
+    {
+      "id": 16,
+      "group": "중2동아-L05-최종1-16-16",
+      "type": "TMC",
+      "question": "16. 윗글의",
+      "answers": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "explainKo": "정답은 3번입니다.",
+      "corAns": "3"
+    },
+    {
+      "id": 17,
+      "group": "중2동아-L05-최종1-17-17",
+      "type": "TMC",
+      "question": "17. 윗글의 빈칸 (B)에 들어갈 말로 가장 적절한 것은?\nModern street art comes in many different forms, and it makes cities colorful and lively. Today, we are going to see some well-known street artworks in London.\nThe place (A) ______ we are going to visit is Shoreditch. (",
+      "answers": [
+        "use to",
+        "used to",
+        "were used to",
+        "are used to",
+        "get used to"
+      ],
+      "explainKo": "정답은 2번입니다.",
+      "corAns": "2"
+    },
+    {
+      "id": 18,
+      "group": "중2동아-L05-최종1-18-18",
+      "type": "TST",
+      "question": "18. 윗글에서 다음 영영풀이에 해당하는 단어를 찾아 쓰시오.\nvery active and energetic",
+      "answers": [
+        "lively"
+      ],
+      "explainKo": "정답: lively"
+    },
+    {
+      "id": 19,
+      "group": "중2동아-L05-최종1-19-19",
+      "type": "TST",
+      "question": "19. 질문에 대한 답을 조건에 맞게 쓰시오. 문장 전체를 쓰시오.\n[조건] 1. be famous for를 이용하여 총 9단어로 쓸 것. 2. 주어와 동사를 갖춘 완전한 문장으로 쓸 것.\nQ. What is STIK famous for using in his paintings of human bodies?",
+      "answers": [
+        "He is famous for using only lines and dots."
+      ],
+      "explainKo": "정답: He is famous for using only lines and dots."
+    },
+    {
+      "id": 20,
+      "group": "중2동아-L05-최종1-20-20",
+      "type": "TMC",
+      "question": "20. 윗글의 빈칸 (A)와 (B)에 들어갈 말로 바르게 짝지어진 것은?\nWe are now in Finsbury Park to see a painting by Banksy, an internationally famous street artist. Banksy's artworks often carry (A) ______ messages, and the green tree you see over there is a good example.",
+      "answers": [
+        "social / personal",
+        "social / international",
+        "personal / social",
+        "international / personal",
+        "modern / traditional"
+      ],
+      "explainKo": "정답은 1번입니다.",
+      "corAns": "1"
+    },
+    {
+      "id": 21,
+      "group": "중2동아-L05-최종1-21-21",
+      "type": "TMC",
+      "question": "21. 윗글의 밑줄 친",
+      "answers": [
+        "① 보시다시피",
+        "② 나무 앞에",
+        "③ 힘든 시간을 보내고 있는",
+        "④ 내려다보아라",
+        "⑤ 사랑하는 사람"
+      ],
+      "explainKo": "정답은 2번입니다.",
+      "corAns": "2"
+    },
+    {
+      "id": 22,
+      "group": "중2동아-L05-최종1-22-22",
+      "type": "TST",
+      "question": "22. 윗글의 빈칸 ⓐ와 ⓑ에 공통으로 들어갈 말을 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nWe are now in Finsbury Park to see a painting by Banksy, an internationally famous street artist. Banksy's artworks often carry (A) ______ messages, and the green tree you see over there is a good example. ①As you can see, he created a green tree by spraying green paint on a wall behind a leafless tree. ②Next to the tree, there is a person who is holding a sprayer. What message does Banksy want to give us through this painting? In many people's opinion, he is telling us ⓐ ______ nature is having a hard time. They think he wants us to take better care of it.\nThe final stop of our tour today is Muswell Hill. Can't see any street artworks? Well, look down and look closely. Do you see the little chewing gum paintings? They are by the artist Ben Wilson. Wilson is well known for painting pictures on gum ⓑ ______ people drop on the street. His gum paintings often carry (B) ______ messages from people he meets on the street. For example, the one over here is a happy birthday wish for ⑤a loved one. Wilson's gum paintings are tiny, but they give great pleasure ⓒ ______ many people.",
+      "answers": [
+        "that"
+      ],
+      "explainKo": "정답: that"
+    },
+    {
+      "id": 23,
+      "group": "중2동아-L05-최종1-23-23",
+      "type": "TST",
+      "question": "23. 윗글의 빈칸 ⓒ에 들어갈 적절한 말을 쓰시오. 빈칸에 들어갈 말만 쓰시오.\nWe are now in Finsbury Park to see a painting by Banksy, an internationally famous street artist. Banksy's artworks often carry (A) ______ messages, and the green tree you see over there is a good example. ①As you can see, he created a green tree by spraying green paint on a wall behind a leafless tree. ②Next to the tree, there is a person who is holding a sprayer. What message does Banksy want to give us through this painting? In many people's opinion, he is telling us ⓐ ______ nature is having a hard time. They think he wants us to take better care of it.\nThe final stop of our tour today is Muswell Hill. Can't see any street artworks? Well, look down and look closely. Do you see the little chewing gum paintings? They are by the artist Ben Wilson. Wilson is well known for painting pictures on gum ⓑ ______ people drop on the street. His gum paintings often carry (B) ______ messages from people he meets on the street. For example, the one over here is a happy birthday wish for ⑤a loved one. Wilson's gum paintings are tiny, but they give great pleasure ⓒ ______ many people.",
+      "answers": [
+        "to"
+      ],
+      "explainKo": "정답: to"
+    },
+    {
+      "id": 24,
+      "group": "중2동아-L05-최종1-24-24",
+      "type": "TMC",
+      "question": "24. According to the passage, which one CANNOT be answered?\nWe are now in Finsbury Park to see a painting by Banksy, an internationally famous street artist. Banksy's artworks often carry (A) ______ messages, and the green tree you see over there is a good example.",
+      "answers": [
+        "Who painted the artwork in Finsbury Park?",
+        "How did Banksy make the green tree?",
+        "How many gum paintings did Wilson paint?",
+        "What messages do Wilson's gum paintings often carry?",
+        "How big are Wilson's gum paintings?"
+      ],
+      "explainKo": "정답은 3번입니다.",
+      "corAns": "3"
+    },
+    {
+      "id": 25,
+      "group": "중2동아-L05-최종1-25-25",
+      "type": "TST",
+      "question": "25. 윗글을 다음과 같이 요약할 때, 빈칸에 들어갈 적절한 말을 찾아 쓰시오.\n• Banksy painted a ______ to show that ______ needs our care.\n• Ben Wilson paints pictures on ______ and his tiny artworks give ______ great pleasure.",
+      "answers": [
+        "green tree, nature, gum, people"
+      ],
+      "explainKo": "정답: green tree, nature, gum, people"
+    }
+  ]
+}

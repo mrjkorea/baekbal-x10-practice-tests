@@ -1,0 +1,78 @@
+{
+  "id": "j2-neung-l05-dialog-write",
+  "title": "중2능률 L05 X-10 대화 영작",
+  "sourceFile": "중2능률_L05_X-10_대화_영작하기.xlsx",
+  "questionCount": 7,
+  "questions": [
+    {
+      "id": 1,
+      "group": "중2능률-L05-X10대화영작-01-01",
+      "type": "TST",
+      "question": "01. 다음 우리말에 맞도록 대화를 바르게 영작하시오. 문장 전체를 쓰시오.\nB: Rosa, 넌 빵 만드는 걸 잘하니?\nG: 응. 나는 3년 전에 빵 굽는 걸 배우기 시작했어.\nB: 대단하구나. 빵이 틀림없이 맛있을 것 같아.\nG: 고마워. 원하면 좀 먹어볼 수 있어.",
+      "answers": [
+        "B: Rosa, are you good at baking?\nG: Yes. I started learning to bake three years ago.\nB: That's amazing. Your bread must be delicious.\nG: Thanks. You can try some if you want."
+      ],
+      "explainKo": "정답: B: Rosa, are you good at baking?"
+    },
+    {
+      "id": 2,
+      "group": "중2능률-L05-X10대화영작-02-02",
+      "type": "TST",
+      "question": "02. 다음 우리말에 맞도록 대화를 바르게 영작하시오. 문장 전체를 쓰시오.\nB: 뭐하고 있니?\nG: 코딩을 공부하고 있어. 언젠가 게임을 만드는 것이 내 목표야.\nB: 그렇군. 너는 코딩을 잘하니?\nG: 아니, 아직 잘하지는 못해. 하지만 열심히 공부하고 있어.\nB: 좋네. 네가 언젠가 재미있는 게임을 만들 수 있을 거라고 난 확신해.",
+      "answers": [
+        "B: What are you doing?\nG: I'm studying coding. My goal is to make a game someday.\nB: I see. Are you good at coding?\nG: No, I'm not good at it yet. But I'm working hard.\nB: That's good. I'm sure you will create a fun game one day."
+      ],
+      "explainKo": "정답: B: What are you doing?"
+    },
+    {
+      "id": 3,
+      "group": "중2능률-L05-X10대화영작-03-03",
+      "type": "TST",
+      "question": "03. 다음 우리말에 맞도록 대화를 바르게 영작하시오. 문장 전체를 쓰시오.\nB: 안녕, 만나서 반가워. 나는 새 기타리스트 Jake야.\nG: 만나서 반가워. 우리 밴드에 온 것을 환영해! 나는 드럼을 연주하는 Luna야.\nB: 네가 드럼을 잘 친다고 들었어.\nG: 반가운 소리네. 나는 연습을 많이 해.\nB: 그럼, 너와 함께 연주하는 걸 기대해.\nG: 그래, 재미있을 거야! 우리는 멋진 밴드가 될 거라고 난 확신해.",
+      "answers": [
+        "B: Hi, nice to meet you. I'm Jake, the new guitarist.\nG: Nice to meet you. Welcome to our band! I'm Luna, and I play the drums.\nB: Oh, I heard that you are good at playing the drums.\nG: That's nice to hear. I practice a lot.\nB: Well, I look forward to playing with you.\nG: Yes, it will be fun! I'm sure we will make a great band."
+      ],
+      "explainKo": "정답: B: Hi, nice to meet you."
+    },
+    {
+      "id": 4,
+      "group": "중2능률-L05-X10대화영작-04-04",
+      "type": "TST",
+      "question": "04. 다음 우리말에 맞도록 대화를 바르게 영작하시오. 문장 전체를 쓰시오.\nB: 미아, 너 글쓰기에 관심이 있지, 그렇지?\nG: 응. 난 작가가 되고 싶어, 그래서 매일 일기를 쓰지.\nB: 정말 좋네! 난 네가 좋은 작가가 될 거라고 확신해.\nG: 고마워. 수호 너는 어때? 글쓰기를 즐겨 하니?\nB: 재미는 있지만 잘하지는 못해.\nG: 그러면 나와 함께 글쓰기 수업에 참여하지 않을래? 방과 후 프로그램에 새로운 수업이 있어.\nB: 정말? 그것에 대해 좀 더 자세히 말해 줄래?\nG: 물론이지. 그건 매주 수요일 오후 5시에 학교 도서관에서 열려. 수필 쓰는 법을 배울 수 있지.\nB: 좋아. 같이 가입하자.\nG: 너무 좋아!",
+      "answers": [
+        "B: Mia, you're interested in writing, right?\nG: Yes. I want to be a writer, so I keep a diary every day.\nB: That's great! I'm sure you will be a good writer.\nG: Thank you. How about you, Suho? Do you enjoy writing?\nB: I enjoy it, but I'm not good at it.\nG: Then why don't you join a writing class with me? There's a new one in the after-school program.\nB: Really? Can you tell me more about it?\nG: Sure. It is held every Wednesday at 5:00 p.m. in the school library. We can learn to write essays.\nB: That sounds good. Let's sign up together.\nG: Great!"
+      ],
+      "explainKo": "정답: B: Mia, you're interested in writing, right?"
+    },
+    {
+      "id": 5,
+      "group": "중2능률-L05-X10대화영작-05-05",
+      "type": "TST",
+      "question": "05. 다음 우리말에 맞도록 대화를 바르게 영작하시오. 문장 전체를 쓰시오.\nA: 축구 수업을 듣고 싶어.\nB: 알겠어. 넌 축구 잘하니?\nA: 응, 그래. / 아니, 그렇지 않아.\nB: 좋아! 난 네가 수업을 즐길 거라고 확신해. / 괜찮아. 난 네가 수업을 통해 많은 것을 배울 수 있을 거라고 확신해.",
+      "answers": [
+        "A: I want to take the soccer class.\nB: Okay. Are you good at playing soccer?\nA: Yes, I am. / No, I'm not.\nB: Great! I'm sure you will enjoy the class. / That's okay. I'm sure you will learn a lot from the class."
+      ],
+      "explainKo": "정답: A: I want to take the soccer class."
+    },
+    {
+      "id": 6,
+      "group": "중2능률-L05-X10대화영작-06-06",
+      "type": "TST",
+      "question": "06. 다음 우리말에 맞도록 대화를 바르게 영작하시오. 문장 전체를 쓰시오.\nG: 지원아, 너의 춤 영상을 소셜 미디어에서 봤어.\nB: 정말? 그것에 대해 어떻게 생각했니?\nG: 정말 놀라웠어. 넌 정말 춤을 잘 추는구나!\nB: 고마워. 나는 종종 춤 영상을 만들어서 그것들을 게시해.\nG: 훌륭해. 봐, 이 영상에 댓글이 많이 달렸어. 사람들이 네 춤 동작이 마음에 든다고 하더라.\nB: 그 말을 들으니 기쁘네. 하지만 더 연습해야 해.\nG: 넌 이미 잘하는 것 같아.\nB: 사실, 요즘 새로운 춤 동작을 연습하고 있어. 정말 어려워.\nG: 그렇군. 난 네가 그것들을 빨리 배울 거라고 확신해!",
+      "answers": [
+        "G: Jiwon, I saw your dance video on social media.\nB: Really? What did you think of it?\nG: It was amazing. You are really good at dancing!\nB: Thank you. I often make dance videos and post them.\nG: That's great. Look, this video got a lot of comments. People said that they loved your dance moves.\nB: I'm glad to hear that. But I should practice more.\nG: I think you're already good.\nB: Actually, I'm practicing new dance moves these days. They are very difficult.\nG: I see. I'm sure you will learn them quickly!"
+      ],
+      "explainKo": "정답: G: Jiwon, I saw your dance video on social media."
+    },
+    {
+      "id": 7,
+      "group": "중2능률-L05-X10대화영작-07-07",
+      "type": "TST",
+      "question": "07. 다음 우리말에 맞도록 대화를 바르게 영작하시오. 문장 전체를 쓰시오.\nA: 내 오른쪽에 앉은 사람은 진호야.\nB: 그에게 뭐라고 썼어?\nA: \"너는 발표를 잘하는구나.\"라고 썼어.\nC: 좋네. 그는 그것을 어떻게 잘하게 되었니?\nA: 그는 다른 사람들 앞에서 말하는 연습을 했어.\nB: 난 그가 너의 메시지에 고마워할 거라고 확신해.",
+      "answers": [
+        "A: The person who sits to my right is Jinho.\nB: What did you write to him?\nA: I wrote, \"You are good at giving presentations.\"\nC: That's nice. How did he become good at it?\nA: He practiced speaking in front of other people.\nB: I'm sure he will be thankful for your message."
+      ],
+      "explainKo": "정답: A: The person who sits to my right is Jinho."
+    }
+  ]
+}

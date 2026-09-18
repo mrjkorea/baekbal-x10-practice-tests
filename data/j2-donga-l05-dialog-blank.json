@@ -1,0 +1,738 @@
+{
+  "id": "j2-donga-l05-dialog-blank",
+  "title": "중2동아 L05 X-10 대화 빈칸 완성",
+  "sourceFile": "중2동아_L05_X-10_대화_빈칸_완성하기.xlsx",
+  "questionCount": 73,
+  "questions": [
+    {
+      "id": 1,
+      "group": "중2동아-L05-X10대화빈칸-01-01-01",
+      "type": "TST",
+      "question": "01-01. 대화 빈칸 완성하기 1번 (Watch and Talk A-1). 빈칸에 들어갈 말만 쓰시오. 정답 순서 1: how can에 해당하는 빈칸.",
+      "answers": [
+        "how can"
+      ],
+      "explainKo": "정답: how can"
+    },
+    {
+      "id": 2,
+      "group": "중2동아-L05-X10대화빈칸-01-02-02",
+      "type": "TST",
+      "question": "01-02. 대화 빈칸 완성하기 1번 (Watch and Talk A-1). 빈칸에 들어갈 말만 쓰시오. 정답 순서 2: by subway에 해당하는 빈칸.",
+      "answers": [
+        "by subway"
+      ],
+      "explainKo": "정답: by subway"
+    },
+    {
+      "id": 3,
+      "group": "중2동아-L05-X10대화빈칸-01-03-03",
+      "type": "TST",
+      "question": "01-03. 대화 빈칸 완성하기 1번 (Watch and Talk A-1). 빈칸에 들어갈 말만 쓰시오. 정답 순서 3: get off에 해당하는 빈칸.",
+      "answers": [
+        "get off"
+      ],
+      "explainKo": "정답: get off"
+    },
+    {
+      "id": 4,
+      "group": "중2동아-L05-X10대화빈칸-01-04-04",
+      "type": "TST",
+      "question": "01-04. 대화 빈칸 완성하기 1번 (Watch and Talk A-1). 빈칸에 들어갈 말만 쓰시오. 정답 순서 4: Got it에 해당하는 빈칸.",
+      "answers": [
+        "Got it"
+      ],
+      "explainKo": "정답: Got it"
+    },
+    {
+      "id": 5,
+      "group": "중2동아-L05-X10대화빈칸-01-05-05",
+      "type": "TST",
+      "question": "01-05. 대화 빈칸 완성하기 1번 (Watch and Talk A-1). 빈칸에 들어갈 말만 쓰시오. 정답 순서 5: take에 해당하는 빈칸.",
+      "answers": [
+        "take"
+      ],
+      "explainKo": "정답: take"
+    },
+    {
+      "id": 6,
+      "group": "중2동아-L05-X10대화빈칸-01-06-06",
+      "type": "TST",
+      "question": "01-06. 대화 빈칸 완성하기 1번 (Watch and Talk A-1). 빈칸에 들어갈 말만 쓰시오. 정답 순서 6: more than에 해당하는 빈칸.",
+      "answers": [
+        "more than"
+      ],
+      "explainKo": "정답: more than"
+    },
+    {
+      "id": 7,
+      "group": "중2동아-L05-X10대화빈칸-02-01-07",
+      "type": "TST",
+      "question": "02-01. 대화 빈칸 완성하기 2번 (Watch and Talk A-2). 빈칸에 들어갈 말만 쓰시오. 정답 순서 1: get to에 해당하는 빈칸.",
+      "answers": [
+        "get to"
+      ],
+      "explainKo": "정답: get to"
+    },
+    {
+      "id": 8,
+      "group": "중2동아-L05-X10대화빈칸-02-02-08",
+      "type": "TST",
+      "question": "02-02. 대화 빈칸 완성하기 2번 (Watch and Talk A-2). 빈칸에 들어갈 말만 쓰시오. 정답 순서 2: not에 해당하는 빈칸.",
+      "answers": [
+        "not"
+      ],
+      "explainKo": "정답: not"
+    },
+    {
+      "id": 9,
+      "group": "중2동아-L05-X10대화빈칸-02-03-09",
+      "type": "TST",
+      "question": "02-03. 대화 빈칸 완성하기 2번 (Watch and Talk A-2). 빈칸에 들어갈 말만 쓰시오. 정답 순서 3: to find에 해당하는 빈칸.",
+      "answers": [
+        "to find"
+      ],
+      "explainKo": "정답: to find"
+    },
+    {
+      "id": 10,
+      "group": "중2동아-L05-X10대화빈칸-02-04-10",
+      "type": "TST",
+      "question": "02-04. 대화 빈칸 완성하기 2번 (Watch and Talk A-2). 빈칸에 들어갈 말만 쓰시오. 정답 순서 4: don't you에 해당하는 빈칸.",
+      "answers": [
+        "don't you"
+      ],
+      "explainKo": "정답: don't you"
+    },
+    {
+      "id": 11,
+      "group": "중2동아-L05-X10대화빈칸-02-05-11",
+      "type": "TST",
+      "question": "02-05. 대화 빈칸 완성하기 2번 (Watch and Talk A-2). 빈칸에 들어갈 말만 쓰시오. 정답 순서 5: taxi에 해당하는 빈칸.",
+      "answers": [
+        "taxi"
+      ],
+      "explainKo": "정답: taxi"
+    },
+    {
+      "id": 12,
+      "group": "중2동아-L05-X10대화빈칸-02-06-12",
+      "type": "TST",
+      "question": "02-06. 대화 빈칸 완성하기 2번 (Watch and Talk A-2). 빈칸에 들어갈 말만 쓰시오. 정답 순서 6: will에 해당하는 빈칸.",
+      "answers": [
+        "will"
+      ],
+      "explainKo": "정답: will"
+    },
+    {
+      "id": 13,
+      "group": "중2동아-L05-X10대화빈칸-02-07-13",
+      "type": "TST",
+      "question": "02-07. 대화 빈칸 완성하기 2번 (Watch and Talk A-2). 빈칸에 들어갈 말만 쓰시오. 정답 순서 7: take에 해당하는 빈칸.",
+      "answers": [
+        "take"
+      ],
+      "explainKo": "정답: take"
+    },
+    {
+      "id": 14,
+      "group": "중2동아-L05-X10대화빈칸-02-08-14",
+      "type": "TST",
+      "question": "02-08. 대화 빈칸 완성하기 2번 (Watch and Talk A-2). 빈칸에 들어갈 말만 쓰시오. 정답 순서 8: By taxi에 해당하는 빈칸.",
+      "answers": [
+        "By taxi"
+      ],
+      "explainKo": "정답: By taxi"
+    },
+    {
+      "id": 15,
+      "group": "중2동아-L05-X10대화빈칸-03-01-15",
+      "type": "TST",
+      "question": "03-01. 대화 빈칸 완성하기 3번 (Watch and Talk A-3). 빈칸에 들어갈 말만 쓰시오. 정답 순서 1: help에 해당하는 빈칸.",
+      "answers": [
+        "help"
+      ],
+      "explainKo": "정답: help"
+    },
+    {
+      "id": 16,
+      "group": "중2동아-L05-X10대화빈칸-03-02-16",
+      "type": "TST",
+      "question": "03-02. 대화 빈칸 완성하기 3번 (Watch and Talk A-3). 빈칸에 들어갈 말만 쓰시오. 정답 순서 2: get to에 해당하는 빈칸.",
+      "answers": [
+        "get to"
+      ],
+      "explainKo": "정답: get to"
+    },
+    {
+      "id": 17,
+      "group": "중2동아-L05-X10대화빈칸-03-03-17",
+      "type": "TST",
+      "question": "03-03. 대화 빈칸 완성하기 3번 (Watch and Talk A-3). 빈칸에 들어갈 말만 쓰시오. 정답 순서 3: from here에 해당하는 빈칸.",
+      "answers": [
+        "from here"
+      ],
+      "explainKo": "정답: from here"
+    },
+    {
+      "id": 18,
+      "group": "중2동아-L05-X10대화빈칸-03-04-18",
+      "type": "TST",
+      "question": "03-04. 대화 빈칸 완성하기 3번 (Watch and Talk A-3). 빈칸에 들어갈 말만 쓰시오. 정답 순서 4: You can에 해당하는 빈칸.",
+      "answers": [
+        "You can"
+      ],
+      "explainKo": "정답: You can"
+    },
+    {
+      "id": 19,
+      "group": "중2동아-L05-X10대화빈칸-03-05-19",
+      "type": "TST",
+      "question": "03-05. 대화 빈칸 완성하기 3번 (Watch and Talk A-3). 빈칸에 들어갈 말만 쓰시오. 정답 순서 5: far에 해당하는 빈칸.",
+      "answers": [
+        "far"
+      ],
+      "explainKo": "정답: far"
+    },
+    {
+      "id": 20,
+      "group": "중2동아-L05-X10대화빈칸-03-06-20",
+      "type": "TST",
+      "question": "03-06. 대화 빈칸 완성하기 3번 (Watch and Talk A-3). 빈칸에 들어갈 말만 쓰시오. 정답 순서 6: by bus에 해당하는 빈칸.",
+      "answers": [
+        "by bus"
+      ],
+      "explainKo": "정답: by bus"
+    },
+    {
+      "id": 21,
+      "group": "중2동아-L05-X10대화빈칸-03-07-21",
+      "type": "TST",
+      "question": "03-07. 대화 빈칸 완성하기 3번 (Watch and Talk A-3). 빈칸에 들어갈 말만 쓰시오. 정답 순서 7: How long에 해당하는 빈칸.",
+      "answers": [
+        "How long"
+      ],
+      "explainKo": "정답: How long"
+    },
+    {
+      "id": 22,
+      "group": "중2동아-L05-X10대화빈칸-03-08-22",
+      "type": "TST",
+      "question": "03-08. 대화 빈칸 완성하기 3번 (Watch and Talk A-3). 빈칸에 들어갈 말만 쓰시오. 정답 순서 8: long에 해당하는 빈칸.",
+      "answers": [
+        "long"
+      ],
+      "explainKo": "정답: long"
+    },
+    {
+      "id": 23,
+      "group": "중2동아-L05-X10대화빈칸-03-09-23",
+      "type": "TST",
+      "question": "03-09. 대화 빈칸 완성하기 3번 (Watch and Talk A-3). 빈칸에 들어갈 말만 쓰시오. 정답 순서 9: minutes에 해당하는 빈칸.",
+      "answers": [
+        "minutes"
+      ],
+      "explainKo": "정답: minutes"
+    },
+    {
+      "id": 24,
+      "group": "중2동아-L05-X10대화빈칸-04-01-24",
+      "type": "TST",
+      "question": "04-01. 대화 빈칸 완성하기 4번 (Watch and Talk A-4). 빈칸에 들어갈 말만 쓰시오. 정답 순서 1: I'm going to에 해당하는 빈칸.",
+      "answers": [
+        "I'm going to"
+      ],
+      "explainKo": "정답: I'm going to"
+    },
+    {
+      "id": 25,
+      "group": "중2동아-L05-X10대화빈칸-04-02-25",
+      "type": "TST",
+      "question": "04-02. 대화 빈칸 완성하기 4번 (Watch and Talk A-4). 빈칸에 들어갈 말만 쓰시오. 정답 순서 2: What's에 해당하는 빈칸.",
+      "answers": [
+        "What's"
+      ],
+      "explainKo": "정답: What's"
+    },
+    {
+      "id": 26,
+      "group": "중2동아-L05-X10대화빈칸-04-03-26",
+      "type": "TST",
+      "question": "04-03. 대화 빈칸 완성하기 4번 (Watch and Talk A-4). 빈칸에 들어갈 말만 쓰시오. 정답 순서 3: get에 해당하는 빈칸.",
+      "answers": [
+        "get"
+      ],
+      "explainKo": "정답: get"
+    },
+    {
+      "id": 27,
+      "group": "중2동아-L05-X10대화빈칸-04-04-27",
+      "type": "TST",
+      "question": "04-04. 대화 빈칸 완성하기 4번 (Watch and Talk A-4). 빈칸에 들어갈 말만 쓰시오. 정답 순서 4: walk에 해당하는 빈칸.",
+      "answers": [
+        "walk"
+      ],
+      "explainKo": "정답: walk"
+    },
+    {
+      "id": 28,
+      "group": "중2동아-L05-X10대화빈칸-04-05-28",
+      "type": "TST",
+      "question": "04-05. 대화 빈칸 완성하기 4번 (Watch and Talk A-4). 빈칸에 들어갈 말만 쓰시오. 정답 순서 5: turn left에 해당하는 빈칸.",
+      "answers": [
+        "turn left"
+      ],
+      "explainKo": "정답: turn left"
+    },
+    {
+      "id": 29,
+      "group": "중2동아-L05-X10대화빈칸-04-06-29",
+      "type": "TST",
+      "question": "04-06. 대화 빈칸 완성하기 4번 (Watch and Talk A-4). 빈칸에 들어갈 말만 쓰시오. 정답 순서 6: your에 해당하는 빈칸.",
+      "answers": [
+        "your"
+      ],
+      "explainKo": "정답: your"
+    },
+    {
+      "id": 30,
+      "group": "중2동아-L05-X10대화빈칸-04-07-30",
+      "type": "TST",
+      "question": "04-07. 대화 빈칸 완성하기 4번 (Watch and Talk A-4). 빈칸에 들어갈 말만 쓰시오. 정답 순서 7: How long에 해당하는 빈칸.",
+      "answers": [
+        "How long"
+      ],
+      "explainKo": "정답: How long"
+    },
+    {
+      "id": 31,
+      "group": "중2동아-L05-X10대화빈칸-04-08-31",
+      "type": "TST",
+      "question": "04-08. 대화 빈칸 완성하기 4번 (Watch and Talk A-4). 빈칸에 들어갈 말만 쓰시오. 정답 순서 8: about에 해당하는 빈칸.",
+      "answers": [
+        "about"
+      ],
+      "explainKo": "정답: about"
+    },
+    {
+      "id": 32,
+      "group": "중2동아-L05-X10대화빈칸-04-09-32",
+      "type": "TST",
+      "question": "04-09. 대화 빈칸 완성하기 4번 (Watch and Talk A-4). 빈칸에 들어갈 말만 쓰시오. 정답 순서 9: minutes에 해당하는 빈칸.",
+      "answers": [
+        "minutes"
+      ],
+      "explainKo": "정답: minutes"
+    },
+    {
+      "id": 33,
+      "group": "중2동아-L05-X10대화빈칸-04-10-33",
+      "type": "TST",
+      "question": "04-10. 대화 빈칸 완성하기 4번 (Watch and Talk A-4). 빈칸에 들어갈 말만 쓰시오. 정답 순서 10: Really에 해당하는 빈칸.",
+      "answers": [
+        "Really"
+      ],
+      "explainKo": "정답: Really"
+    },
+    {
+      "id": 34,
+      "group": "중2동아-L05-X10대화빈칸-05-01-34",
+      "type": "TST",
+      "question": "05-01. 대화 빈칸 완성하기 5번 (Watch and Talk C). 빈칸에 들어갈 말만 쓰시오. 정답 순서 1: need에 해당하는 빈칸.",
+      "answers": [
+        "need"
+      ],
+      "explainKo": "정답: need"
+    },
+    {
+      "id": 35,
+      "group": "중2동아-L05-X10대화빈칸-05-02-35",
+      "type": "TST",
+      "question": "05-02. 대화 빈칸 완성하기 5번 (Watch and Talk C). 빈칸에 들어갈 말만 쓰시오. 정답 순서 2: the best way에 해당하는 빈칸.",
+      "answers": [
+        "the best way"
+      ],
+      "explainKo": "정답: the best way"
+    },
+    {
+      "id": 36,
+      "group": "중2동아-L05-X10대화빈칸-05-03-36",
+      "type": "TST",
+      "question": "05-03. 대화 빈칸 완성하기 5번 (Watch and Talk C). 빈칸에 들어갈 말만 쓰시오. 정답 순서 3: here에 해당하는 빈칸.",
+      "answers": [
+        "here"
+      ],
+      "explainKo": "정답: here"
+    },
+    {
+      "id": 37,
+      "group": "중2동아-L05-X10대화빈칸-05-04-37",
+      "type": "TST",
+      "question": "05-04. 대화 빈칸 완성하기 5번 (Watch and Talk C). 빈칸에 들어갈 말만 쓰시오. 정답 순서 4: get there에 해당하는 빈칸.",
+      "answers": [
+        "get there"
+      ],
+      "explainKo": "정답: get there"
+    },
+    {
+      "id": 38,
+      "group": "중2동아-L05-X10대화빈칸-05-05-38",
+      "type": "TST",
+      "question": "05-05. 대화 빈칸 완성하기 5번 (Watch and Talk C). 빈칸에 들어갈 말만 쓰시오. 정답 순서 5: better에 해당하는 빈칸.",
+      "answers": [
+        "better"
+      ],
+      "explainKo": "정답: better"
+    },
+    {
+      "id": 39,
+      "group": "중2동아-L05-X10대화빈칸-05-06-39",
+      "type": "TST",
+      "question": "05-06. 대화 빈칸 완성하기 5번 (Watch and Talk C). 빈칸에 들어갈 말만 쓰시오. 정답 순서 6: should에 해당하는 빈칸.",
+      "answers": [
+        "should"
+      ],
+      "explainKo": "정답: should"
+    },
+    {
+      "id": 40,
+      "group": "중2동아-L05-X10대화빈칸-05-07-40",
+      "type": "TST",
+      "question": "05-07. 대화 빈칸 완성하기 5번 (Watch and Talk C). 빈칸에 들어갈 말만 쓰시오. 정답 순서 7: take에 해당하는 빈칸.",
+      "answers": [
+        "take"
+      ],
+      "explainKo": "정답: take"
+    },
+    {
+      "id": 41,
+      "group": "중2동아-L05-X10대화빈칸-05-08-41",
+      "type": "TST",
+      "question": "05-08. 대화 빈칸 완성하기 5번 (Watch and Talk C). 빈칸에 들어갈 말만 쓰시오. 정답 순서 8: Take line에 해당하는 빈칸.",
+      "answers": [
+        "Take line"
+      ],
+      "explainKo": "정답: Take line"
+    },
+    {
+      "id": 42,
+      "group": "중2동아-L05-X10대화빈칸-05-09-42",
+      "type": "TST",
+      "question": "05-09. 대화 빈칸 완성하기 5번 (Watch and Talk C). 빈칸에 들어갈 말만 쓰시오. 정답 순서 9: get off에 해당하는 빈칸.",
+      "answers": [
+        "get off"
+      ],
+      "explainKo": "정답: get off"
+    },
+    {
+      "id": 43,
+      "group": "중2동아-L05-X10대화빈칸-05-10-43",
+      "type": "TST",
+      "question": "05-10. 대화 빈칸 완성하기 5번 (Watch and Talk C). 빈칸에 들어갈 말만 쓰시오. 정답 순서 10: How long에 해당하는 빈칸.",
+      "answers": [
+        "How long"
+      ],
+      "explainKo": "정답: How long"
+    },
+    {
+      "id": 44,
+      "group": "중2동아-L05-X10대화빈칸-05-11-44",
+      "type": "TST",
+      "question": "05-11. 대화 빈칸 완성하기 5번 (Watch and Talk C). 빈칸에 들어갈 말만 쓰시오. 정답 순서 11: It'll에 해당하는 빈칸.",
+      "answers": [
+        "It'll"
+      ],
+      "explainKo": "정답: It'll"
+    },
+    {
+      "id": 45,
+      "group": "중2동아-L05-X10대화빈칸-05-12-45",
+      "type": "TST",
+      "question": "05-12. 대화 빈칸 완성하기 5번 (Watch and Talk C). 빈칸에 들어갈 말만 쓰시오. 정답 순서 12: minutes에 해당하는 빈칸.",
+      "answers": [
+        "minutes"
+      ],
+      "explainKo": "정답: minutes"
+    },
+    {
+      "id": 46,
+      "group": "중2동아-L05-X10대화빈칸-05-13-46",
+      "type": "TST",
+      "question": "05-13. 대화 빈칸 완성하기 5번 (Watch and Talk C). 빈칸에 들어갈 말만 쓰시오. 정답 순서 13: that far에 해당하는 빈칸.",
+      "answers": [
+        "that far"
+      ],
+      "explainKo": "정답: that far"
+    },
+    {
+      "id": 47,
+      "group": "중2동아-L05-X10대화빈칸-05-14-47",
+      "type": "TST",
+      "question": "05-14. 대화 빈칸 완성하기 5번 (Watch and Talk C). 빈칸에 들어갈 말만 쓰시오. 정답 순서 14: going to에 해당하는 빈칸.",
+      "answers": [
+        "going to"
+      ],
+      "explainKo": "정답: going to"
+    },
+    {
+      "id": 48,
+      "group": "중2동아-L05-X10대화빈칸-05-15-48",
+      "type": "TST",
+      "question": "05-15. 대화 빈칸 완성하기 5번 (Watch and Talk C). 빈칸에 들어갈 말만 쓰시오. 정답 순서 15: art fair에 해당하는 빈칸.",
+      "answers": [
+        "art fair"
+      ],
+      "explainKo": "정답: art fair"
+    },
+    {
+      "id": 49,
+      "group": "중2동아-L05-X10대화빈칸-05-16-49",
+      "type": "TST",
+      "question": "05-16. 대화 빈칸 완성하기 5번 (Watch and Talk C). 빈칸에 들어갈 말만 쓰시오. 정답 순서 16: come with에 해당하는 빈칸.",
+      "answers": [
+        "come with"
+      ],
+      "explainKo": "정답: come with"
+    },
+    {
+      "id": 50,
+      "group": "중2동아-L05-X10대화빈칸-05-17-50",
+      "type": "TST",
+      "question": "05-17. 대화 빈칸 완성하기 5번 (Watch and Talk C). 빈칸에 들어갈 말만 쓰시오. 정답 순서 17: want에 해당하는 빈칸.",
+      "answers": [
+        "want"
+      ],
+      "explainKo": "정답: want"
+    },
+    {
+      "id": 51,
+      "group": "중2동아-L05-X10대화빈칸-05-18-51",
+      "type": "TST",
+      "question": "05-18. 대화 빈칸 완성하기 5번 (Watch and Talk C). 빈칸에 들어갈 말만 쓰시오. 정답 순서 18: this Saturday에 해당하는 빈칸.",
+      "answers": [
+        "this Saturday"
+      ],
+      "explainKo": "정답: this Saturday"
+    },
+    {
+      "id": 52,
+      "group": "중2동아-L05-X10대화빈칸-05-19-52",
+      "type": "TST",
+      "question": "05-19. 대화 빈칸 완성하기 5번 (Watch and Talk C). 빈칸에 들어갈 말만 쓰시오. 정답 순서 19: go에 해당하는 빈칸.",
+      "answers": [
+        "go"
+      ],
+      "explainKo": "정답: go"
+    },
+    {
+      "id": 53,
+      "group": "중2동아-L05-X10대화빈칸-05-20-53",
+      "type": "TST",
+      "question": "05-20. 대화 빈칸 완성하기 5번 (Watch and Talk C). 빈칸에 들어갈 말만 쓰시오. 정답 순서 20: Perfect에 해당하는 빈칸.",
+      "answers": [
+        "Perfect"
+      ],
+      "explainKo": "정답: Perfect"
+    },
+    {
+      "id": 54,
+      "group": "중2동아-L05-X10대화빈칸-05-21-54",
+      "type": "TST",
+      "question": "05-21. 대화 빈칸 완성하기 5번 (Watch and Talk C). 빈칸에 들어갈 말만 쓰시오. 정답 순서 21: meet에 해당하는 빈칸.",
+      "answers": [
+        "meet"
+      ],
+      "explainKo": "정답: meet"
+    },
+    {
+      "id": 55,
+      "group": "중2동아-L05-X10대화빈칸-06-01-55",
+      "type": "TST",
+      "question": "06-01. 대화 빈칸 완성하기 6번 (Speak Up). 빈칸에 들어갈 말만 쓰시오. 정답 순서 1: how you can에 해당하는 빈칸.",
+      "answers": [
+        "how you can"
+      ],
+      "explainKo": "정답: how you can"
+    },
+    {
+      "id": 56,
+      "group": "중2동아-L05-X10대화빈칸-06-02-56",
+      "type": "TST",
+      "question": "06-02. 대화 빈칸 완성하기 6번 (Speak Up). 빈칸에 들어갈 말만 쓰시오. 정답 순서 2: from에 해당하는 빈칸.",
+      "answers": [
+        "from"
+      ],
+      "explainKo": "정답: from"
+    },
+    {
+      "id": 57,
+      "group": "중2동아-L05-X10대화빈칸-06-03-57",
+      "type": "TST",
+      "question": "06-03. 대화 빈칸 완성하기 6번 (Speak Up). 빈칸에 들어갈 말만 쓰시오. 정답 순서 3: to get there에 해당하는 빈칸.",
+      "answers": [
+        "to get there"
+      ],
+      "explainKo": "정답: to get there"
+    },
+    {
+      "id": 58,
+      "group": "중2동아-L05-X10대화빈칸-06-04-58",
+      "type": "TST",
+      "question": "06-04. 대화 빈칸 완성하기 6번 (Speak Up). 빈칸에 들어갈 말만 쓰시오. 정답 순서 4: take에 해당하는 빈칸.",
+      "answers": [
+        "take"
+      ],
+      "explainKo": "정답: take"
+    },
+    {
+      "id": 59,
+      "group": "중2동아-L05-X10대화빈칸-06-05-59",
+      "type": "TST",
+      "question": "06-05. 대화 빈칸 완성하기 6번 (Speak Up). 빈칸에 들어갈 말만 쓰시오. 정답 순서 5: only take에 해당하는 빈칸.",
+      "answers": [
+        "only take"
+      ],
+      "explainKo": "정답: only take"
+    },
+    {
+      "id": 60,
+      "group": "중2동아-L05-X10대화빈칸-07-01-60",
+      "type": "TST",
+      "question": "07-01. 대화 빈칸 완성하기 7번 (Review 1). 빈칸에 들어갈 말만 쓰시오. 정답 순서 1: get to에 해당하는 빈칸.",
+      "answers": [
+        "get to"
+      ],
+      "explainKo": "정답: get to"
+    },
+    {
+      "id": 61,
+      "group": "중2동아-L05-X10대화빈칸-07-02-61",
+      "type": "TST",
+      "question": "07-02. 대화 빈칸 완성하기 7번 (Review 1). 빈칸에 들어갈 말만 쓰시오. 정답 순서 2: can take에 해당하는 빈칸.",
+      "answers": [
+        "can take"
+      ],
+      "explainKo": "정답: can take"
+    },
+    {
+      "id": 62,
+      "group": "중2동아-L05-X10대화빈칸-07-03-62",
+      "type": "TST",
+      "question": "07-03. 대화 빈칸 완성하기 7번 (Review 1). 빈칸에 들어갈 말만 쓰시오. 정답 순서 3: it take에 해당하는 빈칸.",
+      "answers": [
+        "it take"
+      ],
+      "explainKo": "정답: it take"
+    },
+    {
+      "id": 63,
+      "group": "중2동아-L05-X10대화빈칸-07-04-63",
+      "type": "TST",
+      "question": "07-04. 대화 빈칸 완성하기 7번 (Review 1). 빈칸에 들어갈 말만 쓰시오. 정답 순서 4: about에 해당하는 빈칸.",
+      "answers": [
+        "about"
+      ],
+      "explainKo": "정답: about"
+    },
+    {
+      "id": 64,
+      "group": "중2동아-L05-X10대화빈칸-07-05-64",
+      "type": "TST",
+      "question": "07-05. 대화 빈칸 완성하기 7번 (Review 1). 빈칸에 들어갈 말만 쓰시오. 정답 순서 5: minutes에 해당하는 빈칸.",
+      "answers": [
+        "minutes"
+      ],
+      "explainKo": "정답: minutes"
+    },
+    {
+      "id": 65,
+      "group": "중2동아-L05-X10대화빈칸-08-01-65",
+      "type": "TST",
+      "question": "08-01. 대화 빈칸 완성하기 8번 (Review 2). 빈칸에 들어갈 말만 쓰시오. 정답 순서 1: how can I에 해당하는 빈칸.",
+      "answers": [
+        "how can I"
+      ],
+      "explainKo": "정답: how can I"
+    },
+    {
+      "id": 66,
+      "group": "중2동아-L05-X10대화빈칸-08-02-66",
+      "type": "TST",
+      "question": "08-02. 대화 빈칸 완성하기 8번 (Review 2). 빈칸에 들어갈 말만 쓰시오. 정답 순서 2: here에 해당하는 빈칸.",
+      "answers": [
+        "here"
+      ],
+      "explainKo": "정답: here"
+    },
+    {
+      "id": 67,
+      "group": "중2동아-L05-X10대화빈칸-08-03-67",
+      "type": "TST",
+      "question": "08-03. 대화 빈칸 완성하기 8번 (Review 2). 빈칸에 들어갈 말만 쓰시오. 정답 순서 3: by bus에 해당하는 빈칸.",
+      "answers": [
+        "by bus"
+      ],
+      "explainKo": "정답: by bus"
+    },
+    {
+      "id": 68,
+      "group": "중2동아-L05-X10대화빈칸-08-04-68",
+      "type": "TST",
+      "question": "08-04. 대화 빈칸 완성하기 8번 (Review 2). 빈칸에 들어갈 말만 쓰시오. 정답 순서 4: faster에 해당하는 빈칸.",
+      "answers": [
+        "faster"
+      ],
+      "explainKo": "정답: faster"
+    },
+    {
+      "id": 69,
+      "group": "중2동아-L05-X10대화빈칸-08-05-69",
+      "type": "TST",
+      "question": "08-05. 대화 빈칸 완성하기 8번 (Review 2). 빈칸에 들어갈 말만 쓰시오. 정답 순서 5: bus에 해당하는 빈칸.",
+      "answers": [
+        "bus"
+      ],
+      "explainKo": "정답: bus"
+    },
+    {
+      "id": 70,
+      "group": "중2동아-L05-X10대화빈칸-08-06-70",
+      "type": "TST",
+      "question": "08-06. 대화 빈칸 완성하기 8번 (Review 2). 빈칸에 들어갈 말만 쓰시오. 정답 순서 6: subway에 해당하는 빈칸.",
+      "answers": [
+        "subway"
+      ],
+      "explainKo": "정답: subway"
+    },
+    {
+      "id": 71,
+      "group": "중2동아-L05-X10대화빈칸-08-07-71",
+      "type": "TST",
+      "question": "08-07. 대화 빈칸 완성하기 8번 (Review 2). 빈칸에 들어갈 말만 쓰시오. 정답 순서 7: I think에 해당하는 빈칸.",
+      "answers": [
+        "I think"
+      ],
+      "explainKo": "정답: I think"
+    },
+    {
+      "id": 72,
+      "group": "중2동아-L05-X10대화빈칸-08-08-72",
+      "type": "TST",
+      "question": "08-08. 대화 빈칸 완성하기 8번 (Review 2). 빈칸에 들어갈 말만 쓰시오. 정답 순서 8: faster에 해당하는 빈칸.",
+      "answers": [
+        "faster"
+      ],
+      "explainKo": "정답: faster"
+    },
+    {
+      "id": 73,
+      "group": "중2동아-L05-X10대화빈칸-08-09-73",
+      "type": "TST",
+      "question": "08-09. 대화 빈칸 완성하기 8번 (Review 2). 빈칸에 들어갈 말만 쓰시오. 정답 순서 9: bus에 해당하는 빈칸.",
+      "answers": [
+        "bus"
+      ],
+      "explainKo": "정답: bus"
+    }
+  ]
+}
